@@ -1,0 +1,97 @@
+{
+  "updated_at": "2026-08-24T15:58:30Z",
+  "playlists": [
+    {
+      "file": "news.m3u",
+      "title": "India + Pakistan News",
+      "streams_tested": 372,
+      "channels_working": 192,
+      "kept_previous": false,
+      "top_failures": {
+        "unreachable (timed out)": 30,
+        "segment HTTP 404": 13,
+        "HTTP 404": 8,
+        "HTTP 401": 7,
+        "HTTP 403": 4
+      }
+    },
+    {
+      "file": "music.m3u",
+      "title": "India + Pakistan Music",
+      "streams_tested": 86,
+      "channels_working": 38,
+      "kept_previous": false,
+      "top_failures": {
+        "unreachable (timed out)": 10,
+        "HTTP 403": 7,
+        "segment HTTP 404": 2,
+        "HTTP 502": 1,
+        "manifest has no segments": 1
+      }
+    },
+    {
+      "file": "movies.m3u",
+      "title": "India + Pakistan Movies",
+      "streams_tested": 107,
+      "channels_working": 32,
+      "kept_previous": false,
+      "top_failures": {
+        "unreachable (timed out)": 24,
+        "unreachable ([WinError 10061] No connection could be )": 15,
+        "HTTP 403": 12,
+        "HTTP 404": 4,
+        "HTTP 502": 2
+      }
+    },
+    {
+      "file": "entertainment.m3u",
+      "title": "India + Pakistan Entertainment",
+      "streams_tested": 175,
+      "channels_working": 78,
+      "kept_previous": false,
+      "top_failures": {
+        "unreachable (timed out)": 30,
+        "HTTP 403": 7,
+        "segment HTTP 404": 6,
+        "HTTP 404": 3,
+        "unreachable ([WinError 10061] No connection could be )": 3
+      }
+    },
+    {
+      "file": "kids.m3u",
+      "title": "India + Pakistan Kids",
+      "streams_tested": 16,
+      "channels_working": 8,
+      "kept_previous": false,
+      "top_failures": {
+        "unreachable (timed out)": 3,
+        "unreachable ([WinError 10061] No connection could be )": 2,
+        "HTTP 502": 1
+      }
+    },
+    {
+      "file": "religious-pk.m3u",
+      "title": "Pakistan Religious",
+      "streams_tested": 16,
+      "channels_working": 9,
+      "kept_previous": false,
+      "top_failures": {
+        "unreachable (timed out)": 2
+      }
+    },
+    {
+      "file": "sports.m3u",
+      "title": "International Sports",
+      "streams_tested": 551,
+      "channels_working": 189,
+      "kept_previous": false,
+      "top_failures": {
+        "HTTP 403": 108,
+        "segment HTTP 404": 73,
+        "unreachable (timed out)": 49,
+        "segment TimeoutError": 13,
+        "segment HTTP 403": 11
+      }
+    }
+  ]
+}

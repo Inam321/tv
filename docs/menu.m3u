@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 content-type="playlist" description="192 channels",News
+#EXTSIZE: big
+#EXTBG: #1D3B5C
+https://raw.githubusercontent.com/Inam321/tv/main/docs/news.m3u
+#EXTINF:-1 content-type="playlist" description="189 channels",Sports
+#EXTSIZE: big
+#EXTBG: #1F5B3A
+https://raw.githubusercontent.com/Inam321/tv/main/docs/sports.m3u
+#EXTINF:-1 content-type="playlist" description="78 channels",Entertainment
+#EXTSIZE: medium
+#EXTBG: #5C2A4A
+https://raw.githubusercontent.com/Inam321/tv/main/docs/entertainment.m3u
+#EXTINF:-1 content-type="playlist" description="38 channels",Music
+#EXTSIZE: medium
+#EXTBG: #6B3A12
+https://raw.githubusercontent.com/Inam321/tv/main/docs/music.m3u
+#EXTINF:-1 content-type="playlist" description="32 channels",Movies
+#EXTSIZE: medium
+#EXTBG: #3A2B5C
+https://raw.githubusercontent.com/Inam321/tv/main/docs/movies.m3u
+#EXTINF:-1 content-type="playlist" description="8 channels",Kids
+#EXTSIZE: small
+#EXTBG: #7A4A0F
+https://raw.githubusercontent.com/Inam321/tv/main/docs/kids.m3u
+#EXTINF:-1 content-type="playlist" description="9 channels",Religious
+#EXTSIZE: small
+#EXTBG: #2A4A4A
+https://raw.githubusercontent.com/Inam321/tv/main/docs/religious-pk.m3u
