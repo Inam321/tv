@@ -134,6 +134,7 @@ def main():
             "name": c.get("name") or c["id"],
             "country": c.get("country") or "",
             "categories": set(c.get("categories") or []),
+            "names": [c.get("name") or "", c["id"]] + (c.get("alt_names") or []),
         }
     log(f"  usable channels (not closed / not nsfw): {len(meta):,}")
 
@@ -182,9 +183,14 @@ def main():
     summary = []
 
     for pl in cfg["playlists"]:
-        wanted_cats = set(pl["categories"])
+        wanted_cats = set(pl["categories"]) if pl.get("categories") else None
         wanted_countries = (set(x.upper() for x in pl["countries"])
                             if pl.get("countries") else None)
+        patterns = [re.compile(p, re.I) for p in (pl.get("match") or [])]
+
+        if wanted_cats is None and not patterns:
+            log(f"  !! {pl['file']}: needs 'categories' or 'match', skipping")
+            continue
 
         rows = []
         seen_urls = set()
@@ -193,7 +199,11 @@ def main():
         for cid, m in meta.items():
             if wanted_countries and m["country"] not in wanted_countries:
                 continue
-            if not (m["categories"] & wanted_cats):
+            if wanted_cats is not None and not (m["categories"] & wanted_cats):
+                continue
+            if patterns and not any(p.search(n)
+                                    for p in patterns
+                                    for n in m["names"] if n):
                 continue
             cand = by_channel.get(cid)
             if not cand:
@@ -228,7 +238,10 @@ def main():
         lines = ["#EXTM3U"]
         for m, cid, s in rows:
             country = m["country"]
-            group = f"{country} {pl['categories'][0].title()}"
+            label = (pl.get("folder")
+                     or (pl["categories"][0].title() if pl.get("categories")
+                         else pl["title"]))
+            group = f"{country} {label}".strip()
             title = s.get("title") or m["name"]
             if s.get("quality"):
                 title += f" ({s['quality']})"

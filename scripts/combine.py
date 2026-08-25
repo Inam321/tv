@@ -31,17 +31,18 @@ import os
 import re
 import sys
 
-# playlist file -> folder name shown on the TV. Order here is the order
-# the folders appear in.
-FOLDERS = [
-    ("news.m3u", "News"),
-    ("music.m3u", "Music"),
-    ("movies.m3u", "Movies"),
-    ("entertainment.m3u", "Entertainment"),
-    ("kids.m3u", "Kids"),
-    ("religious-pk.m3u", "Religious"),
-    ("sports.m3u", "Sports"),
-]
+def load_folders(config_path):
+    """Read (file, folder label) pairs from config.json, in config order."""
+    with open(config_path, encoding="utf-8") as f:
+        cfg = json.load(f)
+    out = []
+    for pl in cfg["playlists"]:
+        label = (pl.get("folder")
+                 or (pl["categories"][0].title() if pl.get("categories")
+                     else pl["title"]))
+        out.append((pl["file"], label))
+    return out
+
 
 # Country code -> readable name, used to sub-label channels inside a folder.
 CC = {"PK": "Pakistan", "IN": "India"}
@@ -85,6 +86,7 @@ def name_of(extinf):
 
 def main():
     ap = argparse.ArgumentParser()
+    ap.add_argument("--config", default="config.json")
     ap.add_argument("--indir", default="docs")
     ap.add_argument("--out", default="docs/all.m3u")
     ap.add_argument("--prefix-country", action="store_true", default=True,
@@ -95,7 +97,7 @@ def main():
     total = 0
     report = []
 
-    for fname, folder in FOLDERS:
+    for fname, folder in load_folders(args.config):
         entries = parse(os.path.join(args.indir, fname))
         if not entries:
             report.append((folder, 0))
@@ -114,7 +116,7 @@ def main():
             # replace whatever group-title was there with the folder name
             new = re.sub(r'\s*group-title="[^"]*"', "", extinf)
             head, _, chan = new.partition(",")
-            if args.prefix_country and cc in CC and folder != "Religious":
+            if args.prefix_country and cc in CC:
                 chan = f"[{cc}] {chan}"
             lines.append(f'{head} group-title="{folder}",{chan}')
             lines.extend(opts)

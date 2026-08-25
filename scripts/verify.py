@@ -189,6 +189,33 @@ def check(entry, timeout):
         return False, f"segment {type(e).__name__}", time.time() - t0
 
 
+# Failures worth retrying: the server may be slow or briefly overloaded.
+# Definitive rejections (404, 403, 401) are never retried.
+TRANSIENT = re.compile(
+    r"timed out|unreachable|WinError|reset|refused|502|503|504|"
+    r"RemoteDisconnected|IncompleteRead|too little data",
+    re.I,
+)
+
+
+def check_with_retry(entry, timeout, retries=2, backoff=1.5):
+    """Run check() and retry transient failures. Returns (ok, reason, secs)."""
+    total = 0.0
+    reason = "not attempted"
+    for attempt in range(retries + 1):
+        ok, reason, el = check(entry, timeout)
+        total += el
+        if ok:
+            if attempt:
+                reason = f"{reason} (retry {attempt})"
+            return True, reason, total
+        if not TRANSIENT.search(reason):
+            return False, reason, total          # permanent, don't retry
+        if attempt < retries:
+            time.sleep(backoff * (attempt + 1))
+    return False, f"{reason} after {retries + 1} tries", total
+
+
 def count_entries(path):
     try:
         with open(path, encoding="utf-8") as f:
@@ -203,8 +230,11 @@ def main():
     ap.add_argument("--indir", default="build")
     ap.add_argument("--outdir", default="docs")
     ap.add_argument("--reportdir", default="reports")
-    ap.add_argument("--workers", type=int, default=40)
-    ap.add_argument("--timeout", type=int, default=8)
+    ap.add_argument("--workers", type=int, default=15)
+    ap.add_argument("--timeout", type=int, default=15)
+    ap.add_argument("--retries", type=int, default=2,
+                    help="extra attempts for timeouts and "
+                         "connection errors")
     ap.add_argument("--only", help="verify a single playlist file")
     args = ap.parse_args()
 
@@ -238,12 +268,16 @@ def main():
             entries = parse_m3u(f.read())
 
         log(f"\n{pl['title']}  ({pl['file']})")
-        log(f"  testing {len(entries)} streams ...")
+        log(f"  testing {len(entries)} streams "
+            f"(workers {args.workers}, timeout {args.timeout}s, "
+            f"retries {args.retries}) ...")
 
         results = []
         t0 = time.time()
         with cf.ThreadPoolExecutor(max_workers=args.workers) as ex:
-            futs = {ex.submit(check, e, args.timeout): e for e in entries}
+            futs = {ex.submit(check_with_retry, e, args.timeout,
+                                  args.retries): e
+                    for e in entries}
             for fut in cf.as_completed(futs):
                 e = futs[fut]
                 try:

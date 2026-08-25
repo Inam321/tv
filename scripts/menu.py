@@ -34,16 +34,24 @@ import json
 import os
 import sys
 
-# file -> (folder label, tile colour, tile size)
-TILES = [
-    ("news.m3u",          "News",          "#1D3B5C", "big"),
-    ("sports.m3u",        "Sports",        "#1F5B3A", "big"),
-    ("entertainment.m3u", "Entertainment", "#5C2A4A", "medium"),
-    ("music.m3u",         "Music",         "#6B3A12", "medium"),
-    ("movies.m3u",        "Movies",        "#3A2B5C", "medium"),
-    ("kids.m3u",          "Kids",          "#7A4A0F", "small"),
-    ("religious-pk.m3u",  "Religious",     "#2A4A4A", "small"),
-]
+DEFAULT_COLOURS = ["#1D3B5C", "#1F5B3A", "#5C2A4A", "#6B3A12",
+                   "#3A2B5C", "#7A4A0F", "#2A4A4A"]
+
+
+def load_tiles(config_path):
+    """Read (file, label, colour, size) from config.json, in config order."""
+    with open(config_path, encoding="utf-8") as f:
+        cfg = json.load(f)
+    tiles = []
+    for i, pl in enumerate(cfg["playlists"]):
+        label = (pl.get("folder")
+                 or (pl["categories"][0].title() if pl.get("categories")
+                     else pl["title"]))
+        colour = pl.get("colour") or DEFAULT_COLOURS[i % len(DEFAULT_COLOURS)]
+        size = pl.get("size") or ("big" if i < 2 else
+                                  "medium" if i < 5 else "small")
+        tiles.append((pl["file"], label, colour, size))
+    return tiles
 
 
 def main():
@@ -51,6 +59,7 @@ def main():
     ap.add_argument("--base", required=True,
                     help="URL folder the .m3u files are served from, no "
                          "trailing slash")
+    ap.add_argument("--config", default="config.json")
     ap.add_argument("--status", default="docs/status.json")
     ap.add_argument("--out", default="docs/menu.m3u")
     args = ap.parse_args()
@@ -68,7 +77,7 @@ def main():
     total = 0
     shown = []
 
-    for fname, label, colour, size in TILES:
+    for fname, label, colour, size in load_tiles(args.config):
         n = counts.get(fname)
         if n == 0:
             continue                       # skip an empty folder entirely
