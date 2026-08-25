@@ -44,8 +44,9 @@ jobs:
             --indir build \
             --outdir docs \
             --reportdir reports \
-            --workers 40 \
-            --timeout 8
+            --workers 20 \
+            --timeout 12 \
+            --retries 2
 
       # 3. Merge into a single all.m3u with one folder per category, for
       #    players that support group-title (TiviMate, Smarters, VLC, Kodi).
