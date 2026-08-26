@@ -1,5 +1,5 @@
 {
-  "_comment": "Edit this file to change what playlists get built. countries: null means all countries.",
+  "_comment": "Six playlists unchanged. religious-pk.m3u now uses name matching instead of the religious category, so it contains only the Madani channels. ARY QTV patterns are kept so that if iptv-org ever adds a stream for it, it appears automatically on the next run.",
 
   "options": {
     "exclude_geo_blocked": true,
@@ -14,43 +14,70 @@
       "file": "news.m3u",
       "title": "India + Pakistan News",
       "countries": ["IN", "PK"],
-      "categories": ["news"]
-    },
-    {
-      "file": "music.m3u",
-      "title": "India + Pakistan Music",
-      "countries": ["IN", "PK"],
-      "categories": ["music"]
-    },
-    {
-      "file": "movies.m3u",
-      "title": "India + Pakistan Movies",
-      "countries": ["IN", "PK"],
-      "categories": ["movies"]
-    },
-    {
-      "file": "entertainment.m3u",
-      "title": "India + Pakistan Entertainment",
-      "countries": ["IN", "PK"],
-      "categories": ["entertainment", "series", "comedy", "family"]
-    },
-    {
-      "file": "kids.m3u",
-      "title": "India + Pakistan Kids",
-      "countries": ["IN", "PK"],
-      "categories": ["kids", "animation"]
-    },
-    {
-      "file": "religious-pk.m3u",
-      "title": "Pakistan Religious",
-      "countries": ["PK"],
-      "categories": ["religious"]
+      "categories": ["news"],
+      "folder": "News",
+      "colour": "#1D3B5C",
+      "size": "big"
     },
     {
       "file": "sports.m3u",
       "title": "International Sports",
       "countries": null,
-      "categories": ["sports"]
+      "categories": ["sports"],
+      "folder": "Sports",
+      "colour": "#1F5B3A",
+      "size": "big"
+    },
+    {
+      "file": "entertainment.m3u",
+      "title": "India + Pakistan Entertainment",
+      "countries": ["IN", "PK"],
+      "categories": ["entertainment", "series", "comedy", "family"],
+      "folder": "Entertainment",
+      "colour": "#5C2A4A",
+      "size": "medium"
+    },
+    {
+      "file": "music.m3u",
+      "title": "India + Pakistan Music",
+      "countries": ["IN", "PK"],
+      "categories": ["music"],
+      "folder": "Music",
+      "colour": "#6B3A12",
+      "size": "medium"
+    },
+    {
+      "file": "movies.m3u",
+      "title": "India + Pakistan Movies",
+      "countries": ["IN", "PK"],
+      "categories": ["movies"],
+      "folder": "Movies",
+      "colour": "#3A2B5C",
+      "size": "medium"
+    },
+    {
+      "file": "kids.m3u",
+      "title": "India + Pakistan Kids",
+      "countries": ["IN", "PK"],
+      "categories": ["kids", "animation"],
+      "folder": "Kids",
+      "colour": "#7A4A0F",
+      "size": "small"
+    },
+    {
+      "file": "religious-pk.m3u",
+      "title": "Madani Channels",
+      "countries": null,
+      "categories": null,
+      "match": [
+        "^Madani Channel Urdu$",
+        "^Madani Channel English$",
+        "^Madani Channel$",
+        "ary[^a-z0-9]*q[^a-z0-9]*tv"
+      ],
+      "folder": "Madani",
+      "colour": "#2A4A4A",
+      "size": "small"
     }
   ]
 }
