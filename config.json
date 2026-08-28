@@ -1,6 +1,6 @@
 {
   "_comment": "Six playlists unchanged. religious-pk.m3u now uses name matching instead of the religious category, so it contains only the Madani channels. ARY QTV patterns are kept so that if iptv-org ever adds a stream for it, it appears automatically on the next run.",
-
+  "repo": "Inam321/tv",
   "options": {
     "exclude_geo_blocked": true,
     "exclude_bare_ip": false,
@@ -8,13 +8,17 @@
     "max_streams_per_channel_before_verify": 3,
     "max_streams_per_channel_after_verify": 1
   },
-
   "playlists": [
     {
       "file": "news.m3u",
       "title": "India + Pakistan News",
-      "countries": ["IN", "PK"],
-      "categories": ["news"],
+      "countries": [
+        "IN",
+        "PK"
+      ],
+      "categories": [
+        "news"
+      ],
       "folder": "News",
       "colour": "#1D3B5C",
       "size": "big"
@@ -23,7 +27,9 @@
       "file": "sports.m3u",
       "title": "International Sports",
       "countries": null,
-      "categories": ["sports"],
+      "categories": [
+        "sports"
+      ],
       "folder": "Sports",
       "colour": "#1F5B3A",
       "size": "big"
@@ -31,8 +37,16 @@
     {
       "file": "entertainment.m3u",
       "title": "India + Pakistan Entertainment",
-      "countries": ["IN", "PK"],
-      "categories": ["entertainment", "series", "comedy", "family"],
+      "countries": [
+        "IN",
+        "PK"
+      ],
+      "categories": [
+        "entertainment",
+        "series",
+        "comedy",
+        "family"
+      ],
       "folder": "Entertainment",
       "colour": "#5C2A4A",
       "size": "medium"
@@ -40,8 +54,13 @@
     {
       "file": "music.m3u",
       "title": "India + Pakistan Music",
-      "countries": ["IN", "PK"],
-      "categories": ["music"],
+      "countries": [
+        "IN",
+        "PK"
+      ],
+      "categories": [
+        "music"
+      ],
       "folder": "Music",
       "colour": "#6B3A12",
       "size": "medium"
@@ -49,8 +68,13 @@
     {
       "file": "movies.m3u",
       "title": "India + Pakistan Movies",
-      "countries": ["IN", "PK"],
-      "categories": ["movies"],
+      "countries": [
+        "IN",
+        "PK"
+      ],
+      "categories": [
+        "movies"
+      ],
       "folder": "Movies",
       "colour": "#3A2B5C",
       "size": "medium"
@@ -58,8 +82,14 @@
     {
       "file": "kids.m3u",
       "title": "India + Pakistan Kids",
-      "countries": ["IN", "PK"],
-      "categories": ["kids", "animation"],
+      "countries": [
+        "IN",
+        "PK"
+      ],
+      "categories": [
+        "kids",
+        "animation"
+      ],
       "folder": "Kids",
       "colour": "#7A4A0F",
       "size": "small"
