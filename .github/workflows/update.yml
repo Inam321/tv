@@ -2,8 +2,10 @@ name: Update playlists
 
 on:
   schedule:
-    # 02:00 UTC daily = 07:00 Pakistan time
-    - cron: "0 2 * * *"
+    # 02:23 UTC = 07:23 Pakistan time.
+    # Deliberately off the hour: GitHub drops runs scheduled at :00 when
+    # Actions is under load, which is every hour boundary.
+    - cron: "23 2 * * *"
   workflow_dispatch:        # "Run workflow" button in the Actions tab
   push:
     branches: [main]
