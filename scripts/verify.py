@@ -126,7 +126,10 @@ def http_get(url, headers, timeout, max_bytes=200_000, byte_range=None):
         h["Range"] = byte_range
     req = urllib.request.Request(url, headers=h)
     with urllib.request.urlopen(req, timeout=timeout, context=SSL_CTX) as r:
-        return r.status, r.read(max_bytes)
+        # r.url is the final URL after any redirects. Relative paths inside a
+        # manifest must be resolved against THIS, not the URL we asked for,
+        # or every shortened / redirected stream resolves to nonsense.
+        return r.status, r.read(max_bytes), r.url
 
 
 def pick_next(manifest_text, manifest_url, depth=0):
@@ -145,7 +148,7 @@ def check(entry, timeout):
     t0 = time.time()
     hdrs = entry.headers()
     try:
-        status, body = http_get(entry.url, hdrs, timeout)
+        status, body, final_url = http_get(entry.url, hdrs, timeout)
     except urllib.error.HTTPError as e:
         return False, f"HTTP {e.code}", time.time() - t0
     except urllib.error.URLError as e:
@@ -163,21 +166,23 @@ def check(entry, timeout):
         ok = len(body) > 8192
         return ok, "stream data" if ok else "too little data", time.time() - t0
 
-    nxt = pick_next(body.decode("utf-8", "replace"), entry.url)
+    nxt = pick_next(body.decode("utf-8", "replace"), final_url)
     if not nxt:
         return False, "manifest has no segments", time.time() - t0
 
     kind, url2 = nxt
     try:
         if kind == "manifest":
-            s2, b2 = http_get(url2, hdrs, timeout)
+            s2, b2, url2_final = http_get(url2, hdrs, timeout)
             if s2 not in (200, 206) or not b2.lstrip().startswith(b"#EXTM3U"):
                 return False, "variant manifest failed", time.time() - t0
-            n2 = pick_next(b2.decode("utf-8", "replace"), url2, depth=1)
+            n2 = pick_next(b2.decode("utf-8", "replace"),
+                           url2_final, depth=1)
             if not n2:
                 return False, "no segments in variant", time.time() - t0
             url2 = n2[1]
-        s3, b3 = http_get(url2, hdrs, timeout, 32_768, "bytes=0-32767")
+        s3, b3, _ = http_get(url2, hdrs, timeout, 32_768,
+                             "bytes=0-32767")
         if s3 not in (200, 206):
             return False, f"segment HTTP {s3}", time.time() - t0
         if len(b3) < 1024:
