@@ -78,13 +78,42 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add docs reports STATUS.md
           if git diff --staged --quiet; then
             echo "nothing changed"
-          else
-            git commit -m "Update playlists $(date -u '+%Y-%m-%d %H:%M UTC')"
-            git push
+            exit 0
           fi
+
+          # Stream testing takes ~10 minutes. Someone may have pushed to main
+          # in the meantime, which makes our push a non-fast-forward and it
+          # gets rejected. Everything under docs/ and reports/ is regenerated
+          # from scratch each run, so there is nothing to merge: rebase our
+          # index onto the newest origin/main and commit again. The working
+          # tree is left untouched by --mixed, so our fresh files survive.
+          for attempt in 1 2 3 4 5; do
+            git fetch --quiet origin main
+            git reset --quiet --mixed origin/main
+            git add docs reports STATUS.md
+
+            if git diff --staged --quiet; then
+              echo "nothing changed relative to origin/main"
+              exit 0
+            fi
+
+            git commit --quiet -m "Update playlists $(date -u '+%Y-%m-%d %H:%M UTC')"
+
+            if git push --quiet origin HEAD:main; then
+              echo "pushed on attempt $attempt"
+              exit 0
+            fi
+
+            echo "push rejected on attempt $attempt, retrying"
+            sleep $((attempt * 5))
+          done
+
+          echo "could not push after 5 attempts"
+          exit 1
 
       # Keeps the daily schedule alive. GitHub disables cron on public repos
       # after 60 days without repository activity.
