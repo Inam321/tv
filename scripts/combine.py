@@ -29,6 +29,7 @@ import argparse
 import json
 import os
 import re
+import time
 import sys
 
 def load_folders(config_path):
@@ -108,6 +109,7 @@ def main():
     lines = ["#EXTM3U"]
     total = 0
     report = []
+    header_at = len(lines)      # timestamp/counts get inserted here at the end
 
     for fname, folder in load_folders(args.config):
         entries = parse(os.path.join(args.indir, fname))
@@ -136,6 +138,17 @@ def main():
             total += 1
 
         report.append((folder, len(entries)))
+
+    # Insert the header now that the counts are known. Without a timestamp in
+    # the file there is no way to tell a fresh all.m3u from a cached one.
+    stamp = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+    folders_used = [f for f, n in report if n]
+    lines[header_at:header_at] = [
+        "# All playlists combined - one folder per category",
+        f"# {total} channels in {len(folders_used)} folders",
+        f"# folders: {', '.join(folders_used)}",
+        f"# updated {stamp}",
+    ]
 
     os.makedirs(os.path.dirname(args.out) or ".", exist_ok=True)
     with open(args.out, "w", encoding="utf-8", newline="\n") as f:
