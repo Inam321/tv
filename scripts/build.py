@@ -23,7 +23,15 @@ import urllib.error
 import urllib.request
 from collections import defaultdict
 
-API = "https://raw.githubusercontent.com/iptv-org/api/gh-pages"
+# Two mirrors of the same gh-pages branch. raw.githubusercontent.com returns
+# "503 Backend.max_conn reached" when GitHub's edge is saturated, so fall back
+# to the Pages host before giving up.
+API_MIRRORS = (
+    "https://raw.githubusercontent.com/iptv-org/api/gh-pages",
+    "https://iptv-org.github.io/api",
+)
+API = API_MIRRORS[0]
+CACHE_DIR = "cache"
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/120.0 Safari/537.36")
 
@@ -42,17 +50,44 @@ def log(msg):
 
 
 def fetch_json(name, retries=3):
-    url = f"{API}/{name}"
+    """Fetch one API file, trying every mirror, then the local cache.
+
+    Backoff is 5/15/30s per mirror - a saturated edge needs longer than the
+    few seconds a tight retry loop allows.
+    """
+    cache_path = os.path.join(CACHE_DIR, name)
     last = None
-    for attempt in range(retries):
-        try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA})
-            with urllib.request.urlopen(req, timeout=180) as r:
-                return json.loads(r.read().decode("utf-8", "replace"))
-        except Exception as e:                      # noqa: BLE001
-            last = e
-            log(f"    retry {attempt + 1}/{retries} for {name}: {e}")
-            time.sleep(3 * (attempt + 1))
+    for base in API_MIRRORS:
+        for attempt in range(retries):
+            try:
+                req = urllib.request.Request(f"{base}/{name}",
+                                             headers={"User-Agent": UA})
+                with urllib.request.urlopen(req, timeout=180) as r:
+                    raw = r.read().decode("utf-8", "replace")
+                data = json.loads(raw)
+                try:
+                    os.makedirs(CACHE_DIR, exist_ok=True)
+                    with open(cache_path, "w", encoding="utf-8",
+                              newline="\n") as f:
+                        f.write(raw)
+                except OSError:
+                    pass                    # cache is a bonus, never fatal
+                return data
+            except Exception as e:          # noqa: BLE001
+                last = e
+                host = base.split("/")[2]
+                log(f"    retry {attempt + 1}/{retries} for {name} "
+                    f"via {host}: {e}")
+                if attempt < retries - 1:
+                    time.sleep((5, 15, 30)[attempt])
+
+    if os.path.isfile(cache_path):
+        age = (time.time() - os.path.getmtime(cache_path)) / 3600.0
+        log(f"    !! every mirror failed for {name} - using cached copy "
+            f"from {age:.1f}h ago")
+        with open(cache_path, encoding="utf-8") as f:
+            return json.load(f)
+
     raise RuntimeError(f"could not fetch {name}: {last}")
 
 
@@ -187,6 +222,11 @@ def main():
         wanted_countries = (set(x.upper() for x in pl["countries"])
                             if pl.get("countries") else None)
         patterns = [re.compile(p, re.I) for p in (pl.get("match") or [])]
+        # "and" (default): a channel must satisfy categories AND match.
+        # "or": categories OR match is enough - used by documentary.m3u, where
+        # iptv-org files some brands (Da Vinci, Love Nature, Viasat Explore)
+        # under education/outdoor/nothing instead of documentary.
+        match_mode = str(pl.get("match_mode") or "and").lower()
 
         if wanted_cats is None and not patterns:
             log(f"  !! {pl['file']}: needs 'categories' or 'match', skipping")
@@ -199,11 +239,16 @@ def main():
         for cid, m in meta.items():
             if wanted_countries and m["country"] not in wanted_countries:
                 continue
-            if wanted_cats is not None and not (m["categories"] & wanted_cats):
-                continue
-            if patterns and not any(p.search(n)
-                                    for p in patterns
-                                    for n in m["names"] if n):
+            cat_ok = (wanted_cats is None
+                      or bool(m["categories"] & wanted_cats))
+            name_ok = (not patterns
+                       or any(p.search(n)
+                              for p in patterns
+                              for n in m["names"] if n))
+            if match_mode == "or" and wanted_cats is not None and patterns:
+                if not (cat_ok or name_ok):
+                    continue
+            elif not (cat_ok and name_ok):
                 continue
             cand = by_channel.get(cid)
             if not cand:

@@ -45,7 +45,19 @@ def load_folders(config_path):
 
 
 # Country code -> readable name, used to sub-label channels inside a folder.
-CC = {"PK": "Pakistan", "IN": "India"}
+# PK and IN come first everywhere; the rest are here so international channels
+# (Documentary, Sports) still get a [CC] tag instead of an unlabelled name.
+CC = {
+    "PK": "Pakistan", "IN": "India",
+    "US": "United States", "UK": "United Kingdom", "GB": "United Kingdom",
+    "CA": "Canada", "AU": "Australia", "AE": "UAE", "SA": "Saudi Arabia",
+    "TR": "Turkey", "RU": "Russia", "UA": "Ukraine", "HU": "Hungary",
+    "CZ": "Czechia", "RO": "Romania", "BG": "Bulgaria", "HR": "Croatia",
+    "SI": "Slovenia", "PL": "Poland", "SE": "Sweden", "FI": "Finland",
+    "NL": "Netherlands", "DE": "Germany", "FR": "France", "ES": "Spain",
+    "MX": "Mexico", "BR": "Brazil", "ZA": "South Africa", "SG": "Singapore",
+    "MY": "Malaysia", "BD": "Bangladesh", "LK": "Sri Lanka", "NP": "Nepal",
+}
 
 
 def parse(path):

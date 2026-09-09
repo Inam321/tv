@@ -248,6 +248,15 @@ def main():
     opts = cfg.get("options", {})
     keep_after = int(opts.get("max_streams_per_channel_after_verify", 1))
 
+    # Channels to publish even if verification fails from this machine.
+    # Matched case-insensitively against tvg-id or channel name, substring OK.
+    keep_always = [str(x).lower() for x in (opts.get("always_keep") or [])]
+
+    def is_kept(entry):
+        tid = (entry.tvg_id or "").lower()
+        nm = (entry.name or "").lower()
+        return any(k == tid or k in tid or k in nm for k in keep_always)
+
     os.makedirs(args.outdir, exist_ok=True)
     os.makedirs(args.reportdir, exist_ok=True)
 
@@ -300,7 +309,28 @@ def main():
         for _, group in by_chan.items():
             group.sort(key=lambda x: x.rank(), reverse=True)
             chosen.extend(group[:keep_after])
+
+        # always_keep: hosts that block datacenter IPs fail here but play fine
+        # from a home connection. For those channels, publish the best failing
+        # stream instead of deleting the channel - but only if nothing for that
+        # channel passed, so a genuinely working stream is never overridden.
+        rescued = []
+        if keep_always:
+            failed_by_chan = defaultdict(list)
+            for e, ok, _, _ in results:
+                if not ok and e.channel_key not in by_chan and is_kept(e):
+                    failed_by_chan[e.channel_key].append(e)
+            for _, group in failed_by_chan.items():
+                group.sort(key=lambda x: x.rank(), reverse=True)
+                rescued.extend(group[:keep_after])
+            chosen.extend(rescued)
+            if rescued:
+                log(f"  always_keep: published {len(rescued)} unverified "
+                    f"channel(s): "
+                    + ", ".join(sorted(e.name for e in rescued)))
+
         chosen.sort(key=lambda e: (e.group, e.name.lower()))
+        rescued_keys = {e.channel_key for e in rescued}
 
         tested, n_ok = len(results), len(chosen)
         grand_tested += tested
@@ -316,7 +346,9 @@ def main():
         else:
             header = (f"#EXTM3U\n"
                       f"# {pl['title']}\n"
-                      f"# {n_ok} verified working channels\n"
+                      f"# {n_ok - len(rescued)} verified working channels"
+                      + (f", {len(rescued)} kept unverified" if rescued
+                         else "") + "\n"
                       f"# updated {status['updated_at']}\n"
                       f"# generated from https://github.com/iptv-org/iptv\n")
             with open(dst, "w", encoding="utf-8", newline="\n") as f:
@@ -337,7 +369,13 @@ def main():
                         "seconds", "host", "url"])
             for e, ok, reason, el in sorted(
                     results, key=lambda x: (not x[1], x[0].name.lower())):
-                w.writerow([e.name, e.tvg_id, e.group, "YES" if ok else "no",
+                if ok:
+                    flag = "YES"
+                elif e.channel_key in rescued_keys:
+                    flag, reason = "KEPT", f"{reason} - kept by always_keep"
+                else:
+                    flag = "no"
+                w.writerow([e.name, e.tvg_id, e.group, flag,
                             reason, f"{el:.1f}", e.host, e.url])
 
         reasons = Counter(r for _, ok, r, _ in results if not ok)
@@ -353,6 +391,7 @@ def main():
             "title": pl["title"],
             "streams_tested": tested,
             "channels_working": wrote,
+            "channels_unverified": len(rescued),
             "kept_previous": kept_old,
             "top_failures": dict(reasons.most_common(5)),
         })
