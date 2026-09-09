@@ -1,12 +1,16 @@
 {
-  "_comment": "Six playlists unchanged. religious-pk.m3u now uses name matching instead of the religious category, so it contains only the Madani channels. ARY QTV patterns are kept so that if iptv-org ever adds a stream for it, it appears automatically on the next run.",
+  "_comment": "Eight playlists. documentary.m3u is worldwide (countries: null) and uses match_mode 'or', so it takes every channel in the documentary or science category from any country, PLUS the named brands that iptv-org files under education/outdoor/no category (Da Vinci, Love Nature, Viasat Explore, Curiosity, Smithsonian). Discovery and Animal Planet patterns are kept so they appear automatically if a stream ever shows up. religious-pk.m3u uses name matching only, so it contains just the Madani channels.",
   "repo": "Inam321/tv",
   "options": {
     "exclude_geo_blocked": true,
     "exclude_bare_ip": false,
     "exclude_not_24_7": false,
     "max_streams_per_channel_before_verify": 3,
-    "max_streams_per_channel_after_verify": 1
+    "max_streams_per_channel_after_verify": 1,
+    "always_keep": [
+      "SkySportsCricket.ie",
+      "SkySportsCricket.uk"
+    ]
   },
   "playlists": [
     {
@@ -49,6 +53,36 @@
       ],
       "folder": "Entertainment",
       "colour": "#5C2A4A",
+      "size": "medium"
+    },
+    {
+      "file": "documentary.m3u",
+      "title": "World Documentary & Knowledge",
+      "countries": null,
+      "categories": [
+        "documentary",
+        "science"
+      ],
+      "match": [
+        "^national geograph",
+        "nat[^a-z0-9]*geo",
+        "^discovery",
+        "^animal planet",
+        "^history tv18",
+        "^history( channel| hd| tv)?$",
+        "^sony bbc earth",
+        "^bbc earth",
+        "^docubay",
+        "^safari tv",
+        "^love nature",
+        "^curiosity",
+        "^smithsonian",
+        "^da vinci",
+        "^viasat (nature|history|explore)"
+      ],
+      "match_mode": "or",
+      "folder": "Documentary",
+      "colour": "#14524A",
       "size": "medium"
     },
     {
