@@ -1,72 +1,92 @@
 {
-  "updated_at": "2026-09-09T07:27:31Z",
+  "updated_at": "2026-09-09T16:03:16Z",
   "playlists": [
     {
       "file": "news.m3u",
       "title": "India + Pakistan News",
-      "streams_tested": 404,
-      "channels_working": 204,
+      "streams_tested": 403,
+      "channels_working": 196,
+      "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
         "HTTP 404": 59,
         "unreachable (timed out) after 3 tries": 27,
-        "segment HTTP 404": 10,
-        "HTTP 403": 4,
-        "HTTP 401": 2
+        "segment HTTP 404": 15,
+        "HTTP 401": 9,
+        "HTTP 403": 9
       }
     },
     {
       "file": "sports.m3u",
       "title": "International Sports",
-      "streams_tested": 605,
-      "channels_working": 248,
+      "streams_tested": 607,
+      "channels_working": 231,
+      "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 403": 116,
+        "HTTP 403": 137,
         "unreachable (timed out) after 3 tries": 43,
+        "segment HTTP 403": 22,
         "HTTP 404": 21,
-        "segment HTTP 403": 14,
-        "too little data after 3 tries": 6
+        "segment HTTP 404": 7
       }
     },
     {
       "file": "entertainment.m3u",
       "title": "India + Pakistan Entertainment",
-      "streams_tested": 177,
-      "channels_working": 88,
+      "streams_tested": 179,
+      "channels_working": 83,
+      "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "unreachable (timed out) after 3 tries": 24,
-        "HTTP 404": 20,
-        "segment HTTP 404": 7,
-        "segment HTTP 403": 4,
-        "HTTP 403": 3
+        "unreachable (timed out) after 3 tries": 21,
+        "HTTP 404": 19,
+        "segment HTTP 404": 8,
+        "HTTP 403": 4,
+        "segment HTTP 403": 4
+      }
+    },
+    {
+      "file": "documentary.m3u",
+      "title": "World Documentary & Knowledge",
+      "streams_tested": 351,
+      "channels_working": 174,
+      "channels_unverified": 0,
+      "kept_previous": false,
+      "top_failures": {
+        "HTTP 403": 39,
+        "unreachable (timed out) after 3 tries": 16,
+        "HTTP 404": 8,
+        "segment HTTP 404": 8,
+        "segment HTTP 403": 7
       }
     },
     {
       "file": "music.m3u",
       "title": "India + Pakistan Music",
       "streams_tested": 90,
-      "channels_working": 43,
+      "channels_working": 42,
+      "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 404": 18,
+        "HTTP 404": 17,
         "unreachable (timed out) after 3 tries": 7,
-        "segment HTTP 404": 2,
-        "HTTP 403": 2,
-        "unreachable ([Errno -5] No address associated with ho) after 3 tries": 2
+        "HTTP 403": 4,
+        "segment HTTP 404": 3,
+        "unreachable ([Errno 11001] getaddrinfo failed) after 3 tries": 2
       }
     },
     {
       "file": "movies.m3u",
       "title": "India + Pakistan Movies",
-      "streams_tested": 112,
+      "streams_tested": 110,
       "channels_working": 36,
+      "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "unreachable (timed out) after 3 tries": 25,
-        "HTTP 404": 14,
-        "HTTP 403": 5,
+        "unreachable (timed out) after 3 tries": 23,
+        "HTTP 404": 16,
+        "HTTP 403": 7,
         "segment HTTP 403": 5,
         "HTTP 458": 3
       }
@@ -75,14 +95,15 @@
       "file": "kids.m3u",
       "title": "India + Pakistan Kids",
       "streams_tested": 30,
-      "channels_working": 12,
+      "channels_working": 14,
+      "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
         "unreachable (timed out) after 3 tries": 7,
-        "segment HTTP 404": 3,
-        "segment HTTP 403": 1,
+        "HTTP 458": 1,
         "HTTP 429": 1,
-        "HTTP 458": 1
+        "HTTP 404": 1,
+        "segment empty": 1
       }
     },
     {
@@ -90,6 +111,7 @@
       "title": "Madani Channels",
       "streams_tested": 3,
       "channels_working": 2,
+      "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {}
     }
