@@ -1,8 +1,9 @@
 # Verified IPTV playlists
 
-Automatically maintained M3U playlists for **India**, **Pakistan** and
-**international sports**, containing only channels that were confirmed to be
-streaming within the last 24 hours.
+Automatically maintained M3U playlists for **India**, **Pakistan**,
+**international sports** and **worldwide documentary channels** (National
+Geographic, Nat Geo Wild, History, BBC Earth and 200-odd more), containing
+only channels that were confirmed to be streaming within the last 24 hours.
 
 Built for [SS IPTV](https://ss-iptv.com) on VIDAA smart TVs and for Android TV
 players such as TiviMate and IPTV Smarters. Add a link once; it stays current
@@ -24,6 +25,7 @@ Replace `USERNAME/REPO` with your own once you have published.
 | India + Pakistan Music | `https://USERNAME.github.io/REPO/music.m3u` |
 | India + Pakistan Movies | `https://USERNAME.github.io/REPO/movies.m3u` |
 | India + Pakistan Entertainment | `https://USERNAME.github.io/REPO/entertainment.m3u` |
+| World Documentary & Knowledge | `https://USERNAME.github.io/REPO/documentary.m3u` |
 | India + Pakistan Kids | `https://USERNAME.github.io/REPO/kids.m3u` |
 | Pakistan Religious | `https://USERNAME.github.io/REPO/religious-pk.m3u` |
 | International Sports | `https://USERNAME.github.io/REPO/sports.m3u` |
@@ -158,6 +160,38 @@ Everything is driven by `config.json`.
 ```
 
 `countries` uses ISO 3166 codes; `null` means every country.
+
+A playlist can instead pick channels **by name**, which is how
+`documentary.m3u` and `religious-pk.m3u` work. Use `match` with regular
+expressions (case-insensitive) and leave `categories` as `null`:
+
+```json
+{
+  "file": "documentary.m3u",
+  "title": "Documentary & Knowledge",
+  "countries": null,
+  "categories": null,
+  "match": ["^national geograph", "nat[^a-z0-9]*geo", "^bbc earth"],
+  "folder": "Documentary"
+}
+```
+
+Patterns are tested against the channel name, its iptv-org id and its
+alternative names.
+
+If you set both `categories` and `match`, `match_mode` decides how they
+combine:
+
+| `match_mode` | Meaning |
+|---|---|
+| `"and"` (default) | A channel must be in one of the categories **and** match a pattern |
+| `"or"` | Being in one of the categories **or** matching a pattern is enough |
+
+`documentary.m3u` uses `"or"`, because iptv-org files some documentary brands
+under `education`, `outdoor` or no category at all (Da Vinci, Love Nature,
+Viasat Explore). The category list catches every documentary channel in the
+world; the patterns catch the miscategorised brands.
+
 `categories` accepts: news, music, movies, sports, entertainment, kids,
 animation, religious, documentary, business, comedy, cooking, culture,
 education, family, general, legislative, lifestyle, outdoor, relax, science,
