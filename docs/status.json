@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T17:43:44Z",
+  "updated_at": "2026-09-10T07:23:20Z",
   "playlists": [
     {
       "file": "news.m3u",
@@ -9,39 +9,39 @@
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 404": 60,
+        "HTTP 404": 59,
         "unreachable (timed out) after 3 tries": 27,
-        "segment HTTP 404": 12,
+        "segment HTTP 404": 8,
         "HTTP 403": 4,
-        "unreachable ([Errno -3] Temporary failure in name res) after 3 tries": 2
+        "HTTP 401": 3
       }
     },
     {
       "file": "sports.m3u",
       "title": "International Sports",
-      "streams_tested": 607,
+      "streams_tested": 599,
       "channels_working": 237,
-      "channels_unverified": 0,
+      "channels_unverified": 1,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 403": 116,
+        "HTTP 403": 109,
         "unreachable (timed out) after 3 tries": 43,
-        "HTTP 404": 23,
-        "segment HTTP 403": 14,
-        "variant manifest failed": 13
+        "HTTP 404": 28,
+        "variant manifest failed": 15,
+        "segment HTTP 403": 14
       }
     },
     {
       "file": "entertainment.m3u",
       "title": "India + Pakistan Entertainment",
       "streams_tested": 179,
-      "channels_working": 87,
+      "channels_working": 89,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
         "unreachable (timed out) after 3 tries": 24,
         "HTTP 404": 17,
-        "segment HTTP 404": 10,
+        "segment HTTP 404": 8,
         "segment HTTP 403": 4,
         "HTTP 403": 3
       }
@@ -50,14 +50,14 @@
       "file": "documentary.m3u",
       "title": "World Documentary & Knowledge",
       "streams_tested": 351,
-      "channels_working": 185,
+      "channels_working": 184,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 403": 20,
+        "HTTP 403": 16,
         "unreachable (timed out) after 3 tries": 12,
         "HTTP 404": 8,
-        "segment HTTP 404": 7,
+        "segment HTTP 404": 8,
         "unreachable ([Errno -2] Name or service not known) after 3 tries": 6
       }
     },
@@ -80,30 +80,29 @@
       "file": "movies.m3u",
       "title": "India + Pakistan Movies",
       "streams_tested": 110,
-      "channels_working": 36,
+      "channels_working": 35,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
         "unreachable (timed out) after 3 tries": 23,
-        "HTTP 404": 16,
+        "HTTP 404": 15,
         "HTTP 403": 5,
         "segment HTTP 403": 5,
-        "HTTP 458": 2
+        "segment HTTP 404": 3
       }
     },
     {
       "file": "kids.m3u",
       "title": "India + Pakistan Kids",
       "streams_tested": 30,
-      "channels_working": 14,
+      "channels_working": 15,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
         "unreachable (timed out) after 3 tries": 7,
         "segment HTTP 403": 1,
-        "HTTP 404": 1,
         "HTTP 429": 1,
-        "segment empty": 1
+        "HTTP 404": 1
       }
     },
     {
