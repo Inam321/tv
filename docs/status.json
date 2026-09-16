@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-09-15T07:53:15Z",
+  "updated_at": "2026-09-16T07:46:31Z",
   "playlists": [
     {
       "file": "news.m3u",
       "title": "India + Pakistan News",
       "streams_tested": 438,
-      "channels_working": 219,
+      "channels_working": 226,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
         "unreachable (timed out) after 3 tries": 27,
-        "segment HTTP 404": 20,
-        "HTTP 404": 16,
-        "HTTP 403": 4,
+        "segment HTTP 404": 17,
+        "HTTP 404": 10,
+        "HTTP 403": 6,
         "HTTP 401": 3
       }
     },
@@ -20,15 +20,15 @@
       "file": "sports.m3u",
       "title": "International Sports",
       "streams_tested": 566,
-      "channels_working": 236,
+      "channels_working": 237,
       "channels_unverified": 1,
       "kept_previous": false,
       "top_failures": {
         "HTTP 403": 70,
-        "unreachable (timed out) after 3 tries": 49,
-        "HTTP 404": 25,
+        "unreachable (timed out) after 3 tries": 48,
+        "HTTP 404": 29,
         "segment HTTP 403": 14,
-        "segment HTTP 404": 11
+        "variant manifest failed": 12
       }
     },
     {
@@ -40,8 +40,8 @@
       "kept_previous": false,
       "top_failures": {
         "unreachable (timed out) after 3 tries": 19,
-        "HTTP 404": 7,
         "segment HTTP 404": 7,
+        "HTTP 404": 5,
         "segment HTTP 403": 5,
         "HTTP 403": 3
       }
@@ -54,10 +54,10 @@
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
+        "HTTP 404": 19,
         "HTTP 403": 17,
-        "HTTP 404": 15,
-        "segment HTTP 404": 14,
         "unreachable (timed out) after 3 tries": 11,
+        "segment HTTP 404": 8,
         "unreachable ([Errno -2] Name or service not known) after 3 tries": 6
       }
     },
@@ -65,13 +65,13 @@
       "file": "music.m3u",
       "title": "India + Pakistan Music",
       "streams_tested": 98,
-      "channels_working": 49,
+      "channels_working": 48,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "unreachable (timed out) after 3 tries": 8,
-        "segment HTTP 404": 4,
-        "HTTP 404": 3,
+        "unreachable (timed out) after 3 tries": 7,
+        "HTTP 404": 6,
+        "segment HTTP 404": 2,
         "HTTP 403": 2,
         "unreachable ([Errno -5] No address associated with ho) after 3 tries": 2
       }
@@ -80,7 +80,7 @@
       "file": "movies.m3u",
       "title": "India + Pakistan Movies",
       "streams_tested": 98,
-      "channels_working": 44,
+      "channels_working": 43,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
@@ -88,21 +88,22 @@
         "HTTP 403": 5,
         "segment HTTP 403": 5,
         "HTTP 404": 3,
-        "segment empty": 2
+        "HTTP 458": 2
       }
     },
     {
       "file": "kids.m3u",
       "title": "India + Pakistan Kids",
       "streams_tested": 32,
-      "channels_working": 15,
+      "channels_working": 14,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
         "unreachable (timed out) after 3 tries": 7,
-        "segment empty": 2,
+        "segment HTTP 404": 2,
         "segment HTTP 403": 1,
-        "HTTP 404": 1
+        "HTTP 404": 1,
+        "HTTP 458": 1
       }
     },
     {

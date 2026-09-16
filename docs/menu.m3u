@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 content-type="playlist" description="219 channels",News
+#EXTINF:-1 content-type="playlist" description="226 channels",News
 #EXTSIZE: big
 #EXTBG: #1D3B5C
 https://raw.githubusercontent.com/Inam321/tv/main/docs/news.m3u
-#EXTINF:-1 content-type="playlist" description="236 channels",Sports
+#EXTINF:-1 content-type="playlist" description="237 channels",Sports
 #EXTSIZE: big
 #EXTBG: #1F5B3A
 https://raw.githubusercontent.com/Inam321/tv/main/docs/sports.m3u
@@ -15,15 +15,15 @@ https://raw.githubusercontent.com/Inam321/tv/main/docs/entertainment.m3u
 #EXTSIZE: medium
 #EXTBG: #14524A
 https://raw.githubusercontent.com/Inam321/tv/main/docs/documentary.m3u
-#EXTINF:-1 content-type="playlist" description="49 channels",Music
+#EXTINF:-1 content-type="playlist" description="48 channels",Music
 #EXTSIZE: medium
 #EXTBG: #6B3A12
 https://raw.githubusercontent.com/Inam321/tv/main/docs/music.m3u
-#EXTINF:-1 content-type="playlist" description="44 channels",Movies
+#EXTINF:-1 content-type="playlist" description="43 channels",Movies
 #EXTSIZE: medium
 #EXTBG: #3A2B5C
 https://raw.githubusercontent.com/Inam321/tv/main/docs/movies.m3u
-#EXTINF:-1 content-type="playlist" description="15 channels",Kids
+#EXTINF:-1 content-type="playlist" description="14 channels",Kids
 #EXTSIZE: small
 #EXTBG: #7A4A0F
 https://raw.githubusercontent.com/Inam321/tv/main/docs/kids.m3u
