@@ -3,7 +3,7 @@
 #EXTSIZE: big
 #EXTBG: #1D3B5C
 https://raw.githubusercontent.com/Inam321/tv/main/docs/news.m3u
-#EXTINF:-1 content-type="playlist" description="251 channels",Sports
+#EXTINF:-1 content-type="playlist" description="242 channels",Sports
 #EXTSIZE: big
 #EXTBG: #1F5B3A
 https://raw.githubusercontent.com/Inam321/tv/main/docs/sports.m3u
@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/Inam321/tv/main/docs/entertainment.m3u
 #EXTSIZE: medium
 #EXTBG: #14524A
 https://raw.githubusercontent.com/Inam321/tv/main/docs/documentary.m3u
-#EXTINF:-1 content-type="playlist" description="51 channels",Music
+#EXTINF:-1 content-type="playlist" description="50 channels",Music
 #EXTSIZE: medium
 #EXTBG: #6B3A12
 https://raw.githubusercontent.com/Inam321/tv/main/docs/music.m3u
@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/Inam321/tv/main/docs/music.m3u
 #EXTSIZE: medium
 #EXTBG: #3A2B5C
 https://raw.githubusercontent.com/Inam321/tv/main/docs/movies.m3u
-#EXTINF:-1 content-type="playlist" description="9 channels",Kids
+#EXTINF:-1 content-type="playlist" description="16 channels",Kids
 #EXTSIZE: small
 #EXTBG: #7A4A0F
 https://raw.githubusercontent.com/Inam321/tv/main/docs/kids.m3u
