@@ -1,361 +1,361 @@
 channel,tvg_id,group,working,reason,seconds,host,url
-.sci-fi (576p),scifi.ru,RU Documentary,YES,playing,1.0,stream.mcquack.net,http://stream.mcquack.net/180/index.m3u8
-365 days TV (576p),365daysTV.ru,RU Documentary,YES,playing,0.9,stream.mcquack.net,http://stream.mcquack.net/70/index.m3u8
-365 days TV (576p),365daysTV.ru,RU Documentary,YES,playing,2.1,stream8.cinerama.uz,https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
-Adventure Earth (1080p),AdventureEarth.de,DE Documentary,YES,playing,0.4,a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com,https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
-Adventure Earth (720p),AdventureEarth.de,DE Documentary,YES,playing,0.3,autentic-adventure-earth-1-eu.rakuten.wurl.tv,https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
-Adventure Earth (720p),AdventureEarth.de,DE Documentary,YES,playing,0.2,autentic-adventure-earth-1-gb.samsung.wurl.tv,https://autentic-adventure-earth-1-gb.samsung.wurl.tv/playlist.m3u8
-Al Arabiya Programs (1280p),AlArabiyaPrograms.ae,AE Documentary,YES,playing,0.5,live.alarabiya.net,https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
-Archivos Forenses,ArchivosForenses.us,US Documentary,YES,playing,0.2,jmp2.uk,https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
-Archivos Forenses,ArchivosForenses.us,US Documentary,YES,playing,0.4,jmp2.uk,https://jmp2.uk/plu-5efb8c19b2678b000780d032.m3u8
-Arsenal (576p),Arsenal.ru,RU Documentary,YES,playing,1.6,stream8.cinerama.uz,https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
-Asharq Discovery (1080p),AsharqDiscovery.sa,SA Documentary,YES,playing,1.0,svs.itworkscdn.net,https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-Asharq Documentary (1080p),AsharqDocumentary.sa,SA Documentary,YES,playing,1.0,svs.itworkscdn.net,https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+.sci-fi (576p),scifi.ru,RU Documentary,YES,playing,1.2,stream.mcquack.net,http://stream.mcquack.net/180/index.m3u8
+365 days TV (576p),365daysTV.ru,RU Documentary,YES,playing,1.2,stream.mcquack.net,http://stream.mcquack.net/70/index.m3u8
+365 days TV (576p),365daysTV.ru,RU Documentary,YES,playing,1.5,fs.uplink.kz,https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv
+365 days TV (576p),365daysTV.ru,RU Documentary,YES,playing,1.7,stream8.cinerama.uz,https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
+Adventure Earth (1080p),AdventureEarth.de,DE Documentary,YES,playing,0.7,a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com,https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+Adventure Earth (720p),AdventureEarth.de,DE Documentary,YES,playing,0.4,autentic-adventure-earth-1-gb.samsung.wurl.tv,https://autentic-adventure-earth-1-gb.samsung.wurl.tv/playlist.m3u8
+Adventure Earth (720p),AdventureEarth.de,DE Documentary,YES,playing,0.6,autentic-adventure-earth-1-eu.rakuten.wurl.tv,https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+Al Arabiya Programs (1280p),AlArabiyaPrograms.ae,AE Documentary,YES,playing,0.6,live.alarabiya.net,https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
+Archivos Forenses,ArchivosForenses.us,US Documentary,YES,playing,0.3,jmp2.uk,https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
+Archivos Forenses,ArchivosForenses.us,US Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-5efb8c19b2678b000780d032.m3u8
+Arsenal (576p),Arsenal.ru,RU Documentary,YES,playing,2.3,stream8.cinerama.uz,https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
+Asharq Discovery (1080p),AsharqDiscovery.sa,SA Documentary,YES,playing,1.3,svs.itworkscdn.net,https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+Asharq Documentary (1080p),AsharqDocumentary.sa,SA Documentary,YES,playing,1.4,svs.itworkscdn.net,https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 Atlas (480p),Atlas.us,US Documentary,YES,playing,0.5,cdn.whiplash.cc,https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
-Autentic History (1080p),AutenticHistory.de,DE Documentary,YES,playing,0.3,9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com,https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
-Autentic History (720p),AutenticHistory.de,DE Documentary,YES,playing,0.2,autentic-autentichistory-1-gb.samsung.wurl.tv,https://autentic-autentichistory-1-gb.samsung.wurl.tv/playlist.m3u8
-Backstage (1080p),Backstage.us,US Documentary,YES,playing,0.4,d2ah48mnofquik.cloudfront.net,https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8
-Backstage (1080p),Backstage.us,US Documentary,YES,playing,0.5,fuse-backstage-xumo.amagi.tv,https://fuse-backstage-xumo.amagi.tv/playlist.m3u8
-BBC Earth (1080p),BBCEarth.uk@US,UK Documentary,YES,playing,0.7,amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv,https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
-BBC Earth (1080p),BBCEarth.uk@US,UK Documentary,YES,playing,0.3,pb-zjy36qhp8e8cz.akamaized.net,https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8
-BBC Earth (1080p),BBCEarth.uk@US,UK Documentary,YES,playing,0.6,amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-Bloomberg Originals (1080p),BloombergOriginals.us@SD,US Documentary,YES,playing,0.3,86fdc85a.wurl.com,https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
-Bloomberg Originals (1080p),BloombergOriginals.us,US Documentary,YES,playing,1.0,dai.google.com,https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8
-Bloomberg Originals (1080p),BloombergOriginals.us,US Documentary,YES,playing,1.1,d3qwwydnxv5vo9.cloudfront.net,https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8
-BritBox Mysteries (1080p),BritBoxMysteries.us,US Documentary,YES,playing,0.3,pb-ippotemhtglhp.akamaized.net,https://pb-ippotemhtglhp.akamaized.net/playlist.m3u8
-BritBox Mysteries (1080p),BritBoxMysteries.us,US Documentary,YES,playing,0.4,aegis-cloudfront-1.tubi.video,https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
-BritBox Mysteries (720p),BritBoxMysteries.us,US Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-60f5d389985a0c0007357304.m3u8
-BTB Info (1080p),BTBInfo.pl,PL Documentary,YES,playing,1.4,emisja2.btb.j00r.us,https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
-BTB Info (1080p),BTBInfo.pl,PL Documentary,YES,playing,2.2,panel.btb.j00r.us,https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8
-Can Tho TV 2 (1080p),CanThoTV2.vn,VN Documentary,YES,playing,9.3,live.canthotv.vn,https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
-CCTV-9 (576i),CCTV9.cn,CN Documentary,YES,playing,4.5,xykt-fix.github.io,https://xykt-fix.github.io/Y77.m3u8
-CCTV-Weapon & Technology (1080p),CCTVWeaponTechnology.cn,CN Documentary,YES,playing,1.4,38.75.136.137:98,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
-CGTN Documentary (1080p),CGTNDocumentary.cn,CN Documentary,YES,playing,0.6,amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-CGTN Documentary (1080p),CGTNDocumentary.cn,CN Documentary,YES,playing,0.9,english-livebkali.cgtn.com,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
-CGTN Documentary (1080p),CGTNDocumentary.cn,CN Documentary,YES,playing,1.0,hlspackager.akamaized.net,https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8
-China Travel (1080p),ChinaTravel.cn,CN Documentary,YES,playing,0.4,amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv,https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
-China Travel (1080p),ChinaTravel.cn,CN Documentary,YES,playing,0.5,fastlive.cctvplus.com,https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
-Click TV (Coronel) (720p),ClickTVChile.cl,CL Documentary,YES,playing,1.5,v2.tustreaming.cl,https://v2.tustreaming.cl/clicktv/playlist.m3u8
-CNA Originals (1080p),CNAOriginals.sg,SG Documentary,YES,playing,0.8,amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv,https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
-CNA Originals (1080p),CNAOriginals.sg,SG Documentary,YES,playing,0.6,amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv,https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8
-Cosmos TV (720p),CosmosTV.py,PY Documentary,YES,playing,1.7,video.hostingcaaguazu.com:19360,https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
-Court TV (1080p),CourtTV.us,US Documentary,YES,playing,0.7,pb-2rv53xe17yzvq.akamaized.net,https://pb-2rv53xe17yzvq.akamaized.net/Court_TV_US.m3u8
-Court TV (1080p),CourtTV.us,US Documentary,YES,playing,0.9,cdn-uw2-prod.tsv2.amagi.tv,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
-Court TV (720p),CourtTV.us,US Documentary,YES,playing,0.9,jmp2.uk,https://jmp2.uk/plu-5dae0b4841a7d0000938ddbd.m3u8
+Autentic History (1080p),AutenticHistory.de,DE Documentary,YES,playing,0.7,9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com,https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+Autentic History (720p),AutenticHistory.de,DE Documentary,YES,playing,0.5,autentic-autentichistory-1-gb.samsung.wurl.tv,https://autentic-autentichistory-1-gb.samsung.wurl.tv/playlist.m3u8
+Backstage (1080p),Backstage.us,US Documentary,YES,playing,0.5,d2ah48mnofquik.cloudfront.net,https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8
+Backstage (1080p),Backstage.us,US Documentary,YES,playing,0.7,fuse-backstage-xumo.amagi.tv,https://fuse-backstage-xumo.amagi.tv/playlist.m3u8
+BBC Earth (1080p),BBCEarth.uk@US,UK Documentary,YES,playing,0.8,amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv,https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
+BBC Earth (1080p),BBCEarth.uk@US,UK Documentary,YES,playing,0.7,pb-zjy36qhp8e8cz.akamaized.net,https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8
+BBC Earth (1080p),BBCEarth.uk@US,UK Documentary,YES,playing,0.5,amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+Bloomberg Originals (1080p),BloombergOriginals.us@SD,US Documentary,YES,playing,0.7,86fdc85a.wurl.com,https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+Bloomberg Originals (1080p),BloombergOriginals.us,US Documentary,YES,playing,1.7,dai.google.com,https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8
+Bloomberg Originals (1080p),BloombergOriginals.us,US Documentary,YES,playing,1.5,d3qwwydnxv5vo9.cloudfront.net,https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8
+BritBox Mysteries (1080p),BritBoxMysteries.us,US Documentary,YES,playing,0.6,pb-ippotemhtglhp.akamaized.net,https://pb-ippotemhtglhp.akamaized.net/playlist.m3u8
+BritBox Mysteries (1080p),BritBoxMysteries.us,US Documentary,YES,playing,0.5,aegis-cloudfront-1.tubi.video,https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
+BritBox Mysteries (720p),BritBoxMysteries.us,US Documentary,YES,playing,0.4,jmp2.uk,https://jmp2.uk/plu-60f5d389985a0c0007357304.m3u8
+BTB Info (1080p),BTBInfo.pl,PL Documentary,YES,playing,1.6,emisja2.btb.j00r.us,https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
+BTB Info (1080p),BTBInfo.pl,PL Documentary,YES,playing,2.6,panel.btb.j00r.us,https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8
+Can Tho TV 2 (1080p),CanThoTV2.vn,VN Documentary,YES,playing,3.6,live.canthotv.vn,https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
+CCTV-9 (576i),CCTV9.cn,CN Documentary,YES,playing,2.3,xykt-fix.github.io,https://xykt-fix.github.io/Y77.m3u8
+CCTV-Weapon & Technology (1080p),CCTVWeaponTechnology.cn,CN Documentary,YES,playing,0.3,38.75.136.137:98,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+CGTN Documentary (1080p),CGTNDocumentary.cn,CN Documentary,YES,playing,1.2,amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+CGTN Documentary (1080p),CGTNDocumentary.cn,CN Documentary,YES,playing,1.2,hlspackager.akamaized.net,https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8
+CGTN Documentary (1080p),CGTNDocumentary.cn,CN Documentary,YES,playing,1.5,english-livebkali.cgtn.com,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+China Travel (1080p),ChinaTravel.cn,CN Documentary,YES,playing,0.5,amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv,https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
+China Travel (1080p),ChinaTravel.cn,CN Documentary,YES,playing,0.7,fastlive.cctvplus.com,https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+Click TV (Coronel) (720p),ClickTVChile.cl,CL Documentary,YES,playing,1.6,v2.tustreaming.cl,https://v2.tustreaming.cl/clicktv/playlist.m3u8
+CNA Originals (1080p),CNAOriginals.sg,SG Documentary,YES,playing,1.1,amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv,https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8
+CNA Originals (1080p),CNAOriginals.sg,SG Documentary,YES,playing,1.2,amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv,https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+Cosmos TV (720p),CosmosTV.py,PY Documentary,YES,playing,2.1,video.hostingcaaguazu.com:19360,https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
+Court TV (1080p),CourtTV.us,US Documentary,YES,playing,0.8,cdn-uw2-prod.tsv2.amagi.tv,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+Court TV (1080p),CourtTV.us,US Documentary,YES,playing,0.8,pb-2rv53xe17yzvq.akamaized.net,https://pb-2rv53xe17yzvq.akamaized.net/Court_TV_US.m3u8
+Court TV (720p),CourtTV.us,US Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-5dae0b4841a7d0000938ddbd.m3u8
 Crime 360 (720p),Crime360.us,US Documentary,YES,playing,0.4,94a3e237.wurl.com,https://94a3e237.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/playlist.m3u8
-Crime 360 (720p),Crime360.us,US Documentary,YES,playing,1.1,jmp2.uk,https://jmp2.uk/plu-657880c46e4f6a00087404d0.m3u8
+Crime 360 (720p),Crime360.us,US Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-657880c46e4f6a00087404d0.m3u8
 Crime 360 (720p),Crime360.us,US Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-6578848a6e4f6a0008741910.m3u8
-Crimen & Historia (720p),CrimenHistoria.es,ES Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
-Curiosity Now (1080p),CuriosityNOW.de@EN,DE Documentary,YES,playing,0.2,amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv,https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8
-Da Vinci,DaVinci.ru,RU Documentary,YES,playing,1.7,stream8.cinerama.uz,https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
-Da Vinci (576p),DaVinci.ru,RU Documentary,YES,playing,1.2,fs.uplink.kz,https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv
-DangerTV (720p),DangerTV.us,US Documentary,YES,playing,1.0,dk0n7jh428tzj.cloudfront.net,https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8
-Dateline 24/7 (1080p),Dateline247.us,US Documentary,YES,playing,0.4,d1si3n1st4nkgb.cloudfront.net,https://d1si3n1st4nkgb.cloudfront.net/10502/88896029/hls/master.m3u8?ads.xumo_channelId=88896029
-Dateline 24/7 (1080p),Dateline247.us,US Documentary,YES,playing,0.1,dz59iptwz5rxs.cloudfront.net,https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
-Dateline 24/7 (1080p),Dateline247.us,US Documentary,YES,playing,1.0,d4whmvwm0rdvi.cloudfront.net,https://d4whmvwm0rdvi.cloudfront.net/10007/99993007/hls/master.m3u8?ads.xumo_channelId=99993007
-Deadly Women,DeadlyWomen.us,US Documentary,YES,playing,0.4,jmp2.uk,https://jmp2.uk/plu-5ca1df0d50be2571e393ad31.m3u8
-Deadly Women (1080p),DeadlyWomen.us,US Documentary,YES,playing,0.5,d1mgh147xpmgs8.cloudfront.net,https://d1mgh147xpmgs8.cloudfront.net/DeadlyWomen_GB.m3u8
-Detetives Médicos,DetetivesMedicos.us,US Documentary,YES,playing,0.2,jmp2.uk,https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
-Discovering China (1080p),DiscoveringChina.cn,CN Documentary,YES,playing,0.4,fastlive.cctvplus.com,https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
+Crimen & Historia (720p),CrimenHistoria.es,ES Documentary,YES,playing,0.3,jmp2.uk,https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
+Curiosity Now (1080p),CuriosityNOW.de@EN,DE Documentary,YES,playing,0.5,amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv,https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8
+Da Vinci,DaVinci.ru,RU Documentary,YES,playing,2.8,stream8.cinerama.uz,https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
+Da Vinci (576p),DaVinci.ru,RU Documentary,YES,playing,1.8,fs.uplink.kz,https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv
+DangerTV (720p),DangerTV.us,US Documentary,YES,playing,1.7,dk0n7jh428tzj.cloudfront.net,https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8
+Dateline 24/7 (1080p),Dateline247.us,US Documentary,YES,playing,0.6,d4whmvwm0rdvi.cloudfront.net,https://d4whmvwm0rdvi.cloudfront.net/10007/99993007/hls/master.m3u8?ads.xumo_channelId=99993007
+Dateline 24/7 (1080p),Dateline247.us,US Documentary,YES,playing,0.6,d1si3n1st4nkgb.cloudfront.net,https://d1si3n1st4nkgb.cloudfront.net/10502/88896029/hls/master.m3u8?ads.xumo_channelId=88896029
+Dateline 24/7 (1080p),Dateline247.us,US Documentary,YES,playing,0.6,dz59iptwz5rxs.cloudfront.net,https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
+Deadly Women,DeadlyWomen.us,US Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-5ca1df0d50be2571e393ad31.m3u8
+Deadly Women (1080p),DeadlyWomen.us,US Documentary,YES,playing,0.7,d1mgh147xpmgs8.cloudfront.net,https://d1mgh147xpmgs8.cloudfront.net/DeadlyWomen_GB.m3u8
+Detetives Médicos,DetetivesMedicos.us,US Documentary,YES,playing,0.3,jmp2.uk,https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
 Discovering China (1080p),DiscoveringChina.cn,CN Documentary,YES,playing,0.5,amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv,https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
-DocuBay TV (1080p),DocuBayTV.in,IN Documentary,YES,playing,2.7,cc-mgr91yrk4pehy.akamaized.net,https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
-DocuBox,DocuBox.nl,NL Documentary,YES,playing,0.7,dash3.antik.sk,https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
-DocuBox Russia (1080p),DocuBox.nl@Russia,NL Documentary,YES,playing,0.9,str2.iptvhd.ru:8080,http://str2.iptvhd.ru:8080/DocuBoxHD/index.m3u8
+Discovering China (1080p),DiscoveringChina.cn,CN Documentary,YES,playing,0.6,fastlive.cctvplus.com,https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
+DocuBay TV (1080p),DocuBayTV.in,IN Documentary,YES,playing,3.6,cc-mgr91yrk4pehy.akamaized.net,https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
+DocuBox,DocuBox.nl,NL Documentary,YES,playing,1.0,dash3.antik.sk,https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+DocuBox Russia (1080p),DocuBox.nl@Russia,NL Documentary,YES,playing,1.2,str2.iptvhd.ru:8080,http://str2.iptvhd.ru:8080/DocuBoxHD/index.m3u8
+Documentary+ (1080p),DocumentaryPlus.us,US Documentary,YES,playing,0.6,ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com,https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
 Documentary+ (1080p),DocumentaryPlus.us,US Documentary,YES,playing,0.8,d1kx9y4yhe8h6h.cloudfront.net,https://d1kx9y4yhe8h6h.cloudfront.net/playlist.m3u8
-Documentary+ (1080p),DocumentaryPlus.us,US Documentary,YES,playing,1.0,ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com,https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
-Documentary+ International (1080p),DocumentaryPlus.us@International,US Documentary,YES,playing,1.2,1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com,https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
-Dokusat (1080p),Dokusat.de,DE Documentary,YES,playing,2.5,muc3.iptv-playoutcenter.de,https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-Dossiers FBI,DossiersFBI.us,US Documentary,YES,playing,0.2,jmp2.uk,https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
-Ecovisión (720p),Ecovision.do,DO Documentary,YES,playing,0.7,streaming.grupomediosdelnorte.com:19360,https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
-Eko TV (720p),EkoTV.ua,UA Documentary,YES,playing,1.6,ext.cdn.nashnet.tv,https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
-Epic Crimes (1080p),EpicCrimes.in,IN Documentary,YES,playing,2.8,cc-wsuyg2uxeak04.akamaized.net,https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
-EPlanet TV,EPlanetTV.ir,IR Documentary,YES,playing,0.7,eplhls.wns.live,https://eplhls.wns.live/hls/stream.m3u8
-FBI Files,FBIFiles.us,US Documentary,YES,playing,0.9,jmp2.uk,https://jmp2.uk/plu-62bdaa32a1b2fd00076693e8.m3u8
-FBI Files,FBIFiles.us,US Documentary,YES,playing,1.1,jmp2.uk,https://jmp2.uk/plu-61814659533163000748aa04.m3u8
-FBI Files,FBIFiles.us,US Documentary,YES,playing,1.1,jmp2.uk,https://jmp2.uk/plu-61815067b9802500076e16e0.m3u8
-Forensic Files,ForensicFiles.us,US Documentary,YES,playing,1.2,jmp2.uk,https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
-Forensic Files,ForensicFiles.us,US Documentary,YES,playing,1.1,jmp2.uk,https://jmp2.uk/plu-6181241c1a35d50007874c27.m3u8
-Forensic Files,ForensicFiles.us,US Documentary,YES,playing,1.6,jmp2.uk,https://jmp2.uk/plu-64ec5cf50f73a800081310a5.m3u8
-Francophonie24 (1080p),Francophonie24.fr,FR Documentary,YES,playing,1.6,5421175365ea3.streamlock.net,https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
-Get.Factual (720p),Getfactual.us,US Documentary,YES,playing,0.5,d1nhni5l2n8hjt.cloudfront.net,https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
-GZT (1080p),GZT.tr,TR Documentary,YES,playing,1.2,gzttv-live.lg.mncdn.com,https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
+Documentary+ International (1080p),DocumentaryPlus.us@International,US Documentary,YES,playing,0.5,1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com,https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
+Dokusat (1080p),Dokusat.de,DE Documentary,YES,playing,3.1,muc3.iptv-playoutcenter.de,https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+Dossiers FBI,DossiersFBI.us,US Documentary,YES,playing,0.3,jmp2.uk,https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
+Ecovisión (720p),Ecovision.do,DO Documentary,YES,playing,0.4,streaming.grupomediosdelnorte.com:19360,https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
+Eko TV (720p),EkoTV.ua,UA Documentary,YES,playing,2.8,ext.cdn.nashnet.tv,https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
+Epic Crimes (1080p),EpicCrimes.in,IN Documentary,YES,playing,3.2,cc-wsuyg2uxeak04.akamaized.net,https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
+EPlanet TV,EPlanetTV.ir,IR Documentary,YES,playing,1.0,eplhls.wns.live,https://eplhls.wns.live/hls/stream.m3u8
+FBI Files,FBIFiles.us,US Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-62bdaa32a1b2fd00076693e8.m3u8
+FBI Files,FBIFiles.us,US Documentary,YES,playing,1.2,jmp2.uk,https://jmp2.uk/plu-61814659533163000748aa04.m3u8
+FBI Files,FBIFiles.us,US Documentary,YES,playing,1.7,jmp2.uk,https://jmp2.uk/plu-61815067b9802500076e16e0.m3u8
+Forensic Files,ForensicFiles.us,US Documentary,YES,playing,0.3,jmp2.uk,https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
+Forensic Files,ForensicFiles.us,US Documentary,YES,playing,1.2,jmp2.uk,https://jmp2.uk/plu-6181241c1a35d50007874c27.m3u8
+Forensic Files,ForensicFiles.us,US Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-64ec5cf50f73a800081310a5.m3u8
+Francophonie24 (1080p),Francophonie24.fr,FR Documentary,YES,playing,2.2,5421175365ea3.streamlock.net,https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
+Get.Factual (720p),Getfactual.us,US Documentary,YES,playing,0.6,d1nhni5l2n8hjt.cloudfront.net,https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
+GZT (1080p),GZT.tr,TR Documentary,YES,playing,1.4,gzttv-live.lg.mncdn.com,https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
 Historia y Vida (720p),HistoriaYVida.es,ES Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8
-History,History.cz,CZ Documentary,YES,playing,0.5,88.212.15.19,http://88.212.15.19/live/test_history/playlist.m3u8
-History,History.hu,HU Documentary,YES,playing,0.6,88.212.15.19,http://88.212.15.19/live/history_hun/index.m3u8
-History (720p),History.br,BR Documentary,YES,playing,0.9,45.177.114.114,http://45.177.114.114/HISTORY/index.m3u8
-History (720p),History.us,US Documentary,YES,playing,0.2,4.30.180.36:8420,http://4.30.180.36:8420/history/index.m3u8?token=test
-History (720p),History.us,US Documentary,YES,playing,0.9,212.5.144.156:8080,http://212.5.144.156:8080/history/index.m3u8
-History 2 Latin America (1080p),History2LatinAmerica.us,US Documentary,YES,playing,0.6,138.121.15.230:9002,http://138.121.15.230:9002/HISTORY-2/index.m3u8
-History 2 Latin America (1080p),History2LatinAmerica.us,US Documentary,YES,playing,0.6,181.119.66.28:8081,http://181.119.66.28:8081/HISTORY-2/index.m3u8
-History Asia (720p),HistoryAsia.us,US Documentary,YES,stream data,1.6,58.8.186.128:10005,http://58.8.186.128:10005/bysid/2517
-History Asia (720p),HistoryAsia.us,US Documentary,YES,playing,11.9,freem3u.xyz,https://freem3u.xyz/api/live/play.m3u8?vid=9856
-History Hit (1080p),HistoryHit.uk,UK Documentary,YES,playing,0.3,lds-timeline-rakuten.amagi.tv,https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
-History Hit (1080p),HistoryHit.uk,UK Documentary,YES,playing,0.5,lds-timeline-plex.amagi.tv,https://lds-timeline-plex.amagi.tv/playlist.m3u8
-History Hit (720p),HistoryHit.uk,UK Documentary,YES,playing,2.0,ldsaaaaaa-timeline-samsungau-awedz.amagi.tv,https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8
-History Latin America (1080p),HistoryLatinAmerica.us,US Documentary,YES,playing,0.1,15.204.246.24:8080,http://15.204.246.24:8080/HistoryHD/index.m3u8
-History Latin America (1080p),HistoryLatinAmerica.us,US Documentary,YES,playing,0.6,138.121.15.230:9002,http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8
-History Latin America (1080p),HistoryLatinAmerica.us,US Documentary,YES,playing,0.6,181.119.66.28:8081,http://181.119.66.28:8081/History-HD/index.m3u8
-History TV18 HD (1080p),HistoryTV18.in@HD,IN Documentary,YES,playing,0.6,amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv,https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
-History TV18 HD Hindi (1080p),HistoryTV18.in@HD,IN Documentary,YES,playing,1.5,amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv,https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
-India TV Aap Ki Adalat (1080p),IndiaTVAapKiAdalat.in,IN Documentary,YES,playing,2.5,amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv,https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8
-Ink Master,InkMaster.us@CA,US Documentary,YES,playing,0.2,jmp2.uk,https://jmp2.uk/plu-655f2d713944b60008bc7e90.m3u8
-Ink Master,InkMaster.us,US Documentary,YES,playing,1.6,jmp2.uk,https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8
-INWILD (1080p),INWILD.nl,NL Documentary,YES,playing,0.7,amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv,https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
+History,History.cz,CZ Documentary,YES,playing,0.7,88.212.15.19,http://88.212.15.19/live/test_history/playlist.m3u8
+History,History.hu,HU Documentary,YES,playing,0.8,88.212.15.19,http://88.212.15.19/live/history_hun/index.m3u8
+History (720p),History.br,BR Documentary,YES,playing,1.2,170.83.16.50,http://170.83.16.50/HISTORY/index.m3u8
+History (720p),History.br,BR Documentary,YES,playing,1.2,45.177.114.114,http://45.177.114.114/HISTORY/index.m3u8
+History (720p),History.us,US Documentary,YES,playing,0.4,4.30.180.36:8420,http://4.30.180.36:8420/history/index.m3u8?token=test
+History 2 Latin America (1080p),History2LatinAmerica.us,US Documentary,YES,playing,0.8,138.121.15.230:9002,http://138.121.15.230:9002/HISTORY-2/index.m3u8
+History Asia (720p),HistoryAsia.us,US Documentary,YES,stream data,1.3,58.8.186.128:10005,http://58.8.186.128:10005/bysid/2517
+History Asia (720p),HistoryAsia.us,US Documentary,YES,playing,7.6,freem3u.xyz,https://freem3u.xyz/api/live/play.m3u8?vid=9856
+History Hit (1080p),HistoryHit.uk,UK Documentary,YES,playing,0.4,lds-timeline-rakuten.amagi.tv,https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
+History Hit (1080p),HistoryHit.uk,UK Documentary,YES,playing,0.6,lds-timeline-plex.amagi.tv,https://lds-timeline-plex.amagi.tv/playlist.m3u8
+History Hit (720p),HistoryHit.uk,UK Documentary,YES,playing,2.3,ldsaaaaaa-timeline-samsungau-awedz.amagi.tv,https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8
+History Latin America (1080p),HistoryLatinAmerica.us,US Documentary,YES,playing,0.8,138.121.15.230:9002,http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8
+History Latin America (1080p),HistoryLatinAmerica.us,US Documentary,YES,playing,0.8,181.119.66.28:8081,http://181.119.66.28:8081/History-HD/index.m3u8
+History TV18 HD (1080p),HistoryTV18.in@HD,IN Documentary,YES,playing,2.6,amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv,https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
+History TV18 HD Hindi (1080p),HistoryTV18.in@HD,IN Documentary,YES,playing,3.2,amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv,https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
+India TV Aap Ki Adalat (1080p),IndiaTVAapKiAdalat.in,IN Documentary,YES,playing,3.9,amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv,https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8
+Ink Master,InkMaster.us@CA,US Documentary,YES,playing,0.3,jmp2.uk,https://jmp2.uk/plu-655f2d713944b60008bc7e90.m3u8
+Ink Master,InkMaster.us,US Documentary,YES,playing,1.3,jmp2.uk,https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8
 INWILD (1080p),INWILD.nl,NL Documentary,YES,playing,0.8,amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv,https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8
-INWILD (1080p),INWILD.nl,NL Documentary,YES,playing,0.8,amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv,https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8
-InWonder (1080p),InWonder.nl,NL Documentary,YES,playing,0.4,amg00861-terncloud-amg00861c4-cineverse-us-962.playouts.now.amagi.tv,https://amg00861-terncloud-amg00861c4-cineverse-us-962.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderushd-cineverseus/playlist.m3u8
-InWonder (1080p),InWonder.nl,NL Documentary,YES,playing,0.7,amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv,https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
-Istoriya (576p),Istoriya.ru,RU Documentary,YES,playing,1.0,str2.iptvhd.ru:8080,http://str2.iptvhd.ru:8080/Istoriya/index.m3u8
-Jail,Jail.uk@SD,UK Documentary,YES,playing,0.5,e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com,https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8
-Karbala Documentary,KarbalaDocumentary.iq,IQ Documentary,YES,playing,0.7,ktvlive.online,https://ktvlive.online/stream/hls/ch3.m3u8
-Law & Crime (720p),LawCrime.us,US Documentary,YES,playing,0.2,cdn.lawandcrime.net,https://cdn.lawandcrime.net/rewind/playlist.m3u8
+INWILD (1080p),INWILD.nl,NL Documentary,YES,playing,1.3,amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv,https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
+INWILD (1080p),INWILD.nl,NL Documentary,YES,playing,1.0,amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv,https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8
+InWonder (1080p),InWonder.nl,NL Documentary,YES,playing,0.9,amg00861-terncloud-amg00861c4-cineverse-us-962.playouts.now.amagi.tv,https://amg00861-terncloud-amg00861c4-cineverse-us-962.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderushd-cineverseus/playlist.m3u8
+InWonder (1080p),InWonder.nl,NL Documentary,YES,playing,1.1,amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv,https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
+Istoriya (576p),Istoriya.ru,RU Documentary,YES,playing,1.2,str2.iptvhd.ru:8080,http://str2.iptvhd.ru:8080/Istoriya/index.m3u8
+Istoriya (576p),Istoriya.ru,RU Documentary,YES,playing,2.0,fs.uplink.kz,https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv
+Jail,Jail.uk@SD,UK Documentary,YES,playing,0.7,e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com,https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8
+Karbala Documentary,KarbalaDocumentary.iq,IQ Documentary,YES,playing,1.0,ktvlive.online,https://ktvlive.online/stream/hls/ch3.m3u8
 Law & Crime (720p),LawCrime.us,US Documentary,YES,playing,0.4,a-cdn.klowdtv.com,https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
-Love Nature (1080p),LoveNature.ca,CA Documentary,YES,playing,0.2,amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv,https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
-Love Nature (720p),LoveNature.ca,CA Documentary,YES,playing,0.5,bamus-klowdtv.amagi.tv,https://bamus-klowdtv.amagi.tv/playlist.m3u8
-Love Nature 4K (2160p),LoveNature.ca@4K,CA Documentary,YES,playing,0.4,pb-ehs1glsha1juy.akamaized.net,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-Love Nature en Espanol (1080p),LoveNatureenEspanol.us,US Documentary,YES,playing,0.3,amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv,https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
-Love Pets (1080p),LovePets.ca,CA Documentary,YES,playing,0.5,rakutenaa-blueskyent-lovepetsemea-rakuten-ikc4q.amagi.tv,https://rakutenaa-blueskyent-lovepetsemea-rakuten-ikc4q.amagi.tv/playlist/rakutenAA-blueskyent-lovepetsemea-rakuten/playlist.m3u8
-Love Pets (1080p),LovePets.ca,CA Documentary,YES,playing,0.6,amg01576-blueskyeenterta-lovepetsemea-samsunguk-32fso.amagi.tv,https://amg01576-blueskyeenterta-lovepetsemea-samsunguk-32fso.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsunguk/playlist.m3u8
-Love Pets (1080p),LovePets.ca,CA Documentary,YES,playing,0.7,amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv,https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8
-Love The Planet (1080p),LoveThePlanet.es,ES Documentary,YES,playing,0.4,amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv,https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8
-Love the Planet (1080p),LoveThePlanet.es,ES Documentary,YES,playing,0.7,amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv,https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
-Lucky Dog (720p),LuckyDog.us,US Documentary,YES,playing,0.4,d3j95sejv6mybj.cloudfront.net,https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8
-MagellanTV Now (1080p),MagellanTVNow.us,US Documentary,YES,playing,0.3,amg00376-magellan-amg00376c5-samsung-nz-1714.playouts.now.amagi.tv,https://amg00376-magellan-amg00376c5-samsung-nz-1714.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungnz/playlist.m3u8
-MagellanTV Now (1080p),MagellanTVNow.us,US Documentary,YES,playing,0.5,amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv,https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
-MagellanTV TV Now (1080p),MagellanTVNow.us,US Documentary,YES,playing,0.7,pb-5evqkeieu3o6d.akamaized.net,https://pb-5evqkeieu3o6d.akamaized.net/Magellan_TV_Now.m3u8
-MediBizTV (720p),MediBizTV.in,IN Documentary,YES,playing,1.4,43wrzjnpqoxe-hls-live.wmncdn.net,https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
-MWD Documentary,MWDDocumentary.mm,MM Documentary,YES,playing,1.5,203.81.84.130,http://203.81.84.130/hls/mwd_document/index.m3u8
+Law & Crime (720p),LawCrime.us,US Documentary,YES,playing,0.3,cdn.lawandcrime.net,https://cdn.lawandcrime.net/rewind/playlist.m3u8
+Love Nature (1080p),LoveNature.ca,CA Documentary,YES,playing,0.4,amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv,https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
+Love Nature (720p),LoveNature.ca,CA Documentary,YES,playing,0.7,bamus-klowdtv.amagi.tv,https://bamus-klowdtv.amagi.tv/playlist.m3u8
+Love Nature 4K (2160p),LoveNature.ca@4K,CA Documentary,YES,playing,4.6,pb-ehs1glsha1juy.akamaized.net,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+Love Nature en Espanol (1080p),LoveNatureenEspanol.us,US Documentary,YES,playing,0.4,amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv,https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
+Love Pets (1080p),LovePets.ca,CA Documentary,YES,playing,0.9,amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv,https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8
+Love Pets (1080p),LovePets.ca,CA Documentary,YES,playing,1.3,amg01576-blueskyeenterta-lovepetsemea-samsunguk-32fso.amagi.tv,https://amg01576-blueskyeenterta-lovepetsemea-samsunguk-32fso.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsunguk/playlist.m3u8
+Love Pets (1080p),LovePets.ca,CA Documentary,YES,playing,1.4,rakutenaa-blueskyent-lovepetsemea-rakuten-ikc4q.amagi.tv,https://rakutenaa-blueskyent-lovepetsemea-rakuten-ikc4q.amagi.tv/playlist/rakutenAA-blueskyent-lovepetsemea-rakuten/playlist.m3u8
+Love The Planet (1080p),LoveThePlanet.es,ES Documentary,YES,playing,0.7,amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv,https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8
+Love the Planet (1080p),LoveThePlanet.es,ES Documentary,YES,playing,1.6,amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv,https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
+Lucky Dog (720p),LuckyDog.us,US Documentary,YES,playing,0.6,d3j95sejv6mybj.cloudfront.net,https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8
+MagellanTV Now (1080p),MagellanTVNow.us,US Documentary,YES,playing,0.6,amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv,https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
+MagellanTV Now (1080p),MagellanTVNow.us,US Documentary,YES,playing,0.5,amg00376-magellan-amg00376c5-samsung-nz-1714.playouts.now.amagi.tv,https://amg00376-magellan-amg00376c5-samsung-nz-1714.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungnz/playlist.m3u8
+MagellanTV TV Now (1080p),MagellanTVNow.us,US Documentary,YES,playing,0.5,pb-5evqkeieu3o6d.akamaized.net,https://pb-5evqkeieu3o6d.akamaized.net/Magellan_TV_Now.m3u8
+MediBizTV (720p),MediBizTV.in,IN Documentary,YES,playing,1.9,43wrzjnpqoxe-hls-live.wmncdn.net,https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
+MRTV Farmer,MRTVFarmer.mm,MM Documentary,YES,playing,3.7,mrtvott.com,https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
+MWD Documentary,MWDDocumentary.mm,MM Documentary,YES,playing,1.2,203.81.84.130,http://203.81.84.130/hls/mwd_document/index.m3u8
 N24 Doku,N24Doku.de,DE Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
-Nano (576p),Nano.ru,RU Documentary,YES,playing,0.9,stream.mcquack.net,http://stream.mcquack.net/419/index.m3u8
-Nano HD (1080p),Nano.ru@HD,RU Documentary,YES,playing,0.9,185.23.80.23:8080,http://185.23.80.23:8080/NANO_HD/index.m3u8
-National Geographic,NationalGeographic.cz,CZ Documentary,YES,playing,0.6,88.212.15.19,http://88.212.15.19/live/test_ngc/playlist.m3u8
-National Geographic,NationalGeographic.hu,HU Documentary,YES,playing,0.5,88.212.15.19,http://88.212.15.19/live/ngc_hun/index.m3u8
-National Geographic (1080p),NationalGeographic.hr,HR Documentary,YES,playing,0.8,176.61.157.250,http://176.61.157.250/NationalGeographic/index.m3u8
-National Geographic (1080p),NationalGeographic.mx,MX Documentary,YES,playing,0.6,138.121.15.230:9002,http://138.121.15.230:9002/NAT-GEO/index.m3u8
-National Geographic (576p),NationalGeographic.in,IN Documentary,YES,stream data,1.0,main.light-ott.net:80,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla
-National Geographic (720p),NationalGeographic.us,US Documentary,YES,playing,0.9,212.5.144.156:8080,http://212.5.144.156:8080/natgeo/index.m3u8
-National Geographic HD (1080p),NationalGeographic.nl@HD,NL Documentary,YES,playing,1.1,46.32.176.50,http://46.32.176.50/NationalGeographicHD/index.m3u8
-National Geographic HD East (720p),NationalGeographic.us@HDEast,US Documentary,YES,playing,0.2,198.58.104.90:8989,http://198.58.104.90:8989/natgeo/index.m3u8
-National Geographic Latin America (1080p),NationalGeographicLatinAmerica.us,US Documentary,YES,playing,0.1,15.204.246.24:8080,http://15.204.246.24:8080/NatGeoHD/index.m3u8
-National Geographic Wild,NationalGeographicWild.cz,CZ Documentary,YES,playing,0.5,88.212.15.29,http://88.212.15.29/live/test_ngw/playlist.m3u8
-National Geographic Wild,NationalGeographicWild.hu,HU Documentary,YES,playing,0.6,88.212.15.19,http://88.212.15.19/live/ngw_hun/index.m3u8
-National Geographic Wild (720p),NationalGeographicWild.ua,UA Documentary,YES,playing,1.1,46.32.176.50,http://46.32.176.50/natgeowild/index.m3u8
-National Geographic Wild HD East (720p),NationalGeographicWild.us@HDEast,US Documentary,YES,playing,0.2,198.58.104.90:8989,http://198.58.104.90:8989/natgeowild/index.m3u8
-NatureTime (1080p),NatureTime.ca@AU,CA Documentary,YES,playing,0.3,amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv,https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
-NatureTime (1080p),NatureTime.ca@AU,CA Documentary,YES,playing,0.7,amg00090-blueantllc-lovenatureau-samsungnz-r3iaz.amagi.tv,https://amg00090-blueantllc-lovenatureau-samsungnz-r3iaz.amagi.tv/playlist/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8
-Nauka (576p),Nauka.ru,RU Documentary,YES,playing,0.9,stream.mcquack.net,http://stream.mcquack.net/125/index.m3u8
-Nauka (576p),Nauka.ru,RU Documentary,YES,playing,1.0,str2.iptvhd.ru:8080,http://str2.iptvhd.ru:8080/Nauka_2.0/index.m3u8
-Nauka (576p),Nauka.ua,UA Documentary,YES,playing,1.1,stream.mcquack.net,http://stream.mcquack.net/403/index.m3u8
-O'zbekiston Tarixi (1080p),OzbekistonTarixi.uz,UZ Documentary,YES,playing,2.4,stream8.cinerama.uz,https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
-On the Case,OnTheCase.us,US Documentary,YES,playing,1.1,jmp2.uk,https://jmp2.uk/plu-62cd9f1cda044a00077b8f41.m3u8
-On the Case,OnTheCase.us,US Documentary,YES,playing,1.2,jmp2.uk,https://jmp2.uk/plu-62cdad7b5c38c00007f566c2.m3u8
-On the Case,OnTheCase.us,US Documentary,YES,playing,1.3,jmp2.uk,https://jmp2.uk/plu-62cd971cec90c20007081050.m3u8
-Ozone TV,OzoneTV.hu,HU Documentary,YES,playing,0.6,88.212.15.19,http://88.212.15.19/live/ozone/index.m3u8
-Persiana Docs,PersianaDocs.fr,FR Documentary,YES,playing,0.8,scihls.persiana.live,https://scihls.persiana.live/hls/stream.m3u8
-Persiana Travel,PersianaTravel.fr,FR Documentary,YES,playing,0.7,ptravelhls.persiana.live,https://ptravelhls.persiana.live/hls/stream.m3u8
-Persiana Travel,PersianaTravel.fr,FR Documentary,YES,playing,0.7,mardomhls.wns.live,https://mardomhls.wns.live/hls/stream.m3u8
-Pervyy Kosmicheskiy HD (1080p),PervyyKosmicheskiy.ru@HD,RU Documentary,YES,playing,1.0,str2.iptvhd.ru:8080,http://str2.iptvhd.ru:8080/Eureka_HD/index.m3u8
-Pluto TV Alien Invasion,PlutoTVAlienInvasion.de,DE Documentary,YES,playing,1.1,jmp2.uk,https://jmp2.uk/plu-6462190b7cb4b1000862dd60.m3u8
-Pluto TV Alien Invasion,PlutoTVAlienInvasion.se,SE Documentary,YES,playing,1.7,jmp2.uk,https://jmp2.uk/plu-650999b86a841400083bd1ab.m3u8
-Pluto TV Aliens,PlutoTVAliens.us,US Documentary,YES,playing,0.9,jmp2.uk,https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8
-Pluto TV American True Crime,PlutoTVAmericanTrueCrime.de,DE Documentary,YES,playing,1.1,jmp2.uk,https://jmp2.uk/plu-692ebafce72f03e07e7df985.m3u8
-Pluto TV Animais,PlutoTVAnimais.us,US Documentary,YES,playing,0.2,jmp2.uk,https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
-Pluto TV Animales,PlutoTVAnimales.de,DE Documentary,YES,playing,0.9,jmp2.uk,https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
-Pluto TV Animals,PlutoTVAnimals.de,DE Documentary,YES,playing,0.6,jmp2.uk,https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8
-Pluto TV Animals,PlutoTVAnimals.de@GB,DE Documentary,YES,playing,1.2,jmp2.uk,https://jmp2.uk/plu-5ddf8ea0d000120009bcad83.m3u8
-Pluto TV Animaux,PlutoTVAnimaux.de,DE Documentary,YES,playing,1.1,jmp2.uk,https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
-Pluto TV Aventure,PlutoTVAventure.de,DE Documentary,YES,playing,0.9,jmp2.uk,https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
-Pluto TV Britain at War,PlutoTVBritainatWar.de,DE Documentary,YES,playing,1.1,jmp2.uk,https://jmp2.uk/plu-625e8cb585ef320007806caf.m3u8
-Pluto TV Conspiracy,PlutoTVConspiracy.de,DE Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8
-Pluto TV Documentari,PlutoTVDocumentari.de,DE Documentary,YES,playing,0.9,jmp2.uk,https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
-Pluto TV Dokumentar,PlutoTVDokumentar.se@DK,SE Documentary,YES,playing,1.2,jmp2.uk,https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8
-Pluto TV Dokumentär,PlutoTVDokumentar.se,SE Documentary,YES,playing,1.7,jmp2.uk,https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8
-Pluto TV Explore,PlutoTVExplore.de,DE Documentary,YES,playing,0.9,jmp2.uk,https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8
-Pluto TV Food,PlutoTVFood.de,DE Documentary,YES,playing,0.9,jmp2.uk,https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
-Pluto TV Food,PlutoTVFood.de@GB,DE Documentary,YES,playing,1.3,jmp2.uk,https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8
-Pluto TV Histoire (720p),PlutoTVHistoire.de,DE Documentary,YES,playing,0.9,jmp2.uk,https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
+Nano (576p),Nano.ru,RU Documentary,YES,playing (retry 1),1.6,stream.mcquack.net,http://stream.mcquack.net/419/index.m3u8
+Nano HD (1080p),Nano.ru@HD,RU Documentary,YES,playing,1.2,185.23.80.23:8080,http://185.23.80.23:8080/NANO_HD/index.m3u8
+National Geographic,NationalGeographic.cz,CZ Documentary,YES,playing,0.8,88.212.15.19,http://88.212.15.19/live/test_ngc/playlist.m3u8
+National Geographic,NationalGeographic.hu,HU Documentary,YES,playing,0.8,88.212.15.19,http://88.212.15.19/live/ngc_hun/index.m3u8
+National Geographic (1080p),NationalGeographic.mx,MX Documentary,YES,playing,0.8,138.121.15.230:9002,http://138.121.15.230:9002/NAT-GEO/index.m3u8
+National Geographic (576p),NationalGeographic.in,IN Documentary,YES,stream data,1.7,main.light-ott.net:80,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla
+National Geographic HD (1080p),NationalGeographic.nl@HD,NL Documentary,YES,playing,1.4,46.32.176.50,http://46.32.176.50/NationalGeographicHD/index.m3u8
+National Geographic HD East (720p),NationalGeographic.us@HDEast,US Documentary,YES,playing,0.1,198.58.104.90:8989,http://198.58.104.90:8989/natgeo/index.m3u8
+National Geographic Wild,NationalGeographicWild.cz,CZ Documentary,YES,playing,0.7,88.212.15.29,http://88.212.15.29/live/test_ngw/playlist.m3u8
+National Geographic Wild,NationalGeographicWild.hu,HU Documentary,YES,playing,0.8,88.212.15.19,http://88.212.15.19/live/ngw_hun/index.m3u8
+National Geographic Wild (720p),NationalGeographicWild.ua,UA Documentary,YES,playing,1.4,46.32.176.50,http://46.32.176.50/natgeowild/index.m3u8
+National Geographic Wild HD East (720p),NationalGeographicWild.us@HDEast,US Documentary,YES,playing,0.1,198.58.104.90:8989,http://198.58.104.90:8989/natgeowild/index.m3u8
+NatureTime (1080p),NatureTime.ca@AU,CA Documentary,YES,playing,1.0,amg00090-blueantllc-lovenatureau-samsungnz-r3iaz.amagi.tv,https://amg00090-blueantllc-lovenatureau-samsungnz-r3iaz.amagi.tv/playlist/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8
+NatureTime (1080p),NatureTime.ca@AU,CA Documentary,YES,playing,1.0,amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv,https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
+Nauka (576p),Nauka.ru,RU Documentary,YES,playing,1.3,stream.mcquack.net,http://stream.mcquack.net/125/index.m3u8
+Nauka (576p),Nauka.ru,RU Documentary,YES,playing,1.2,str2.iptvhd.ru:8080,http://str2.iptvhd.ru:8080/Nauka_2.0/index.m3u8
+Nauka (576p),Nauka.ua,UA Documentary,YES,playing,1.2,stream.mcquack.net,http://stream.mcquack.net/403/index.m3u8
+O'zbekiston Tarixi (1080p),OzbekistonTarixi.uz,UZ Documentary,YES,playing,2.0,stream8.cinerama.uz,https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
+On the Case,OnTheCase.us,US Documentary,YES,playing,0.8,jmp2.uk,https://jmp2.uk/plu-62cdad7b5c38c00007f566c2.m3u8
+On the Case,OnTheCase.us,US Documentary,YES,playing,1.6,jmp2.uk,https://jmp2.uk/plu-62cd971cec90c20007081050.m3u8
+On the Case,OnTheCase.us,US Documentary,YES,playing,1.5,jmp2.uk,https://jmp2.uk/plu-62cd9f1cda044a00077b8f41.m3u8
+Ozone TV,OzoneTV.hu,HU Documentary,YES,playing,0.8,88.212.15.19,http://88.212.15.19/live/ozone/index.m3u8
+Persiana Docs,PersianaDocs.fr,FR Documentary,YES,playing,1.1,scihls.persiana.live,https://scihls.persiana.live/hls/stream.m3u8
+Persiana Travel,PersianaTravel.fr,FR Documentary,YES,playing,1.0,ptravelhls.persiana.live,https://ptravelhls.persiana.live/hls/stream.m3u8
+Persiana Travel,PersianaTravel.fr,FR Documentary,YES,playing,1.0,mardomhls.wns.live,https://mardomhls.wns.live/hls/stream.m3u8
+Pervyy Kosmicheskiy HD (1080p),PervyyKosmicheskiy.ru@HD,RU Documentary,YES,playing,1.2,str2.iptvhd.ru:8080,http://str2.iptvhd.ru:8080/Eureka_HD/index.m3u8
+Pluto TV Alien Invasion,PlutoTVAlienInvasion.de,DE Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-6462190b7cb4b1000862dd60.m3u8
+Pluto TV Alien Invasion,PlutoTVAlienInvasion.se,SE Documentary,YES,playing,1.1,jmp2.uk,https://jmp2.uk/plu-650999b86a841400083bd1ab.m3u8
+Pluto TV Aliens,PlutoTVAliens.us,US Documentary,YES,playing,0.4,jmp2.uk,https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8
+Pluto TV American True Crime,PlutoTVAmericanTrueCrime.de,DE Documentary,YES,playing,0.6,jmp2.uk,https://jmp2.uk/plu-692ebafce72f03e07e7df985.m3u8
+Pluto TV Animais,PlutoTVAnimais.us,US Documentary,YES,playing,0.3,jmp2.uk,https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
+Pluto TV Animales,PlutoTVAnimales.de,DE Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
+Pluto TV Animals,PlutoTVAnimals.de,DE Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8
+Pluto TV Animals,PlutoTVAnimals.de@GB,DE Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-5ddf8ea0d000120009bcad83.m3u8
+Pluto TV Animaux,PlutoTVAnimaux.de,DE Documentary,YES,playing,0.3,jmp2.uk,https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
+Pluto TV Aventure,PlutoTVAventure.de,DE Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
+Pluto TV Britain at War,PlutoTVBritainatWar.de,DE Documentary,YES,playing,1.5,jmp2.uk,https://jmp2.uk/plu-625e8cb585ef320007806caf.m3u8
+Pluto TV Conspiracy,PlutoTVConspiracy.de,DE Documentary,YES,playing,0.4,jmp2.uk,https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8
+Pluto TV Documentari,PlutoTVDocumentari.de,DE Documentary,YES,playing,1.1,jmp2.uk,https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
+Pluto TV Dokumentar,PlutoTVDokumentar.se@DK,SE Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8
+Pluto TV Dokumentär,PlutoTVDokumentar.se,SE Documentary,YES,playing,1.2,jmp2.uk,https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8
+Pluto TV Explore,PlutoTVExplore.de,DE Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8
+Pluto TV Food,PlutoTVFood.de,DE Documentary,YES,playing,0.3,jmp2.uk,https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
+Pluto TV Food,PlutoTVFood.de@GB,DE Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8
+Pluto TV Histoire (720p),PlutoTVHistoire.de,DE Documentary,YES,playing,1.5,jmp2.uk,https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
 Pluto TV Historia (720p),PlutoTVHistoria.de,DE Documentary,YES,playing,0.9,jmp2.uk,https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
-Pluto TV History,PlutoTVHistory.us,US Documentary,YES,playing,1.8,jmp2.uk,https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
-Pluto TV Investigação,PlutoTVInvestigacao.us,US Documentary,YES,playing,0.2,jmp2.uk,https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
-Pluto TV Mystery,PlutoTVMystery.de,DE Documentary,YES,playing,0.9,jmp2.uk,https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8
-Pluto TV Natura,PlutoTVNatura.de,DE Documentary,YES,playing,0.9,jmp2.uk,https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
-Pluto TV Naturaleza,PlutoTVNaturaleza.us,US Documentary,YES,playing,0.9,jmp2.uk,https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
-Pluto TV Nature,PlutoTVNature.de,DE Documentary,YES,playing,0.5,jmp2.uk,https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
-Pluto TV Negócio Fechado,PlutoTVNegocioFechado.us,US Documentary,YES,playing,0.2,jmp2.uk,https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8
-Pluto TV Paranormal,PlutoTVParanormal.us,US Documentary,YES,playing,0.2,jmp2.uk,https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8
+Pluto TV History,PlutoTVHistory.us,US Documentary,YES,playing,1.1,jmp2.uk,https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
+Pluto TV Investigação,PlutoTVInvestigacao.us,US Documentary,YES,playing,0.7,jmp2.uk,https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
+Pluto TV Mystery,PlutoTVMystery.de,DE Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8
+Pluto TV Natura,PlutoTVNatura.de,DE Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
+Pluto TV Naturaleza,PlutoTVNaturaleza.us,US Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
+Pluto TV Nature,PlutoTVNature.de,DE Documentary,YES,playing,0.4,jmp2.uk,https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
+Pluto TV Negócio Fechado,PlutoTVNegocioFechado.us,US Documentary,YES,playing,0.4,jmp2.uk,https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8
+Pluto TV Paranormal,PlutoTVParanormal.us,US Documentary,YES,playing,0.6,jmp2.uk,https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8
 Pluto TV Paranormal,PlutoTVParanormal.us@CA,US Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8
 Pluto TV PetrolHeads,PlutoTVPetrolHeads.de,DE Documentary,YES,playing,1.1,jmp2.uk,https://jmp2.uk/plu-65a7b0814a10d800085ff2df.m3u8
-Pluto TV Policial,PlutoTVPolicial.us,US Documentary,YES,playing,0.2,jmp2.uk,https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8
-Pluto TV Reportagen,PlutoTVReportagen.de,DE Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-68ada3edf84960586ad31c7d.m3u8
+Pluto TV Policial,PlutoTVPolicial.us,US Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8
+Pluto TV Reportagen,PlutoTVReportagen.de,DE Documentary,YES,playing,0.6,jmp2.uk,https://jmp2.uk/plu-68ada3edf84960586ad31c7d.m3u8
 Pluto TV Science,PlutoTVScience.de,DE Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8
-Pluto TV Science,PlutoTVScience.de@GB,DE Documentary,YES,playing,0.9,jmp2.uk,https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8
-Pluto TV Science,PlutoTVScience.us,US Documentary,YES,playing,0.2,jmp2.uk,https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
-Pluto TV Space,PlutoTVSpace.de,DE Documentary,YES,playing,0.9,jmp2.uk,https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
+Pluto TV Science,PlutoTVScience.de@GB,DE Documentary,YES,playing,1.6,jmp2.uk,https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8
+Pluto TV Science,PlutoTVScience.us,US Documentary,YES,playing,1.4,jmp2.uk,https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
+Pluto TV Space,PlutoTVSpace.de,DE Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
 Pluto TV Space,PlutoTVSpace.de@GB,DE Documentary,YES,playing,1.1,jmp2.uk,https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8
 Pluto TV Space,PlutoTVSpace.se,SE Documentary,YES,playing,1.1,jmp2.uk,https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8
-Pluto TV Storia,PlutoTVStoria.de,DE Documentary,YES,playing,0.9,jmp2.uk,https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
-Pluto TV Tough Jobs,PlutoTVToughJobs.de,DE Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8
-Pluto TV True Crime,PlutoTVTrueCrime.de,DE Documentary,YES,playing,0.9,jmp2.uk,https://jmp2.uk/plu-615333098185f00008715a56.m3u8
+Pluto TV Storia,PlutoTVStoria.de,DE Documentary,YES,playing,1.4,jmp2.uk,https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
+Pluto TV Tough Jobs,PlutoTVToughJobs.de,DE Documentary,YES,playing,0.7,jmp2.uk,https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8
 Pluto TV True Crime,PlutoTVTrueCrime.de@ES,DE Documentary,YES,playing,0.9,jmp2.uk,https://jmp2.uk/plu-64a3f200f238ce0008d47247.m3u8
-Pluto TV True Crime,PlutoTVTrueCrime.de@IT,DE Documentary,YES,playing,0.9,jmp2.uk,https://jmp2.uk/plu-66d9ab4bf0f17500084e9b7e.m3u8
-Pluto TV True Crime,PlutoTVTrueCrime.se@DK,SE Documentary,YES,playing,1.1,jmp2.uk,https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8
-Pluto TV True Crime,PlutoTVTrueCrime.se@NO,SE Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8
-Pluto TV True Crime,PlutoTVTrueCrime.se,SE Documentary,YES,playing,1.1,jmp2.uk,https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8
+Pluto TV True Crime,PlutoTVTrueCrime.de,DE Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-615333098185f00008715a56.m3u8
+Pluto TV True Crime,PlutoTVTrueCrime.de@IT,DE Documentary,YES,playing,1.7,jmp2.uk,https://jmp2.uk/plu-66d9ab4bf0f17500084e9b7e.m3u8
+Pluto TV True Crime,PlutoTVTrueCrime.se@DK,SE Documentary,YES,playing,0.4,jmp2.uk,https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8
+Pluto TV True Crime,PlutoTVTrueCrime.se@NO,SE Documentary,YES,playing,0.4,jmp2.uk,https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8
+Pluto TV True Crime,PlutoTVTrueCrime.se,SE Documentary,YES,playing,0.8,jmp2.uk,https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8
+Pluto TV True Crime,PlutoTVTrueCrime.us,US Documentary,YES,playing,0.6,jmp2.uk,https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
 Pluto TV True Crime,PlutoTVTrueCrime.us@CA,US Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8
-Pluto TV True Crime,PlutoTVTrueCrime.us,US Documentary,YES,playing,2.2,jmp2.uk,https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
-Pluto TV Turbo,PlutoTVTurbo.us,US Documentary,YES,playing,0.9,jmp2.uk,https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
-Pluto TV Verdenskrigene,PlutoTVVerdenskrigene.se,SE Documentary,YES,playing,1.1,jmp2.uk,https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8
-Pluto TV Verdenskrigene,PlutoTVVerdenskrigene.se@NO,SE Documentary,YES,playing,1.6,jmp2.uk,https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8
-Pluto TV Världskrigen,PlutoTVVarldskrigen.se,SE Documentary,YES,playing,1.1,jmp2.uk,https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8
-Polsat Viasat History (1080p),PolsatViasatHistory.pl,PL Documentary,YES,playing,0.6,185.227.34.179:8080,http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8
-RL PRO TV,RLPROTV.cd,CD Documentary,YES,playing (retry 2),2.3,stream.berosat.live:19360,https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
-RT Documentary English (1080p),RTDocumentary.ru,RU Documentary,YES,playing,1.6,rt-rtd.rttv.com,https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-RT Documentary English (1080p),RTDocumentary.ru,RU Documentary,YES,playing,2.0,rt-rtd.rttv.com,https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-RT Documentary Russian (1080p),RTDocumentary.ru@Russian,RU Documentary,YES,playing,1.8,rt-doc.rttv.com,https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
-Safari TV (576p),SafariTV.in,IN Documentary,YES,playing,2.7,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8
-Sensing Murder,SensingMurder.us,US Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-5e9ed47c26ebb000074af566.m3u8
-Smithsonian Channel Pluto TV,SmithsonianChannelPlutoTV.us,US Documentary,YES,playing,0.2,jmp2.uk,https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
-Smithsonian Channel Pluto TV,SmithsonianChannelPlutoTV.us@LatAm,US Documentary,YES,playing,1.1,jmp2.uk,https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
-Smithsonian Channel Selects,SmithsonianChannelSelects.se,SE Documentary,YES,playing,1.6,jmp2.uk,https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8
-Smithsonian Channel Selects,SmithsonianChannelSelects.se@DK,SE Documentary,YES,playing,1.7,jmp2.uk,https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
-Smithsonian Channel Selects,SmithsonianChannelSelects.us,US Documentary,YES,playing,0.2,jmp2.uk,https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
-Spektrum,Spektrum.cz,CZ Documentary,YES,playing,0.6,88.212.15.19,http://88.212.15.19/live/test_spektrum/playlist.m3u8
-Spektrum,Spektrum.hu,HU Documentary,YES,playing,0.6,88.212.15.19,http://88.212.15.19/live/spektrum_hun/index.m3u8
-SPIEGEL TV (720p),CuriosityChannel.de,DE Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
-Spike Pluto TV,SpikePlutoTV.us,US Documentary,YES,playing,0.3,jmp2.uk,https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8
-Storie Criminali,StorieCriminali.es,ES Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8
-Teen Mom,TeenMom.us,US Documentary,YES,playing,0.9,jmp2.uk,https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8
-TERRA (1080p),TERRA.ru,RU Documentary,YES,playing,1.0,str2.iptvhd.ru:8080,http://str2.iptvhd.ru:8080/TERRA_HD/index.m3u8
+Pluto TV Turbo,PlutoTVTurbo.us,US Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
+Pluto TV Verdenskrigene,PlutoTVVerdenskrigene.se,SE Documentary,YES,playing,1.2,jmp2.uk,https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8
+Pluto TV Verdenskrigene,PlutoTVVerdenskrigene.se@NO,SE Documentary,YES,playing,1.9,jmp2.uk,https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8
+Pluto TV Världskrigen,PlutoTVVarldskrigen.se,SE Documentary,YES,playing,1.6,jmp2.uk,https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8
+Polsat Viasat History (1080p),PolsatViasatHistory.pl,PL Documentary,YES,playing,0.9,185.227.34.179:8080,http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8
+RL PRO TV,RLPROTV.cd,CD Documentary,YES,playing,1.9,stream.berosat.live:19360,https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
+RT Documentary English (1080p),RTDocumentary.ru,RU Documentary,YES,playing,2.0,rt-rtd.rttv.com,https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+RT Documentary English (1080p),RTDocumentary.ru,RU Documentary,YES,playing,2.6,rt-rtd.rttv.com,https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+RT Documentary Russian (1080p),RTDocumentary.ru@Russian,RU Documentary,YES,playing,2.9,rt-doc.rttv.com,https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
+Safari TV (576p),SafariTV.in,IN Documentary,YES,playing,2.9,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8
+Sensing Murder,SensingMurder.us,US Documentary,YES,playing,1.1,jmp2.uk,https://jmp2.uk/plu-5e9ed47c26ebb000074af566.m3u8
+Smithsonian Channel Pluto TV,SmithsonianChannelPlutoTV.us,US Documentary,YES,playing,0.6,jmp2.uk,https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
+Smithsonian Channel Pluto TV,SmithsonianChannelPlutoTV.us@LatAm,US Documentary,YES,playing,1.2,jmp2.uk,https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
+Smithsonian Channel Selects,SmithsonianChannelSelects.se,SE Documentary,YES,playing,1.1,jmp2.uk,https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8
+Smithsonian Channel Selects,SmithsonianChannelSelects.se@DK,SE Documentary,YES,playing,1.4,jmp2.uk,https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
+Smithsonian Channel Selects,SmithsonianChannelSelects.us,US Documentary,YES,playing,1.0,jmp2.uk,https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
+Spektrum,Spektrum.cz,CZ Documentary,YES,playing,0.8,88.212.15.19,http://88.212.15.19/live/test_spektrum/playlist.m3u8
+Spektrum,Spektrum.hu,HU Documentary,YES,playing,0.8,88.212.15.19,http://88.212.15.19/live/spektrum_hun/index.m3u8
+SPIEGEL TV (720p),CuriosityChannel.de,DE Documentary,YES,playing,0.6,jmp2.uk,https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
+Spike Pluto TV,SpikePlutoTV.us,US Documentary,YES,playing,1.9,jmp2.uk,https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8
+Storie Criminali,StorieCriminali.es,ES Documentary,YES,playing,0.3,jmp2.uk,https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8
+Teen Mom,TeenMom.us,US Documentary,YES,playing,1.6,jmp2.uk,https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8
+TERRA (1080p),TERRA.ru,RU Documentary,YES,playing,1.2,str2.iptvhd.ru:8080,http://str2.iptvhd.ru:8080/TERRA_HD/index.m3u8
 Terra Mater WILD (1080p),TerraMaterWILD.de,DE Documentary,YES,playing,0.5,53ff3982.wurl.com,https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8
-Terra Mater WILD (1080p),TerraMaterWILD.de@English,DE Documentary,YES,playing,0.8,amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv,https://amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0002/playlist.m3u8
-Terra Mater WILD English (1080p),TerraMaterWILD.de@English,DE Documentary,YES,playing,0.5,amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv,https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
-The Nest (1080p),TheNest.us,US Documentary,YES,playing,0.5,fast-channels.sinclairstoryline.com,https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
-Tochka.rf (576p),Tochkarf.ru,RU Documentary,YES,playing,0.9,str2.iptvhd.ru:8080,http://str2.iptvhd.ru:8080/HD_Life/index.m3u8
-Top Secret (576p),TopSecret.ru,RU Documentary,YES,playing,0.9,str2.iptvhd.ru:8080,http://str2.iptvhd.ru:8080/Sovershenno_sekretno/index.m3u8
-Total Crime (1080p),TotalCrime.ca,CA Documentary,YES,playing,0.6,aegis-cloudfront-1.tubi.video,https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
-TV8,TV8.md,MD Documentary,YES,playing,0.9,315e5a5d.ottrast.com,http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8
-UMSA TVU Internacional (720p),UMSATVUInternacional.bo,BO Documentary,YES,playing,0.4,live.enhdtv.com:8081,https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
+Terra Mater WILD (1080p),TerraMaterWILD.de@English,DE Documentary,YES,playing,1.1,amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv,https://amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0002/playlist.m3u8
+Terra Mater WILD English (1080p),TerraMaterWILD.de@English,DE Documentary,YES,playing,0.7,amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv,https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
+The Nest (1080p),TheNest.us,US Documentary,YES,playing,0.6,fast-channels.sinclairstoryline.com,https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+Tochka.rf (576p),Tochkarf.ru,RU Documentary,YES,playing,1.1,str2.iptvhd.ru:8080,http://str2.iptvhd.ru:8080/HD_Life/index.m3u8
+Total Crime (1080p),TotalCrime.ca,CA Documentary,YES,playing,0.5,aegis-cloudfront-1.tubi.video,https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
+UMSA TVU Internacional (720p),UMSATVUInternacional.bo,BO Documentary,YES,playing,0.5,live.enhdtv.com:8081,https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
 UMSA TVU Internacional (720p),UMSATVUInternacional.bo,BO Documentary,YES,playing,0.5,edge.enhdtv.com,https://edge.enhdtv.com/8026/index.m3u8
-Unidentified (1080p),Unidentified.us,US Documentary,YES,playing,0.6,d3ify425qsio2d.cloudfront.net,https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
-Viasat Explore,ViasatExplore.cz,CZ Documentary,YES,playing,0.5,88.212.15.29,http://88.212.15.29/live/test_viasat_explore_atk_tv/playlist.m3u8
-Viasat Explore,ViasatExplore.se,SE Documentary,YES,playing,0.8,315e5a5d.ottrast.com,http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12085/index.m3u8
-Viasat Explore,ViasatExplore.ua,UA Documentary,YES,playing,1.5,777905.live.tvstitch.com,http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMyOTgmc3Q9eWVMNVRuX0tiUlAwVWd0UjctYTBMZw%3D%3D&master=79
-Viasat Explore Classic (720p),ViasatExploreClassic.pl,PL Documentary,YES,playing,0.3,da9c49fa.wurl.com,https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
-Viasat History,ViasatHistory.cz,CZ Documentary,YES,playing,0.5,88.212.15.29,http://88.212.15.29/live/test_viasat_history_atk_tv/playlist.m3u8
-Viasat History,ViasatHistory.se,SE Documentary,YES,playing,0.6,315e5a5d.ottrast.com,http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8
-Viasat History,ViasatHistory.ua,UA Documentary,YES,playing,1.3,777905.live.tvstitch.com,http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78
-Viasat History (1080p),ViasatHistory.bg,BG Documentary,YES,playing,2.3,shift03.isp.bg,https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
-Viasat Nature,ViasatNature.cz,CZ Documentary,YES,playing,0.5,88.212.15.29,http://88.212.15.29/live/test_viasat_nature_atk_tv/playlist.m3u8
+Unidentified (1080p),Unidentified.us,US Documentary,YES,playing,0.5,d3ify425qsio2d.cloudfront.net,https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
+Viasat Explore,ViasatExplore.cz,CZ Documentary,YES,playing,0.7,88.212.15.29,http://88.212.15.29/live/test_viasat_explore_atk_tv/playlist.m3u8
+Viasat Explore,ViasatExplore.se,SE Documentary,YES,playing,0.9,315e5a5d.ottrast.com,http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12085/index.m3u8
+Viasat Explore,ViasatExplore.ua,UA Documentary,YES,playing,2.1,777905.live.tvstitch.com,http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMyOTgmc3Q9eWVMNVRuX0tiUlAwVWd0UjctYTBMZw%3D%3D&master=79
+Viasat Explore (1080p),ViasatExplore.bg,BG Documentary,YES,playing,2.8,shift03.isp.bg,https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
+Viasat Explore Classic (720p),ViasatExploreClassic.pl,PL Documentary,YES,playing,0.7,da9c49fa.wurl.com,https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
+Viasat History,ViasatHistory.cz,CZ Documentary,YES,playing,0.7,88.212.15.29,http://88.212.15.29/live/test_viasat_history_atk_tv/playlist.m3u8
+Viasat History,ViasatHistory.se,SE Documentary,YES,playing,0.8,315e5a5d.ottrast.com,http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8
+Viasat History,ViasatHistory.ua,UA Documentary,YES,playing,1.9,777905.live.tvstitch.com,http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78
+Viasat History (1080p),ViasatHistory.bg,BG Documentary,YES,playing,2.9,shift03.isp.bg,https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
+Viasat Nature,ViasatNature.cz,CZ Documentary,YES,playing,0.7,88.212.15.29,http://88.212.15.29/live/test_viasat_nature_atk_tv/playlist.m3u8
 Viasat Nature,ViasatNature.se,SE Documentary,YES,playing,0.7,315e5a5d.ottrast.com,http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8
-Viasat Nature,ViasatNature.ua,UA Documentary,YES,playing,1.3,777905.live.tvstitch.com,http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMxMTAmc3Q9dTZrbUNadl9LWlpqMllkWVJRbDVBdw%3D%3D&master=77
-Viasat Nature (1080p),ViasatNature.bg,BG Documentary,YES,playing,2.3,shift03.isp.bg,https://shift03.isp.bg/ViasatNature_HD/index.m3u8
-viju Explore (576p),vijuExplore.ru,RU Documentary,YES,playing,0.9,str2.iptvhd.ru:8080,http://str2.iptvhd.ru:8080/Viasat_Explorer/index.m3u8
-viju Explore (576p),vijuExplore.ru,RU Documentary,YES,playing,2.1,fs.uplink.kz,https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv
-viju History (576p),vijuHistory.ru,RU Documentary,YES,playing,0.8,178.124.179.122:8080,http://178.124.179.122:8080/HistoryHD/index.m3u8
-viju History (576p),vijuHistory.ru,RU Documentary,YES,playing,1.8,fs.uplink.kz,https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv
-viju Nature,vijuNature.ru,RU Documentary,YES,playing,2.1,stream8.cinerama.uz,https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
-viju Nature (576p),vijuNature.ru,RU Documentary,YES,playing,1.4,fs.uplink.kz,https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
-viju Nature HD (1080p),vijuNature.ru@HD,RU Documentary,YES,playing,0.9,str2.iptvhd.ru:8080,http://str2.iptvhd.ru:8080/Viasat_Nature_HD/index.m3u8
-WaterBear (1080p),WaterBear.ch,CH Documentary,YES,playing,0.8,amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv,https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
-Wedo Big Stories (1080p),WedoBigStories.ch,CH Documentary,YES,playing,0.8,amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv,https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8
-WildEarth (1080p),WildEarth.za,ZA Documentary,YES,playing,0.4,dqga3jatxofgx.cloudfront.net,https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
-WildEarth (1080p),WildEarth.za,ZA Documentary,YES,playing,0.8,cdn-ue1-prod.tsv2.amagi.tv,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8
-WildEarth (1080p),WildEarth.za,ZA Documentary,YES,playing,0.9,cdn-ue1-prod.tsv2.amagi.tv,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8
-Wonder (1080p),Wonder.uk,UK Documentary,YES,playing,0.2,lds-wonder-rakuten.amagi.tv,https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
+Viasat Nature,ViasatNature.ua,UA Documentary,YES,playing,1.7,777905.live.tvstitch.com,http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMxMTAmc3Q9dTZrbUNadl9LWlpqMllkWVJRbDVBdw%3D%3D&master=77
+Viasat Nature (1080p),ViasatNature.bg,BG Documentary,YES,playing,2.8,shift03.isp.bg,https://shift03.isp.bg/ViasatNature_HD/index.m3u8
+viju Explore (576p),vijuExplore.ru,RU Documentary,YES,playing,2.8,fs.uplink.kz,https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv
+viju History (576p),vijuHistory.ru,RU Documentary,YES,playing,1.3,stream.mcquack.net,http://stream.mcquack.net/101/index.m3u8
+viju History (576p),vijuHistory.ru,RU Documentary,YES,playing,1.1,178.124.179.122:8080,http://178.124.179.122:8080/HistoryHD/index.m3u8
+viju Nature,vijuNature.ru,RU Documentary,YES,playing,2.2,stream8.cinerama.uz,https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+viju Nature (576p),vijuNature.ru,RU Documentary,YES,playing,2.0,fs.uplink.kz,https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
+viju Nature HD (1080p),vijuNature.ru@HD,RU Documentary,YES,playing,1.2,str2.iptvhd.ru:8080,http://str2.iptvhd.ru:8080/Viasat_Nature_HD/index.m3u8
+WaterBear (1080p),WaterBear.ch,CH Documentary,YES,playing,1.1,amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv,https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
+Wedo Big Stories (1080p),WedoBigStories.ch,CH Documentary,YES,playing,1.2,amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv,https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8
+WildEarth (1080p),WildEarth.za,ZA Documentary,YES,playing,0.5,dqga3jatxofgx.cloudfront.net,https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+WildEarth (1080p),WildEarth.za,ZA Documentary,YES,playing,1.2,cdn-ue1-prod.tsv2.amagi.tv,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8
+WildEarth (1080p),WildEarth.za,ZA Documentary,YES,playing,1.1,cdn-ue1-prod.tsv2.amagi.tv,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8
+Wonder (1080p),Wonder.uk,UK Documentary,YES,playing,0.5,lds-wonder-rakuten.amagi.tv,https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
 Wonder (1080p),Wonder.uk,UK Documentary,YES,playing,0.5,lds-wonder-plex.amagi.tv,https://lds-wonder-plex.amagi.tv/playlist.m3u8
-Wonder (720p),Wonder.uk,UK Documentary,YES,playing,0.4,lds-wonder-samsungau.amagi.tv,https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
-Zylo Into Crime (1080p),IntoCrime.fr,FR Documentary,YES,playing,0.7,amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv,https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
-ČT 2,CT2.cz,CZ Documentary,YES,playing,0.6,88.212.15.19,http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
-Нано ТВ HD (576p),Nano.ru@HD,RU Documentary,YES,playing,1.2,s1.tv-nano.com,http://s1.tv-nano.com/Nano_rec/index.m3u8
-Наука,Nauka.ru,RU Documentary,YES,playing,3.1,vod.tuva.ru,https://vod.tuva.ru/nauka2/index.m3u8
-Сити Эдем КиноДок,CityEdenKinoDok.ru,RU Documentary,YES,playing,1.3,cityeden.catcast.tv,https://cityeden.catcast.tv/content/38354/index.m3u8
+Wonder (720p),Wonder.uk,UK Documentary,YES,playing,0.7,lds-wonder-samsungau.amagi.tv,https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
+Zylo Into Crime (1080p),IntoCrime.fr,FR Documentary,YES,playing,1.0,amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv,https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
+ČT 2,CT2.cz,CZ Documentary,YES,playing,0.7,88.212.15.19,http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
+Нано ТВ HD (576p),Nano.ru@HD,RU Documentary,YES,playing,1.7,s1.tv-nano.com,http://s1.tv-nano.com/Nano_rec/index.m3u8
+Наука,Nauka.ru,RU Documentary,YES,playing,3.9,vod.tuva.ru,https://vod.tuva.ru/nauka2/index.m3u8
+Сити Эдем КиноДок,CityEdenKinoDok.ru,RU Documentary,YES,playing,1.7,cityeden.catcast.tv,https://cityeden.catcast.tv/content/38354/index.m3u8
 .sci-fi (576p),scifi.ru,RU Documentary,no,unreachable (timed out) after 3 tries,36.0,31.148.48.15,http://31.148.48.15/SONY_SCI_FI/index.m3u8
-30A Loomered TV,30ALoomeredTV.us,US Documentary,no,segment HTTP 404,1.0,30a-tv.com,https://30a-tv.com/loomer.m3u8
-365 days TV (576p),365daysTV.ru,RU Documentary,no,segment HTTP 404,1.0,fs.uplink.kz,https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv
+30A Loomered TV,30ALoomeredTV.us,US Documentary,no,segment HTTP 404,1.5,30a-tv.com,https://30a-tv.com/loomer.m3u8
 Al Jazeera Documentary (1080p),AlJazeeraDocumentary.qa,QA Documentary,no,HTTP 403,0.1,live-hls-apps-ajd-fa.getaj.net,https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
-Al Jazeera Documentary (1080p),AlJazeeraDocumentary.qa,QA Documentary,no,HTTP 403,0.0,live-hls-web-ajd-fa.thehlive.com,https://live-hls-web-ajd-fa.thehlive.com/AJD/index.m3u8
-Al Jazeera Documentary (1080p),AlJazeeraDocumentary.qa,QA Documentary,no,HTTP 403,0.2,live-hls-apps-ajd-v3-fa.getaj.net,https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/index.m3u8
-Alterna TV (720p),AlternaTV.ar,AR Documentary,no,unreachable (timed out) after 3 tries,36.5,tv.alterna.ar,https://tv.alterna.ar/stream/hls/live.m3u8
-BBC Four HD (1080p) (HEVC),BBCFour.uk,UK Documentary,no,HTTP 403,0.2,vs-cmaf-pushb-uk-live.akamaized.net,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/hevc_iptv_mse_v0.mpd
+Al Jazeera Documentary (1080p),AlJazeeraDocumentary.qa,QA Documentary,no,HTTP 403,0.1,live-hls-apps-ajd-v3-fa.getaj.net,https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/index.m3u8
+Al Jazeera Documentary (1080p),AlJazeeraDocumentary.qa,QA Documentary,no,HTTP 403,0.1,live-hls-web-ajd-fa.thehlive.com,https://live-hls-web-ajd-fa.thehlive.com/AJD/index.m3u8
+Alterna TV (720p),AlternaTV.ar,AR Documentary,no,unreachable (timed out) after 3 tries,37.1,tv.alterna.ar,https://tv.alterna.ar/stream/hls/live.m3u8
+BBC Four HD (1080p) (HEVC),BBCFour.uk,UK Documentary,no,HTTP 403,0.1,vs-cmaf-pushb-uk-live.akamaized.net,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/hevc_iptv_mse_v0.mpd
+BBC Four HD (720p),BBCFour.uk,UK Documentary,no,HTTP 403,0.1,vs-hls-pushb-uk-live.akamaized.net,https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_hd_abr_v2.m3u8
 BBC Four HD (720p),BBCFour.uk,UK Documentary,no,HTTP 403,0.1,vs-hls-pushb-uk-live.akamaized.net,https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.m3u8
-BBC Four HD (720p),BBCFour.uk,UK Documentary,no,HTTP 403,0.2,vs-hls-pushb-uk-live.akamaized.net,https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_hd_abr_v2.m3u8
-BFM Tech & Co (1080p),BFMTechCo.fr,FR Documentary,no,HTTP 403,0.8,ncdn-live-bfm.pfd.sfr.net,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
-Cap Terre (1080p),CapTerre.es,ES Documentary,no,HTTP 403,0.2,145.239.5.177,http://145.239.5.177/359a/index.m3u8
-Cazador de Homicidas,CazadordeHomicidas.us,US Documentary,no,HTTP 404,0.0,jmp2.uk,https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8
-Cazador de Homicidas,CazadordeHomicidas.us,US Documentary,no,HTTP 404,0.8,jmp2.uk,https://jmp2.uk/plu-6109a9f5531b840007a4a187.m3u8
-Chemodan TV (1080p),ChemodanTV.ua,UA Documentary,no,variant manifest failed,0.6,stream.mcquack.net,http://stream.mcquack.net/399/index.m3u8
+BFM Tech & Co (1080p),BFMTechCo.fr,FR Documentary,no,HTTP 403,1.3,ncdn-live-bfm.pfd.sfr.net,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
+Cap Terre (1080p),CapTerre.es,ES Documentary,no,HTTP 403,0.3,145.239.5.177,http://145.239.5.177/359a/index.m3u8
+Cazador de Homicidas,CazadordeHomicidas.us,US Documentary,no,HTTP 404,0.7,jmp2.uk,https://jmp2.uk/plu-6109a9f5531b840007a4a187.m3u8
+Cazador de Homicidas,CazadordeHomicidas.us,US Documentary,no,HTTP 404,0.7,jmp2.uk,https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8
+Chemodan TV (1080p),ChemodanTV.ua,UA Documentary,no,variant manifest failed,0.7,stream.mcquack.net,http://stream.mcquack.net/399/index.m3u8
 Da Vinci (576p),DaVinci.ru,RU Documentary,no,TimeoutError,12.0,hls127.freeott.top:8080,http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
-Docu. (1080p),Docu.cl,CL Documentary,no,HTTP 400,0.2,45.162.193.35,http://45.162.193.35/DOCU/index.m3u8
-DocuBox Russia,DocuBox.nl@Russia,NL Documentary,no,HTTP 404,0.6,dtv.vol.net.ua,http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8
-Docurama (1080p),Docurama.us,US Documentary,no,HTTP 502 after 3 tries,0.8,docurama-tcl.amagi.tv,https://docurama-tcl.amagi.tv/playlist.m3u8
-Docurama (1080p),Docurama.us,US Documentary,no,HTTP 502 after 3 tries,1.5,docurama-plex-ingest.cinedigm.com,https://docurama-plex-ingest.cinedigm.com/playlist.m3u8
-Explosión Creativa (720p),EXCTV.ve,VE Documentary,no,HTTP 404,0.2,vcp.myplaytv.com,https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
-GEM Nature,GEMNature.tr,TR Documentary,no,HTTP 403,0.1,ca-rt.onetv.app,https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202
+Docu. (1080p),Docu.cl,CL Documentary,no,HTTP 400,0.3,45.162.193.35,http://45.162.193.35/DOCU/index.m3u8
+DocuBox Russia,DocuBox.nl@Russia,NL Documentary,no,HTTP 404,0.7,dtv.vol.net.ua,http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8
+Docurama (1080p),Docurama.us,US Documentary,no,HTTP 502 after 3 tries,0.6,docurama-tcl.amagi.tv,https://docurama-tcl.amagi.tv/playlist.m3u8
+Docurama (1080p),Docurama.us,US Documentary,no,HTTP 502 after 3 tries,1.3,docurama-plex-ingest.cinedigm.com,https://docurama-plex-ingest.cinedigm.com/playlist.m3u8
+Explosión Creativa (720p),EXCTV.ve,VE Documentary,no,HTTP 404,1.0,vcp.myplaytv.com,https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
+GEM Nature,GEMNature.tr,TR Documentary,no,HTTP 403,0.2,ca-rt.onetv.app,https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202
 H2,H2.bg,BG Documentary,no,HTTP 404,0.3,213.91.179.28:8000,http://213.91.179.28:8000/play/a03r
-H2 HD,H2HD.si,SI Documentary,no,unreachable ([Errno -2] Name or service not known) after 3 tries,0.3,lb.dstvmultimedia.com,https://lb.dstvmultimedia.com/HistoryChannel2/index.m3u8
+H2 HD,H2HD.si,SI Documentary,no,unreachable ([Errno -2] Name or service not known) after 3 tries,0.1,lb.dstvmultimedia.com,https://lb.dstvmultimedia.com/HistoryChannel2/index.m3u8
 History,History.bg,BG Documentary,no,HTTP 404,0.3,213.91.179.28:8000,http://213.91.179.28:8000/play/a0c1
-History,History.si,SI Documentary,no,unreachable ([Errno -2] Name or service not known) after 3 tries,0.2,lb.dstvmultimedia.com,https://lb.dstvmultimedia.com/HistoryChannel/index.m3u8
-History (576p),History.us,US Documentary,no,HTTP 404,10.9,tvsen3.aynaott.com,https://tvsen3.aynaott.com/np3JstRE/index.m3u8
-History (720p),History.br,BR Documentary,no,unreachable (timed out) after 3 tries,36.0,170.83.16.50,http://170.83.16.50/HISTORY/index.m3u8
+History,History.si,SI Documentary,no,unreachable ([Errno -2] Name or service not known) after 3 tries,0.1,lb.dstvmultimedia.com,https://lb.dstvmultimedia.com/HistoryChannel/index.m3u8
+History (576p),History.us,US Documentary,no,HTTP 404,10.8,tvsen3.aynaott.com,https://tvsen3.aynaott.com/np3JstRE/index.m3u8
+History (720p),History.us,US Documentary,no,HTTP 403,0.3,212.5.144.156:8080,http://212.5.144.156:8080/history/index.m3u8
 History (720p),History.br,BR Documentary,no,unreachable (timed out) after 3 tries,36.0,177.52.24.163,http://177.52.24.163/HISTORY-HD/index.m3u8
-History 2 Latin America (1080p),History2LatinAmerica.us,US Documentary,no,unreachable (timed out) after 3 tries,36.5,cdn1tlinkgo.tlink.cl,https://cdn1tlinkgo.tlink.cl/history2hd/index.m3u8
-History Channel (1080p),History.si,SI Documentary,no,unreachable (timed out) after 3 tries,36.4,streamer12.xploretv.si,https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+History 2 Latin America (1080p),History2LatinAmerica.us,US Documentary,no,segment HTTP 404,0.7,181.119.66.28:8081,http://181.119.66.28:8081/HISTORY-2/index.m3u8
+History 2 Latin America (1080p),History2LatinAmerica.us,US Documentary,no,unreachable (timed out) after 3 tries,36.4,cdn1tlinkgo.tlink.cl,https://cdn1tlinkgo.tlink.cl/history2hd/index.m3u8
+History Channel (1080p),History.si,SI Documentary,no,unreachable (timed out) after 3 tries,36.6,streamer12.xploretv.si,https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+History Latin America (1080p),HistoryLatinAmerica.us,US Documentary,no,HTTP 403,0.1,15.204.246.24:8080,http://15.204.246.24:8080/HistoryHD/index.m3u8
 History Ukraine,HistoryUkraine.ua,UA Documentary,no,HTTP 404,0.4,dtv.vol.net.ua,http://dtv.vol.net.ua/History_HD/index.m3u8
 History2 Ukraine (360p),History2Ukraine.ua,UA Documentary,no,HTTP 404,0.4,dtv.vol.net.ua,http://dtv.vol.net.ua/H2-HD/index.m3u8
-HRT 3 (720p),HRT3.hr,HR Documentary,no,segment HTTP 403,1.5,webtvstream.bhtelecom.ba,https://webtvstream.bhtelecom.ba/hrt3.m3u8
-HRT 3 HD (720p),HRT3.hr@HD,HR Documentary,no,HTTP 404,0.6,bpcdnmanprod.nexttv.ht.hr,https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
+HRT 3 (720p),HRT3.hr,HR Documentary,no,segment HTTP 403,2.1,webtvstream.bhtelecom.ba,https://webtvstream.bhtelecom.ba/hrt3.m3u8
+HRT 3 HD (720p),HRT3.hr@HD,HR Documentary,no,HTTP 404,1.2,bpcdnmanprod.nexttv.ht.hr,https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
 ID,ID.bg,BG Documentary,no,HTTP 404,0.3,213.91.179.28:8000,http://213.91.179.28:8000/play/a0cf
-Ilm va Tabiat (1080p),IlmvaTabiat.tj,TJ Documentary,no,unreachable (timed out) after 3 tries,37.3,live.teleradiocom.tj,https://live.teleradiocom.tj/15/3m.m3u8
+Ilm va Tabiat (1080p),IlmvaTabiat.tj,TJ Documentary,no,unreachable (timed out) after 3 tries,38.9,live.teleradiocom.tj,https://live.teleradiocom.tj/15/3m.m3u8
 InWonder (1080p),InWonder.nl,NL Documentary,no,HTTP 403,0.1,amg00861-amg00861c14-rlaxx-uk-3954.playouts.now.amagi.tv,https://amg00861-amg00861c14-rlaxx-uk-3954.playouts.now.amagi.tv/playlist.m3u8
-Istoriya (576p),Istoriya.ru,RU Documentary,no,segment HTTP 404,1.3,fs.uplink.kz,https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv
 Istoriya (576p),Istoriya.ru,RU Documentary,no,TimeoutError,12.0,hls127.freeott.top:8080,http://hls127.freeott.top:8080/Istoriya/video.m3u8
-Jilin Rural Channel,JilinRuralChannel.cn,CN Documentary,no,HTTP 567,13.2,lsfb.avap.jilintv.cn,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
-Law & Crime (720p),LawCrime.us,US Documentary,no,HTTP 504 after 3 tries,0.4,ebd6ee5f.wurl.com,https://ebd6ee5f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19MYXdhbmRDcmltZV9ITFM/playlist_scte.m3u8
-Love The Planet DE (1080p),LoveThePlanet.es@DE,ES Documentary,no,HTTP 403,0.2,amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv,https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8
-MRTV Farmer,MRTVFarmer.mm,MM Documentary,no,segment URLError,26.7,mrtvott.com,https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
+Jilin Rural Channel,JilinRuralChannel.cn,CN Documentary,no,HTTP 567,2.1,lsfb.avap.jilintv.cn,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
+Law & Crime (720p),LawCrime.us,US Documentary,no,HTTP 504 after 3 tries,0.6,ebd6ee5f.wurl.com,https://ebd6ee5f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19MYXdhbmRDcmltZV9ITFM/playlist_scte.m3u8
+Love The Planet DE (1080p),LoveThePlanet.es@DE,ES Documentary,no,HTTP 403,0.1,amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv,https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8
 National Geographic,NationalGeographic.bg,BG Documentary,no,HTTP 404,0.3,213.91.179.28:8000,http://213.91.179.28:8000/play/a0ct
-National Geographic,NationalGeographic.ro,RO Documentary,no,segment empty,0.4,onyx1.mofta1.cfd,https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
-National Geographic,NationalGeographic.tr,TR Documentary,no,too little data after 3 tries,2.0,nord.ayakkabiparti.lol,https://nord.ayakkabiparti.lol/natgeo/index.m3u8
+National Geographic,NationalGeographic.ro,RO Documentary,no,segment empty,0.6,onyx1.mofta1.cfd,https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
+National Geographic,NationalGeographic.tr,TR Documentary,no,too little data after 3 tries,1.4,nord.ayakkabiparti.lol,https://nord.ayakkabiparti.lol/natgeo/index.m3u8
+National Geographic (1080p),NationalGeographic.hr,HR Documentary,no,HTTP 403,0.3,176.61.157.250,http://176.61.157.250/NationalGeographic/index.m3u8
 National Geographic (1080p),NationalGeographic.bg,BG Documentary,no,TimeoutError,12.0,hls127.freeott.top:8080,http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8
-National Geographic (1080p),NationalGeographic.tr,TR Documentary,no,HTTP 401,0.4,saran-live.ercdn.net,https://saran-live.ercdn.net/natgeohd/index.m3u8
-National Geographic (576p),NationalGeographic.us,US Documentary,no,HTTP 404,10.9,tvsen3.aynaott.com,https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
-National Geographic (Finland) (720p),NationalGeographic.fi,FI Documentary,no,HTTP 451,0.5,live-fi.tvkaista.net,https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true
+National Geographic (1080p),NationalGeographic.tr,TR Documentary,no,HTTP 401,0.6,saran-live.ercdn.net,https://saran-live.ercdn.net/natgeohd/index.m3u8
+National Geographic (576p),NationalGeographic.us,US Documentary,no,HTTP 404,10.7,tvsen3.aynaott.com,https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
+National Geographic (720p),NationalGeographic.us,US Documentary,no,HTTP 403,0.3,212.5.144.156:8080,http://212.5.144.156:8080/natgeo/index.m3u8
+National Geographic (Finland) (720p),NationalGeographic.fi,FI Documentary,no,HTTP 451,0.7,live-fi.tvkaista.net,https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true
+National Geographic Latin America (1080p),NationalGeographicLatinAmerica.us,US Documentary,no,HTTP 403,0.1,15.204.246.24:8080,http://15.204.246.24:8080/NatGeoHD/index.m3u8
 National Geographic Latin America (1080p),NationalGeographicLatinAmerica.us,US Documentary,no,HTTP 400,0.5,iptv2.intersurtv.cl,https://iptv2.intersurtv.cl/NATGEO/index.m3u8
-National Geographic Latin America (1080p),NationalGeographicLatinAmerica.us,US Documentary,no,unreachable (timed out) after 3 tries,36.3,cdn1tlinkgo.tlink.cl,https://cdn1tlinkgo.tlink.cl/natgeohd/index.m3u8
+National Geographic Latin America (1080p),NationalGeographicLatinAmerica.us,US Documentary,no,unreachable (timed out) after 3 tries,36.6,cdn1tlinkgo.tlink.cl,https://cdn1tlinkgo.tlink.cl/natgeohd/index.m3u8
 National Geographic Wild,NationalGeographicWild.bg,BG Documentary,no,HTTP 404,0.3,213.91.179.28:8000,http://213.91.179.28:8000/play/a0cu
-National Geographic Wild,NationalGeographicWild.ro,RO Documentary,no,segment empty,0.7,flash1.bogulus1.cfd,https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
-National Geographic Wild,NationalGeographicWild.tr,TR Documentary,no,too little data after 3 tries,2.1,nord.ayakkabiparti.lol,https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
+National Geographic Wild,NationalGeographicWild.ro,RO Documentary,no,segment empty,0.6,flash1.bogulus1.cfd,https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
+National Geographic Wild,NationalGeographicWild.tr,TR Documentary,no,too little data after 3 tries,1.2,nord.ayakkabiparti.lol,https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
 National Geographic Wild (1080p),NationalGeographicWild.bg,BG Documentary,no,TimeoutError,12.0,hls127.freeott.top:8080,http://hls127.freeott.top:8080/BG_NG_Wild_HD/video.m3u8
-National Geographic Wild (1080p),NationalGeographicWild.tr,TR Documentary,no,HTTP 401,0.5,saran-live.ercdn.net,https://saran-live.ercdn.net/natgeowild/index.m3u8
-National Geographic Wild (1080p),NationalGeographicWild.ua,UA Documentary,no,HTTP 404,0.5,dtv.vol.net.ua:80,http://dtv.vol.net.ua:80/Nat-Geo-Wild_HD/index.m3u8
-NatureTime (1080p),NatureTime.ca@ES,CA Documentary,no,segment HTTP 404,0.4,shls-live-ak.akamaized.net,https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
-Pluto TV Mi Obsesión Favorita,PlutoTVMiObsesionFavorita.us,US Documentary,no,HTTP 404,0.7,jmp2.uk,https://jmp2.uk/plu-6109ab25b84d6a0007504886.m3u8
+National Geographic Wild (1080p),NationalGeographicWild.tr,TR Documentary,no,HTTP 401,0.6,saran-live.ercdn.net,https://saran-live.ercdn.net/natgeowild/index.m3u8
+National Geographic Wild (1080p),NationalGeographicWild.ua,UA Documentary,no,HTTP 404,0.3,dtv.vol.net.ua:80,http://dtv.vol.net.ua:80/Nat-Geo-Wild_HD/index.m3u8
+NatureTime (1080p),NatureTime.ca@ES,CA Documentary,no,segment HTTP 404,0.5,shls-live-ak.akamaized.net,https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+Pluto TV Mi Obsesión Favorita,PlutoTVMiObsesionFavorita.us,US Documentary,no,HTTP 404,0.1,jmp2.uk,https://jmp2.uk/plu-6109ab25b84d6a0007504886.m3u8
 Reelz (720p),Reelz.us,US Documentary,no,HTTP 404,0.1,23.237.104.106:8080,http://23.237.104.106:8080/USA_REELZ/index.m3u8
-Safari TV (480p),SafariTV.in,IN Documentary,no,segment TimeoutError,12.8,j78dp346yq5r-hls-live.5centscdn.com,https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
-Sky Nature (576p),SkyNature.uk,UK Documentary,no,HTTP 404,0.9,tvsen6.aynaott.com,https://tvsen6.aynaott.com/skynature/index.m3u8
-Smotrim 100% Fakty (720p),Smotrim100Fakty.ru,RU Documentary,no,segment HTTP 404,0.9,stream.smotrim.ru,https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+Safari TV (480p),SafariTV.in,IN Documentary,no,segment TimeoutError,13.3,j78dp346yq5r-hls-live.5centscdn.com,https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+Sky Nature (576p),SkyNature.uk,UK Documentary,no,HTTP 404,0.7,tvsen6.aynaott.com,https://tvsen6.aynaott.com/skynature/index.m3u8
+Smotrim 100% Fakty (720p),Smotrim100Fakty.ru,RU Documentary,no,segment HTTP 404,2.0,stream.smotrim.ru,https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 Sony BBC Earth HD (1080p),SonyBBCEarth.in@HD,IN Documentary,no,segment HTTP 403,0.2,cloudplay-sonyliv.pages.dev,https://cloudplay-sonyliv.pages.dev/bbcearthhd.m3u8
 Terra (576p),TERRA.ru,RU Documentary,no,unreachable (timed out) after 3 tries,36.0,31.148.48.15,http://31.148.48.15/Terra/index.m3u8
 Terra HD (720p),TERRA.ru,RU Documentary,no,unreachable (timed out) after 3 tries,36.0,31.148.48.15,http://31.148.48.15/Terra_HD/index.m3u8
+Top Secret (576p),TopSecret.ru,RU Documentary,no,segment HTTP 404,1.0,str2.iptvhd.ru:8080,http://str2.iptvhd.ru:8080/Sovershenno_sekretno/index.m3u8
 Top Secret (576p),TopSecret.ru,RU Documentary,no,TimeoutError,12.0,hls127.freeott.top:8080,http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8
-Tring History (720p),TringHistory.al,AL Documentary,no,HTTP 403,0.2,5.254.89.106,http://5.254.89.106/8765/index.m3u8
+Tring History (720p),TringHistory.al,AL Documentary,no,HTTP 403,0.3,5.254.89.106,http://5.254.89.106/8765/index.m3u8
 TRT Belgesel (1080p),TRTBelgesel.tr,TR Documentary,no,TimeoutError,12.0,hls127.freeott.top:8080,http://hls127.freeott.top:8080/TRT_BELGESEL_TR/video.m3u8
 TRT Belgesel (720p),TRTBelgesel.tr,TR Documentary,no,HTTP 403,0.3,tv-trtbelgesel.medya.trt.com.tr,https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+TV8,TV8.md,MD Documentary,no,manifest has no segments,0.7,315e5a5d.ottrast.com,http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8
 Viasat Explore,ViasatExplore.ro,RO Documentary,no,HTTP 403,0.1,arwen1.panaka1.cfd,https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8
-Viasat Explore,ViasatExplore.si,SI Documentary,no,unreachable ([Errno -2] Name or service not known) after 3 tries,0.2,lb.dstvmultimedia.com,https://lb.dstvmultimedia.com/ViasatExplore/index.m3u8
-Viasat Explore (1080p),ViasatExplore.bg,BG Documentary,no,segment HTTP 404,2.1,shift03.isp.bg,https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
-Viasat Explore (576p),ViasatExplore.ua,UA Documentary,no,HTTP 404,0.4,dtv.vol.net.ua,http://dtv.vol.net.ua/Viasat-Explore/index.m3u8
-Viasat History,ViasatHistory.ro,RO Documentary,no,HTTP 403,0.0,arwen1.panaka1.cfd,https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8
+Viasat Explore,ViasatExplore.si,SI Documentary,no,unreachable ([Errno -2] Name or service not known) after 3 tries,0.1,lb.dstvmultimedia.com,https://lb.dstvmultimedia.com/ViasatExplore/index.m3u8
+Viasat Explore (576p),ViasatExplore.ua,UA Documentary,no,HTTP 404,0.9,dtv.vol.net.ua,http://dtv.vol.net.ua/Viasat-Explore/index.m3u8
+Viasat History,ViasatHistory.ro,RO Documentary,no,HTTP 403,0.1,arwen1.panaka1.cfd,https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8
 Viasat History,ViasatHistory.si,SI Documentary,no,unreachable ([Errno -2] Name or service not known) after 3 tries,0.1,lb.dstvmultimedia.com,https://lb.dstvmultimedia.com/ViasatHistory/index.m3u8
 Viasat History (1080p),ViasatHistory.ua,UA Documentary,no,TimeoutError,12.0,hls127.freeott.top:8080,http://hls127.freeott.top:8080/VIASAT_EXPLORE_HD_CEE/video.m3u8
-Viasat History (720p),ViasatHistory.tr,TR Documentary,no,too little data after 3 tries,2.0,nord.ayakkabiparti.lol,https://nord.ayakkabiparti.lol/viasathistory/index.m3u8
-Viasat Nature,ViasatNature.ro,RO Documentary,no,HTTP 403,0.0,arwen1.panaka1.cfd,https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8
-Viasat Nature,ViasatNature.si,SI Documentary,no,unreachable ([Errno -2] Name or service not known) after 3 tries,0.1,lb.dstvmultimedia.com,https://lb.dstvmultimedia.com/ViasatNature/index.m3u8
-viju Explore (576p),vijuExplore.ru,RU Documentary,no,variant manifest failed,0.5,stream.mcquack.net,http://stream.mcquack.net/239/index.m3u8
-viju History (576p),vijuHistory.ru,RU Documentary,no,variant manifest failed,0.5,stream.mcquack.net,http://stream.mcquack.net/101/index.m3u8
-viju+ Planet HD (1080p),vijuPlusPlanet.ru@HD,RU Documentary,no,variant manifest failed,0.5,stream.mcquack.net,http://stream.mcquack.net/240/index.m3u8
-Смотрим 100% Факты,Smotrim100Fakty.ru,RU Documentary,no,too little data after 3 tries,0.9,player.smotrim.ru,https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
-ЭлТР Билим Илим (480p),BilimIlim.kg,KG Documentary,no,unreachable ([Errno -2] Name or service not known) after 3 tries,1.3,gohoski.fvds.ru:3000,http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
+Viasat History (720p),ViasatHistory.tr,TR Documentary,no,too little data after 3 tries,1.4,nord.ayakkabiparti.lol,https://nord.ayakkabiparti.lol/viasathistory/index.m3u8
+Viasat Nature,ViasatNature.ro,RO Documentary,no,HTTP 403,0.1,arwen1.panaka1.cfd,https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8
+Viasat Nature,ViasatNature.si,SI Documentary,no,unreachable ([Errno -2] Name or service not known) after 3 tries,0.2,lb.dstvmultimedia.com,https://lb.dstvmultimedia.com/ViasatNature/index.m3u8
+viju Explore (576p),vijuExplore.ru,RU Documentary,no,variant manifest failed,0.7,stream.mcquack.net,http://stream.mcquack.net/239/index.m3u8
+viju Explore (576p),vijuExplore.ru,RU Documentary,no,segment HTTP 404,1.0,str2.iptvhd.ru:8080,http://str2.iptvhd.ru:8080/Viasat_Explorer/index.m3u8
+viju History (576p),vijuHistory.ru,RU Documentary,no,segment HTTP 404,2.2,fs.uplink.kz,https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv
+viju+ Planet HD (1080p),vijuPlusPlanet.ru@HD,RU Documentary,no,variant manifest failed,0.7,stream.mcquack.net,http://stream.mcquack.net/240/index.m3u8
+Смотрим 100% Факты,Smotrim100Fakty.ru,RU Documentary,no,too little data after 3 tries,2.3,player.smotrim.ru,https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
+ЭлТР Билим Илим (480p),BilimIlim.kg,KG Documentary,no,unreachable ([Errno -2] Name or service not known) after 3 tries,2.1,gohoski.fvds.ru:3000,http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
 发现之旅 (576p),CNDFilmDiscoveryChannel.cn,CN Documentary,no,unreachable (timed out) after 3 tries,36.0,125.210.152.18:9090,http://125.210.152.18:9090/live/FXZL_750.m3u8
-山东农科 (406p),ShandongTVAgriculturalScienceChannel.cn,CN Documentary,no,HTTP 403,0.5,livealone302.iqilu.com,http://livealone302.iqilu.com/iqilu/nkpd.m3u8
-滁州市广播电视台 科教频道 (400p),ChuzhouScienceEducationChannel.cn,CN Documentary,no,unreachable ([Errno 101] Network is unreachable) after 3 tries,36.3,live.cztv.cc:85,http://live.cztv.cc:85/live/sjpd.m3u8
+山东农科 (406p),ShandongTVAgriculturalScienceChannel.cn,CN Documentary,no,HTTP 403,0.4,livealone302.iqilu.com,http://livealone302.iqilu.com/iqilu/nkpd.m3u8
+滁州市广播电视台 科教频道 (400p),ChuzhouScienceEducationChannel.cn,CN Documentary,no,unreachable ([Errno 101] Network is unreachable) after 3 tries,36.4,live.cztv.cc:85,http://live.cztv.cc:85/live/sjpd.m3u8
