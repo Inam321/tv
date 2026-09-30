@@ -1,7 +1,7 @@
 #EXTM3U
 # India + Pakistan Music
-# 49 verified working channels
-# updated 2026-09-29T08:44:04Z
+# 51 verified working channels
+# updated 2026-09-30T08:45:08Z
 # generated from https://github.com/iptv-org/iptv
 #EXTINF:-1 tvg-id="7SMusic.in" tvg-name="7S Music" tvg-logo="https://i.imgur.com/zDiIhdN.png" tvg-country="IN" tvg-language="tam" group-title="IN Music",7S Music (576p)
 https://cdn.pishow.tv/ott/live/1257/master.m3u8
@@ -43,6 +43,8 @@ https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 tvg-id="KalikaTV.in" tvg-name="Kalika TV" tvg-logo="https://i.imgur.com/XWXFoJA.png" tvg-country="IN" tvg-language="mal" group-title="IN Music",Kalika TV (576p)
 http://server.applelive.in/kalikatv/kalikatv.m3u8
+#EXTINF:-1 tvg-id="Mastiii.in" tvg-name="Mastiii" tvg-logo="https://i.imgur.com/lxgXHx4.png" tvg-country="IN" tvg-language="hin" group-title="IN Music",Mastiii (576p)
+https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
 #EXTINF:-1 tvg-id="Mh1Music.in" tvg-name="Mh 1 Music" tvg-logo="https://dtil.tmsimg.com/assets/s143539_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="pan" group-title="IN Music",Mh 1 Music (720p)
 https://livestream.jswk.online/playlisttest/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="Music India" tvg-logo="https://dtil.tmsimg.com/assets/s143563_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Music",Music India (720p)
@@ -69,10 +71,12 @@ https://cdn.pishow.tv/ott/live/1073/master.m3u8
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
 #EXTINF:-1 tvg-id="RajMusixTelugu.in" tvg-name="Raj Musix Telugu" tvg-logo="https://dtil.tmsimg.com/assets/s143708_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="tel" group-title="IN Music",Raj Musix Telugu (720p)
 https://cdn.pishow.tv/ott/live/1213/master.m3u8
+#EXTINF:-1 tvg-id="SanaPlus.in" tvg-name="Sana Plus" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SANA-PLUS-LOGO_2000_X_1125_Transpharent.png" tvg-country="IN" tvg-language="tam" group-title="IN Music",Sana Plus (1080p)
+https://galaxyott.live/hls/sanaplus.m3u8
 #EXTINF:-1 tvg-id="SangeetBangla.in" tvg-name="Sangeet Bangla" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00211H7T.png?lock=720x540" tvg-country="IN" tvg-language="ben" group-title="IN Music",Sangeet Bangla (720p)
 https://cdn.pishow.tv/ott/live/1143/master.m3u8
 #EXTINF:-1 tvg-id="SangeetBhojpuri.in" tvg-name="Sangeet Bhojpuri" tvg-logo="https://dtil.tmsimg.com/assets/s143757_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="bho" group-title="IN Music",Sangeet Bhojpuri (576p)
-https://cdn.pishow.tv/ott/live/1293/master.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
 #EXTINF:-1 tvg-id="SangeetMarathi.in" tvg-name="Sangeet Marathi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sangeet%20Marathi.png" tvg-country="IN" tvg-language="mar" group-title="IN Music",Sangeet Marathi (720p)
 https://cdn.pishow.tv/ott/live/1229/master.m3u8
 #EXTINF:-1 tvg-id="SongdewTV.in" tvg-name="Songdew TV" tvg-logo="https://dtil.tmsimg.com/assets/s142920_ld_h9_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Music",Songdew TV (396p)
