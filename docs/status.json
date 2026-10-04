@@ -1,61 +1,61 @@
 {
-  "updated_at": "2026-10-03T08:19:28Z",
+  "updated_at": "2026-10-04T08:34:16Z",
   "playlists": [
     {
       "file": "news.m3u",
       "title": "India + Pakistan News",
       "streams_tested": 550,
-      "channels_working": 260,
+      "channels_working": 262,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 404": 51,
-        "segment HTTP 404": 28,
-        "unreachable (timed out) after 3 tries": 17,
+        "HTTP 404": 47,
+        "segment HTTP 404": 20,
+        "unreachable (timed out) after 3 tries": 15,
         "HTTP 403": 5,
-        "HTTP 401": 3
+        "HTTP 400": 5
       }
     },
     {
       "file": "sports.m3u",
       "title": "International Sports",
-      "streams_tested": 592,
-      "channels_working": 246,
+      "streams_tested": 593,
+      "channels_working": 250,
       "channels_unverified": 1,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 403": 82,
-        "unreachable (timed out) after 3 tries": 44,
+        "HTTP 403": 84,
+        "unreachable (timed out) after 3 tries": 42,
         "HTTP 404": 36,
-        "segment HTTP 403": 18,
-        "TimeoutError": 10
+        "segment HTTP 403": 16,
+        "variant manifest failed": 10
       }
     },
     {
       "file": "entertainment.m3u",
       "title": "India + Pakistan Entertainment",
-      "streams_tested": 232,
-      "channels_working": 105,
+      "streams_tested": 231,
+      "channels_working": 99,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
         "HTTP 404": 28,
-        "unreachable (timed out) after 3 tries": 12,
-        "segment HTTP 404": 11,
-        "HTTP 403": 5,
-        "segment HTTP 403": 4
+        "segment HTTP 404": 10,
+        "unreachable (timed out) after 3 tries": 8,
+        "segment HTTP 403": 6,
+        "HTTP 403": 5
       }
     },
     {
       "file": "documentary.m3u",
       "title": "World Documentary & Knowledge",
-      "streams_tested": 369,
-      "channels_working": 175,
+      "streams_tested": 366,
+      "channels_working": 173,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 403": 24,
-        "HTTP 404": 18,
+        "HTTP 403": 23,
+        "HTTP 404": 19,
         "unreachable (timed out) after 3 tries": 11,
         "TimeoutError": 9,
         "segment HTTP 404": 7
@@ -69,38 +69,38 @@
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 404": 12,
-        "segment HTTP 404": 4,
-        "unreachable ([Errno 111] Connection refused) after 3 tries": 3,
+        "HTTP 404": 14,
+        "segment HTTP 404": 3,
         "HTTP 403": 2,
-        "too little data after 3 tries": 2
+        "too little data after 3 tries": 2,
+        "unreachable ([Errno -5] No address associated with ho) after 3 tries": 1
       }
     },
     {
       "file": "movies.m3u",
       "title": "India + Pakistan Movies",
-      "streams_tested": 121,
-      "channels_working": 59,
+      "streams_tested": 118,
+      "channels_working": 60,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 404": 10,
-        "segment HTTP 404": 9,
-        "HTTP 403": 5,
-        "HTTP 458": 3,
-        "unreachable ([Errno 111] Connection refused) after 3 tries": 3
+        "HTTP 404": 9,
+        "HTTP 403": 4,
+        "HTTP 458": 2,
+        "too little data after 3 tries": 2,
+        "segment HTTP 404": 2
       }
     },
     {
       "file": "kids.m3u",
       "title": "India + Pakistan Kids",
-      "streams_tested": 34,
+      "streams_tested": 32,
       "channels_working": 16,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 403": 4,
         "unreachable (timed out) after 3 tries": 4,
+        "HTTP 403": 2,
         "segment HTTP 403": 1,
         "HTTP 458": 1,
         "HTTP 404": 1
@@ -113,9 +113,7 @@
       "channels_working": 2,
       "channels_unverified": 0,
       "kept_previous": false,
-      "top_failures": {
-        "TimeoutError": 1
-      }
+      "top_failures": {}
     }
   ]
 }
