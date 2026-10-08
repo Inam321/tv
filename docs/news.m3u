@@ -1,10 +1,12 @@
 #EXTM3U
 # India + Pakistan News
-# 259 verified working channels
-# updated 2026-10-07T08:55:13Z
+# 255 verified working channels
+# updated 2026-10-08T09:10:26Z
 # generated from https://github.com/iptv-org/iptv
-#EXTINF:-1 tvg-id="10TV.in" tvg-name="10 TV" tvg-logo="https://dtil.tmsimg.com/assets/s142495_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="tel" group-title="IN News",10 TV (576p)
-https://cdn.pishow.tv/ott/live/391/master.m3u8
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="10 TV" tvg-logo="https://dtil.tmsimg.com/assets/s142495_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="tel" group-title="IN News",10 TV (720p)
+https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
+#EXTINF:-1 tvg-id="22ScopeNews.in" tvg-name="22Scope News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png" tvg-country="IN" tvg-language="hin" group-title="IN News",22Scope News (1080p)
+https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="24News.in" tvg-name="24 News" tvg-logo="https://sund-images.sunnxt.com/202222/300x300_24News_202222_d63feca0-79ae-47ea-b75a-66c17d456f4c.png" tvg-country="IN" tvg-language="mal" group-title="IN News",24 News (576p)
 https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
 #EXTINF:-1 tvg-id="24HrsTV.in" tvg-name="24Hrs TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/24hourstv.png" tvg-country="IN" tvg-language="ben" group-title="IN News",24Hrs TV (576p)
@@ -23,8 +25,6 @@ https://cdn.pishow.tv/ott/live/1211/master.m3u8
 https://stream.ottlive.co.in/aajkikhabar/index.m3u8
 #EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak" tvg-logo="https://i.imgur.com/JYLmXy4.png" tvg-country="IN" tvg-language="hin" group-title="IN News",Aaj Tak (720p)
 https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8
-#EXTINF:-1 tvg-id="ABCNews.in" tvg-name="ABC News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABC_News.png" tvg-country="IN" tvg-language="hin" group-title="IN News",ABC News (576p)
-http://51.75.127.199:3141/abcnews/index.m3u8
 #EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-name="ABN Andhra Jyoti" tvg-logo="https://dtil.tmsimg.com/assets/s142517_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="tel" group-title="IN News",ABN Andhra Jyoti (720p)
 https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8
 #EXTINF:-1 tvg-id="ABPAnanda.in" tvg-name="ABP Ananda" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ABP%20ANA.png" tvg-country="IN" tvg-language="ben" group-title="IN News",ABP Ananda (1080p)
@@ -39,18 +39,18 @@ https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8
 https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8
 #EXTINF:-1 tvg-id="AKDCalcuttaNews.in" tvg-name="AKD Calcutta News" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002EF87T.png?lock=720x540" tvg-country="IN" tvg-language="ben" group-title="IN News",AKD Calcutta News (1080p)
 https://live.legitpro.co.in/cnnnews/index.m3u8
-#EXTINF:-1 tvg-id="AkhonKolkata.in" tvg-name="Akhon Kolkata" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ekhonkolkata.png" tvg-country="IN" tvg-language="ben" group-title="IN News",Akhon Kolkata (478p)
-https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8
 #EXTINF:-1 tvg-id="AmarUjala.in" tvg-name="AmarUjala" tvg-logo="https://i.imgur.com/ndQ8LZp.png" tvg-country="IN" tvg-language="hin" group-title="IN News",AmarUjala (1080p)
 https://amarujala.ottlive.co.in/amarujala/index.m3u8
 #EXTINF:-1 tvg-id="AnandaBarta.in" tvg-name="Ananda Barta" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Anand_Barta.png" tvg-country="IN" tvg-language="ben" group-title="IN News",Ananda Barta (720p)
 https://account19.livebox.co.in/Anandabarta2hls/live.m3u8
-#EXTINF:-1 tvg-id="ANBNews.in" tvg-name="ANB News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ANB%20News.png" tvg-country="IN" tvg-language="hin" group-title="IN News",ANB News (720p)
-https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8
+#EXTINF:-1 tvg-id="ANBNews.in" tvg-name="ANB News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ANB%20News.png" tvg-country="IN" tvg-language="hin" group-title="IN News",ANB News (576p)
+https://mumt05.tangotv.in/87NeALx2ANBNEWSNATIONAL/index.m3u8
 #EXTINF:-1 tvg-id="APN.in" tvg-name="APN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/APN.png" tvg-country="IN" tvg-language="hin" group-title="IN News",APN (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8
 #EXTINF:-1 tvg-id="ArgusNews.in" tvg-name="Argus News" tvg-logo="https://dtil.tmsimg.com/assets/s142650_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN News",Argus News (576p)
 https://mumt05.tangotv.in/87NeALx2ARGUSNEWS/index.m3u8
+#EXTINF:-1 tvg-id="AsianNews.in" tvg-name="Asian News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asian_News.png" tvg-country="IN" tvg-language="hin" group-title="IN News",Asian News (1080p)
+https://stream.ottlive.co.in/asiannews/index.m3u8
 #EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" tvg-logo="https://dtil.tmsimg.com/assets/s142679_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="mal" group-title="IN News",Asianet News (1080p)
 https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianetSuvarnaNews.in" tvg-name="Asianet Suvarna News" tvg-logo="https://dtil.tmsimg.com/assets/s142682_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="kan" group-title="IN News",Asianet Suvarna News (1080p)
@@ -58,7 +58,7 @@ https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8
 #EXTINF:-1 tvg-id="AsomLive24.in" tvg-name="Asom Live 24" tvg-logo="https://papaji.freetvindia.com/media/channels/asom_live_24x7.png" tvg-country="IN" tvg-language="asm" group-title="IN News",Asom Live 24 (576p)
 https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in" tvg-name="Assam Talks" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASSAM_TALKS/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="asm" group-title="IN News",Assam Talks (576p)
-https://cdn.pishow.tv/ott/live/258/master.m3u8
+https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
 #EXTINF:-1 tvg-id="AwaazIndiaTV.in" tvg-name="Awaaz India TV" tvg-logo="https://i.imgur.com/eKQs51V.png" tvg-country="IN" tvg-language="hin" group-title="IN News",Awaaz India TV (720p)
 https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 #EXTINF:-1 tvg-id="BadaKhabar.in" tvg-name="Bada Khabar" tvg-logo="https://i.imgur.com/XiwygDJ.png" tvg-country="IN" tvg-language="ori" group-title="IN News",Bada Khabar (576p)
@@ -78,21 +78,21 @@ https://mumt06.tangotv.in/qYyB8fXVBHARAT24/index.m3u8
 #EXTINF:-1 tvg-id="BIGTV.in" tvg-name="BIG TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/BIGTV%20Logo_2000_X_1125_Transpharent.png" tvg-country="IN" tvg-language="tel" group-title="IN News",BIG TV (576p)
 https://yuppnimresmum.akamaized.net/120723/smil:bigtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="BigTV24x7.in" tvg-name="Big TV 24x7" tvg-logo="https://i.postimg.cc/rpHrRxR5/big_tv_malayalam.png" tvg-country="IN" tvg-language="mal" group-title="IN News",Big TV 24x7 (576i)
-https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
 #EXTINF:-1 tvg-id="BRKNews.in" tvg-name="BRK News" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/brk-news.png" tvg-country="IN" tvg-language="tel" group-title="IN News",BRK News (576p)
 https://d2gvyg6lvauoko.cloudfront.net/230226/brknews/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="BS9News.in" tvg-name="BS9 News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BS9_News.png" tvg-country="IN" tvg-language="guj" group-title="IN News",BS9 News (576p)
 http://51.75.127.199:3141/bs9news/index.m3u8
 #EXTINF:-1 tvg-id="BTTV.in" tvg-name="BT TV" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/resource/img/best-bank-new.png" tvg-country="IN" tvg-language="eng" group-title="IN News",BT TV (720p)
 https://feeds.intoday.in/bttv/itgd.m3u8
+#EXTINF:-1 tvg-id="BuletinIndia.in" tvg-name="Buletin India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Buletin_India.png" tvg-country="IN" tvg-language="guj" group-title="IN News",Buletin India (576p)
+http://51.75.127.199:3141/buletinindia/index.m3u8
 #EXTINF:-1 tvg-id="ChardiklaGurbaaniTV.in" tvg-name="Chardikla Gurbaani TV" tvg-logo="https://i.imgur.com/NXD8CPq.png" tvg-country="IN" tvg-language="pan" group-title="IN News",Chardikla Gurbaani TV (1080p)
 https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChardiklaTimeTV.in" tvg-name="Chardikla Time TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Chardikla%20Time%20TV.png" tvg-country="IN" tvg-language="pan" group-title="IN News",Chardikla Time TV (1080p)
 https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChardiklaTimeTVNorthAmerica.in" tvg-name="Chardikla Time TV North America" tvg-logo="https://i.imgur.com/IUeMFey.jpg" tvg-country="IN" tvg-language="pan" group-title="IN News",Chardikla Time TV North America (1080p)
 https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
-#EXTINF:-1 tvg-id="CnewsBharat.in" tvg-name="Cnews Bharat" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/C-News_transparent.png" tvg-country="IN" tvg-language="hin" group-title="IN News",Cnews Bharat (720p)
-https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="CTVNAKDPlus.in" tvg-name="CTVN AKD Plus" tvg-logo="https://dtil.tmsimg.com/assets/s142754_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="ben" group-title="IN News",CTVN AKD Plus (1080p)
 https://live.legitpro.co.in/ctvnakdplus/index.m3u8
 #EXTINF:-1 tvg-id="CVREnglish.in" tvg-name="CVR English" tvg-logo="https://i.imgur.com/k0WTQKi.png" tvg-country="IN" tvg-language="eng" group-title="IN News",CVR English (576p)
@@ -105,8 +105,6 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
 #EXTINF:-1 tvg-id="DDNews.in@HD" tvg-name="DD News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20News.png" tvg-country="IN" tvg-language="hin" group-title="IN News",DD News HD (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
-#EXTINF:-1 tvg-id="DNN.in" tvg-name="DNN" tvg-logo="https://i.imgur.com/H5Kd0k6.png" tvg-country="IN" tvg-language="hin" group-title="IN News",DNN (576p)
-http://51.75.127.199:3141/dnn/index.m3u8
 #EXTINF:-1 tvg-id="EkamraBharatOdia.in" tvg-name="Ekamra Bharat Odia" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Bharat_Odia.png" tvg-country="IN" tvg-language="ory" group-title="IN News",Ekamra Bharat Odia (400p)
 https://live.ekamraott.com/bharat/bharat/index.m3u8
 #EXTINF:-1 tvg-id="ETVNews.in" tvg-name="ETV News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_News.png" tvg-country="IN" tvg-language="tel" group-title="IN News",ETV News (1080p)
@@ -141,8 +139,6 @@ https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8
 #EXTINF:-1 tvg-id="IBC24.in" tvg-name="IBC 24" tvg-logo="https://dtil.tmsimg.com/assets/s143156_ld_h6_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN News",IBC 24 (576p)
 https://mumt05.tangotv.in/87NeALx2IBC24/index.m3u8
-#EXTINF:-1 tvg-id="IN24News.in" tvg-name="IN 24 News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/in24news.png" tvg-country="IN" tvg-language="hin" group-title="IN News",IN 24 News (576p)
-http://51.75.127.199:3141/in24news/index.m3u8
 #EXTINF:-1 tvg-id="India24x7.in" tvg-name="India 24x7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India24x7.png" tvg-country="IN" tvg-language="hin" group-title="IN News",India 24x7 (576p)
 http://51.75.127.199:3141/india24x7/index.m3u8
 #EXTINF:-1 tvg-id="IndiaAhead.in" tvg-name="India Ahead" tvg-logo="https://i.imgur.com/hBkTmf9.png" tvg-country="IN" tvg-language="eng" group-title="IN News",India Ahead (576p)
@@ -228,10 +224,10 @@ https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8
 https://mumt07.tangotv.in/zHjX9OFlMOJOTV/index.m3u8
 #EXTINF:-1 tvg-id="MoonTV.in" tvg-name="Moon TV" tvg-logo="https://i.imgur.com/3l25EZI.png" tvg-country="IN" tvg-language="tam" group-title="IN News",Moon TV (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8
-#EXTINF:-1 tvg-id="MunsifTV.in" tvg-name="Munsif TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Munsif_TV.png" tvg-country="IN" tvg-language="urd" group-title="IN News",Munsif TV (576p)
-https://live1.ottlive.co.in/munsiftv/munsiftv/index.m3u8
 #EXTINF:-1 tvg-id="NagalandTV.in" tvg-name="Nagaland TV" tvg-logo="https://i.imgur.com/EBEIpPo.png" tvg-country="IN" tvg-language="hin" group-title="IN News",Nagaland TV (576p)
 http://51.75.127.199:3141/nltv/index.m3u8
+#EXTINF:-1 tvg-id="NationNews.in" tvg-name="Nation News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/nationnews.png" tvg-country="IN" tvg-language="hin" group-title="IN News",Nation News (720p)
+https://server.playontv.in/nationnews/index.m3u8
 #EXTINF:-1 tvg-id="NDTV24x7.in" tvg-name="NDTV 24x7" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/NDTV24x7_Transparent_9b042a6f-d40f-465a-998f-627ee6841919.png" tvg-country="IN" tvg-language="eng" group-title="IN News",NDTV 24X7 (480p)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-id="NDTVIndia.in" tvg-name="NDTV India" tvg-logo="https://dtil.tmsimg.com/assets/s157588_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN News",NDTV India (480p)
@@ -249,16 +245,12 @@ https://mumt05.tangotv.in/87NeALx2NENEWS/index.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8
 #EXTINF:-1 tvg-id="News1st.in" tvg-name="News 1st" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NewsFirst%20Kannada%20Logo_Transparent.png" tvg-country="IN" tvg-language="kan" group-title="IN News",News 1st (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/News1st/playlist.m3u8
-#EXTINF:-1 tvg-id="News21.in" tvg-name="News 21" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_21.png" tvg-country="IN" tvg-language="hin" group-title="IN News",News 21 (576p)
-http://51.75.127.199:3141/news21/index.m3u8
 #EXTINF:-1 tvg-id="News24.in" tvg-name="News 24" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/News%2024.png" tvg-country="IN" tvg-language="hin" group-title="IN News",News 24 (576p)
 https://tvsen5.aynaott.com/News24/index.m3u8
 #EXTINF:-1 tvg-id="News24MPChhattisgarh.in" tvg-name="News 24 MP & Chhattisgarh" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS24_MPCG/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="hin" group-title="IN News",News 24 MP & Chhattisgarh (576p)
 https://mumt04.tangotv.in/m18aqlK4NEWS24MPCG/index.m3u8
 #EXTINF:-1 tvg-id="News7Tamil.in" tvg-name="News 7 Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News7_Tamil.png" tvg-country="IN" tvg-language="tam" group-title="IN News",News 7 Tamil (576p)
 https://segment.yuppcdn.net/240122/news7/playlist.m3u8
-#EXTINF:-1 tvg-id="NewsCapitalGujarat.in" tvg-name="News Capital Gujarat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NewsCapital_Gujarat.png" tvg-country="IN" tvg-language="guj" group-title="IN News",News Capital Gujarat (1080p)
-https://newscapital.com/hls/main4/stream.m3u8
 #EXTINF:-1 tvg-id="NewsDaily24.in" tvg-name="News Daily 24" tvg-logo="https://i.imgur.com/lT8rihP.png" tvg-country="IN" tvg-language="hin" group-title="IN News",News Daily 24 (576p)
 https://cdn.pishow.tv/ott/live/10009/master.m3u8
 #EXTINF:-1 tvg-id="NewsFlash.in" tvg-name="News Flash" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Flash.png" tvg-country="IN" tvg-language="hin" group-title="IN News",News Flash (576p)
@@ -267,6 +259,8 @@ http://51.75.127.199:3141/newsflash/index.m3u8
 https://cdn.pishow.tv/ott/live/273/master.m3u8
 #EXTINF:-1 tvg-id="NewsJ.in" tvg-name="News J" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/News%20J.png" tvg-country="IN" tvg-language="tam" group-title="IN News",News J (720p)
 https://cdn.pishow.tv/ott/live/1279/master.m3u8
+#EXTINF:-1 tvg-id="NewsLeader.in" tvg-name="News Leader" tvg-logo="https://img-cdn.publive.online/fit-in/360x280/filters:format(webp)/newsleaderlive/media/agency_attachments/2026/04/15/2026-04-15t100517555z-news-leader-640-480-1-sarvajeet-singh-chauhan-2026-04-15-15-35-17.png" tvg-country="IN" tvg-language="hin" group-title="IN News",News Leader (576p)
+https://stream.ottlive.co.in/newsleader/index.m3u8
 #EXTINF:-1 tvg-id="NewsLive.in" tvg-name="News Live" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/News%20Live.png" tvg-country="IN" tvg-language="asm" group-title="IN News",News Live (576p)
 https://cdn.pishow.tv/ott/live/10011/master.m3u8
 #EXTINF:-1 tvg-id="NewsLiveBangla.in" tvg-name="News Live Bangla" tvg-logo="https://papaji.freetvindia.com/media/News_Live_Bangla.png" tvg-country="IN" tvg-language="ben" group-title="IN News",News Live Bangla (576p)
@@ -275,8 +269,6 @@ https://cdn.pishow.tv/ott/live/10003/master.m3u8
 https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8
 #EXTINF:-1 tvg-id="NewsNation.in" tvg-name="News Nation" tvg-logo="https://dtil.tmsimg.com/assets/s143596_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN News",News Nation (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
-#EXTINF:-1 tvg-id="NewsNation81.in" tvg-name="News Nation 81" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Nation_81.png" tvg-country="IN" tvg-language="hin" group-title="IN News",News Nation 81 (1080p)
-https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8
 #EXTINF:-1 tvg-id="NewsOnly.in" tvg-name="News Only" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Only.png" tvg-country="IN" tvg-language="pan" group-title="IN News",News Only (576p)
 http://51.75.127.199:3141/newsonly/index.m3u8
 #EXTINF:-1 tvg-id="NewsStateMPCHG.in" tvg-name="News State MP & CHG" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_STATE_MADHYA_PRADESH_CHHATTISGARH/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="hin" group-title="IN News",News State MP & CHG (1080p)
@@ -335,8 +327,6 @@ https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
 #EXTVLCOPT:http-referrer=https://server.thelegitpro.in/northeastlive/northeastlive/embed.html
 https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="NSC9News.in" tvg-name="NSC9 News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/nsc9.png" tvg-country="IN" tvg-language="hin" group-title="IN News",NSC9 News (1080p)
-https://legitpro.co.in/nsc9/index.m3u8
 #EXTINF:-1 tvg-id="NTVTelugu.in" tvg-name="NTV Telugu" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NTV_Telugu.png" tvg-country="IN" tvg-language="tel" group-title="IN News",NTV Telugu (576p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8
 #EXTINF:-1 tvg-id="OnlyBharat.in" tvg-name="Only Bharat" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AMV_NETWORK/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="hin" group-title="IN News",Only Bharat (576p)
@@ -344,18 +334,17 @@ https://mumt07.tangotv.in/zHjX9OFlONLYBHARAT/index.m3u8
 #EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="Polimer News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Polimer%20News.png" tvg-country="IN" tvg-language="tam" group-title="IN News",Polimer News (576p)
 https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerTV.in" tvg-name="Power TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/POWER_LOGO-ENGLISH-PNG-transparent.png" tvg-country="IN" tvg-language="kan" group-title="IN News",Power TV (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
-https://powertvkannada.com/hls/stream.m3u8
+https://cdn.pishow.tv/ott/live/247/master.m3u8
 #EXTINF:-1 tvg-id="PragNews.in" tvg-name="Prag News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Prag%20News.png" tvg-country="IN" tvg-language="asm" group-title="IN News",Prag News (576p)
-https://hls.pragnews.com/master.m3u8
+https://streams.tangotv.in/PRAGNEWS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PrameyaNews7.in" tvg-name="Prameya News7" tvg-logo="https://dtil.tmsimg.com/assets/s143578_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="ori" group-title="IN News",Prameya News7 (576p)
 https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8
 #EXTINF:-1 tvg-id="PrathamKhabar24x7.in" tvg-name="Pratham Khabar 24x7" tvg-logo="https://i.imgur.com/HNsg5Px.png" tvg-country="IN" tvg-language="asm" group-title="IN News",Pratham Khabar 24x7 (576p)
 https://livelegitpro.in/hls2/newstime/index.m3u8
 #EXTINF:-1 tvg-id="PratidinTime.in" tvg-name="Pratidin Time" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Protidin%20Time.png" tvg-country="IN" tvg-language="asm" group-title="IN News",Pratidin Time (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/protidintime/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimeNews.in" tvg-name="Prime News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Prime_News.png" tvg-country="IN" tvg-language="hin" group-title="IN News",Prime News (1080p)
-https://stream.ottlive.co.in/primenews/index.m3u8
+#EXTINF:-1 tvg-id="PrimeNews.in" tvg-name="Prime News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Prime_News.png" tvg-country="IN" tvg-language="hin" group-title="IN News",Prime News (576p)
+https://mumt07.tangotv.in/zHjX9OFlPRIMENEWS/index.m3u8
 #EXTINF:-1 tvg-id="Prime9News.in" tvg-name="Prime9 News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/PR9NEWS_2000x1125-transparent.png" tvg-country="IN" tvg-language="tel" group-title="IN News",Prime9 News (1080p)
 https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
 #EXTINF:-1 tvg-id="PrudentMedia.in" tvg-name="Prudent Media" tvg-logo="https://i.imgur.com/DG0x4UD.png" tvg-country="IN" tvg-language="gom" group-title="IN News",Prudent Media (1080p)
@@ -386,8 +375,6 @@ https://streams.tangotv.in/REPUBLICBHARAT/ORIGIN/index.m3u8
 https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8
 #EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/REPUBLIC%20TV.png" tvg-country="IN" tvg-language="eng" group-title="IN News",Republic TV (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
-#EXTINF:-1 tvg-id="RozanaSpokesman.in" tvg-name="Rozana Spokesman" tvg-logo="https://www.rozanaspokesman.in/images/logospokesman.png" tvg-country="IN" tvg-language="pan" group-title="IN News",Rozana Spokesman (1080p)
-https://live1.ottlive.co.in/spokesman/spokesman/index.m3u8
 #EXTINF:-1 tvg-id="RTIndia.in" tvg-name="RT India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" tvg-country="IN" tvg-language="eng" group-title="IN News",RT India (1080p)
 https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
 #EXTINF:-1 tvg-id="SachBedhadak.in" tvg-name="Sach Bedhadak" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sach-Bedhadak_Transparent.png" tvg-country="IN" tvg-language="hin" group-title="IN News",Sach Bedhadak (576p)
@@ -429,23 +416,31 @@ https://yuppnimresmum.akamaized.net/120723/smil:tnews.smil/playlist.m3u8?hdnts=s
 #EXTINF:-1 tvg-id="TamilJanam.in" tvg-name="Tamil Janam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Janam_Tamil.png" tvg-country="IN" tvg-language="tam" group-title="IN News",Tamil Janam (576p)
 https://mumt01.tangotv.in/O5aw8Zn3JANAMTVTAMIL/index.m3u8
 #EXTINF:-1 tvg-id="ThanthiTV.in" tvg-name="Thanthi TV" tvg-logo="https://dtil.tmsimg.com/assets/s144000_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="tam" group-title="IN News",Thanthi TV (576p)
-https://cdn.pishow.tv/ott/live/1612/master.m3u8
-#EXTINF:-1 tvg-id="TimesNowNavbharat.in@HD" tvg-name="Times Now Navbharat" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NAV-BHARAT-HD-Transpatrnt.png" tvg-country="IN" tvg-language="hin" group-title="IN News",Times Now Navbharat HD (1080p)
-https://yupprestreamliveus.akamaized.net/v1/vglive-sk-717514/main.m3u8
+https://streams.tangotv.in/THANTHITV/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="TimesNowNavbharat.in" tvg-name="Times Now Navbharat" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NAV-BHARAT-HD-Transpatrnt.png" tvg-country="IN" tvg-language="hin" group-title="IN News",Times Now Navbharat (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8
+#EXTINF:-1 tvg-id="TNPNews.in" tvg-name="TNP News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TNP_News.png" tvg-country="IN" tvg-language="hin" group-title="IN News",TNP News (1080p)
+https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8
 #EXTINF:-1 tvg-id="TOIGlobal.in" tvg-name="TOI Global" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/npnhm84gz9.png" tvg-country="IN" tvg-language="eng" group-title="IN News",TOI Global (1080p)
 https://live.sli.ke/live/npnhm84gz9/master.m3u8
-#EXTINF:-1 tvg-id="TopNewsMarathi.in" tvg-name="Top News Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/topnewsmarathi.png" tvg-country="IN" tvg-language="mar" group-title="IN News",Top News Marathi (576p)
-http://51.75.127.199:3141/topnewsmarathi/index.m3u8
+#EXTINF:-1 tvg-id="TopNewsMarathi.in" tvg-name="Top News Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/topnewsmarathi.png" tvg-country="IN" tvg-language="mar" group-title="IN News",Top News Marathi (1080p)
+https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8
+#EXTINF:-1 tvg-id="TV24.in" tvg-name="TV 24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV24.png" tvg-country="IN" tvg-language="hin" group-title="IN News",TV 24 (576p)
+http://51.75.127.199:3141/tv24/index.m3u8
 #EXTINF:-1 tvg-id="TV13Gujarati.in" tvg-name="TV13 Gujarati" tvg-logo="https://www.tv13gujarati.com/assets/front/img/footer-logo.jpg" tvg-country="IN" tvg-language="guj" group-title="IN News",TV13 Gujarati (480p)
 https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8
 #EXTINF:-1 tvg-id="TV27News.in" tvg-name="TV27 News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV27_News.png" tvg-country="IN" tvg-language="hin" group-title="IN News",TV27 News (360p)
 https://mumt04.tangotv.in/m18aqlK4TV27/index.m3u8
 #EXTINF:-1 tvg-id="TV30India.in" tvg-name="TV30 India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV30India.png" tvg-country="IN" tvg-language="hin" group-title="IN News",TV30 India (1080p)
 https://stream.tv30bharat.com/hls/shree/bhattji.m3u8
+#EXTINF:-1 tvg-id="TV45.in" tvg-name="TV45" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV45.png" tvg-country="IN" tvg-language="hin" group-title="IN News",TV45 (1080p)
+https://server.livelegitpro.in/bnews24/bnews24/video.m3u8
 #EXTINF:-1 tvg-id="TV5Kannada.in" tvg-name="TV5 Kannada" tvg-logo="https://dtil.tmsimg.com/assets/s144024_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="kan" group-title="IN News",TV5 Kannada (576p)
-https://yuppnimresmum.akamaized.net/050522/tv5kannada/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+https://mumt07.tangotv.in/zHjX9OFlTV5KANNADA/index.m3u8
 #EXTINF:-1 tvg-id="TV5News.in" tvg-name="TV5 News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/TV5%20News.png" tvg-country="IN" tvg-language="tel" group-title="IN News",TV5 News (576p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Bharat.in" tvg-name="TV7 Bharat" tvg-logo="https://tv7bharat.tv/wp-content/uploads/2023/07/Logo-Bharat.jpg" tvg-country="IN" tvg-language="hin" group-title="IN News",TV7 Bharat (576p)
+https://stream.ottlive.co.in/tv7bharat/index.m3u8
 #EXTINF:-1 tvg-id="TV9Bangla.in" tvg-name="TV9 Bangla" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/TV9-Bangla1.png" tvg-country="IN" tvg-language="ben" group-title="IN News",TV9 Bangla (720p)
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9Bharatvarsh.in" tvg-name="TV9 Bharatvarsh" tvg-logo="https://dtil.tmsimg.com/assets/s144027_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN News",TV9 Bharatvarsh (720p)
@@ -464,14 +459,10 @@ http://45.122.122.61:8080/UPNOW/video.m3u8
 https://d1rc86nwwc9fag.cloudfront.net/140622/v6newsdev/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="VelichamTV.in" tvg-name="Velicham TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Logo_of_Velicham_TV.png" tvg-country="IN" tvg-language="tam" group-title="IN News",Velicham TV (576p)
 https://cdn.pishow.tv/ott/live/461/master.m3u8
-#EXTINF:-1 tvg-id="VistaarNews.in" tvg-name="Vistaar News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Vistaar-Logo_2000_X_1125_Transpharent.png" tvg-country="IN" tvg-language="hin" group-title="IN News",Vistaar News (1080p)
-https://stream.ottlive.co.in/vistaartv/index.m3u8
 #EXTINF:-1 tvg-id="VNMTV.in" tvg-name="VNM TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/VNM_News.png" tvg-country="IN" tvg-language="hin" group-title="IN News",VNM TV (576p)
 http://51.75.127.199:3141/vnmtv/index.m3u8
 #EXTINF:-1 tvg-id="VRLive.in" tvg-name="VR Live" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/VRLive.png" tvg-country="IN" tvg-language="guj" group-title="IN News",VR Live (720p)
 https://channel.vrlivegujarat.com/hls/vrchannel.m3u8
-#EXTINF:-1 tvg-id="VTVNews.in" tvg-name="VTV News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VTV_GUJARATI/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="guj" group-title="IN News",VTV News (576p)
-https://live1.ottlive.co.in/vtvgujarati/vtvgujarati/index.m3u8
 #EXTINF:-1 tvg-id="WION.in" tvg-name="WION" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/ZEEDIGITAL/LIVECHANNEL/67ed357bd88a5f7a856b6fbb/images/LOGO/LOGO_14l9kmNae_WION-(2).png" tvg-country="IN" tvg-language="eng" group-title="IN News",WION (1080p)
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="WorldPunjabiTV.in" tvg-name="World Punjabi TV" tvg-logo="https://papaji.freetvindia.com/media/World_Punjabi_TV.png" tvg-country="IN" tvg-language="pan" group-title="IN News",World Punjabi TV (1080p)
@@ -515,7 +506,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
 #EXTINF:-1 tvg-id="CapitalTV.pk" tvg-name="Capital TV" tvg-logo="https://i.imgur.com/UxAE5O4.png" tvg-country="PK" tvg-language="urd" group-title="PK News",Capital TV
 https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8
 #EXTINF:-1 tvg-id="DunyaNews.pk" tvg-name="Dunya News" tvg-logo="https://i.imgur.com/1PbtW0y.png" tvg-country="PK" tvg-language="urd" group-title="PK News",Dunya News (INT Feed) (720p)
-https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:-1 tvg-id="KTNNews.pk" tvg-name="KTN News" tvg-logo="https://i.imgur.com/RtEzpPQ.png" tvg-country="PK" tvg-language="snd" group-title="PK News",KTN News (360p)
 https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8
 #EXTINF:-1 tvg-id="LahoreNews.pk" tvg-name="Lahore News" tvg-logo="https://i.imgur.com/bQfQeEA.jpeg" tvg-country="PK" tvg-language="urd" group-title="PK News",Lahore News (720p)

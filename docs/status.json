@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-10-07T08:55:13Z",
+  "updated_at": "2026-10-08T09:10:26Z",
   "playlists": [
     {
       "file": "news.m3u",
       "title": "India + Pakistan News",
-      "streams_tested": 550,
-      "channels_working": 259,
+      "streams_tested": 549,
+      "channels_working": 255,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 404": 51,
-        "segment HTTP 404": 25,
-        "unreachable (timed out) after 3 tries": 14,
+        "HTTP 404": 54,
+        "segment HTTP 404": 28,
+        "unreachable (timed out) after 3 tries": 17,
         "HTTP 403": 7,
-        "HTTP 400": 4
+        "HTTP 401": 3
       }
     },
     {
       "file": "sports.m3u",
       "title": "International Sports",
-      "streams_tested": 608,
-      "channels_working": 232,
+      "streams_tested": 607,
+      "channels_working": 238,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
         "HTTP 403": 118,
-        "HTTP 404": 50,
-        "unreachable (timed out) after 3 tries": 42,
-        "variant manifest failed": 11,
+        "HTTP 404": 44,
+        "unreachable (timed out) after 3 tries": 44,
+        "variant manifest failed": 15,
         "segment HTTP 403": 9
       }
     },
@@ -35,43 +35,43 @@
       "file": "entertainment.m3u",
       "title": "India + Pakistan Entertainment",
       "streams_tested": 240,
-      "channels_working": 94,
+      "channels_working": 96,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 404": 38,
-        "segment HTTP 404": 12,
-        "unreachable (timed out) after 3 tries": 11,
+        "HTTP 404": 39,
+        "unreachable (timed out) after 3 tries": 14,
+        "segment HTTP 404": 10,
         "HTTP 403": 5,
-        "HTTP 400": 4
+        "segment HTTP 416": 3
       }
     },
     {
       "file": "documentary.m3u",
       "title": "World Documentary & Knowledge",
-      "streams_tested": 369,
-      "channels_working": 130,
+      "streams_tested": 373,
+      "channels_working": 134,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
         "HTTP 403": 99,
         "HTTP 404": 20,
+        "segment HTTP 404": 11,
         "unreachable ([Errno -2] Name or service not known) after 3 tries": 9,
-        "unreachable (timed out) after 3 tries": 9,
-        "TimeoutError": 7
+        "unreachable (timed out) after 3 tries": 9
       }
     },
     {
       "file": "music.m3u",
       "title": "India + Pakistan Music",
       "streams_tested": 108,
-      "channels_working": 51,
+      "channels_working": 52,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
         "HTTP 404": 14,
-        "segment HTTP 404": 4,
         "HTTP 403": 3,
+        "segment HTTP 404": 1,
         "unreachable ([Errno -5] No address associated with ho) after 3 tries": 1,
         "too little data after 3 tries": 1
       }
@@ -80,30 +80,30 @@
       "file": "movies.m3u",
       "title": "India + Pakistan Movies",
       "streams_tested": 131,
-      "channels_working": 63,
+      "channels_working": 60,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 404": 18,
+        "HTTP 404": 19,
         "HTTP 403": 4,
         "HTTP 458": 3,
-        "too little data after 3 tries": 2,
-        "unreachable ([Errno -5] No address associated with ho) after 3 tries": 1
+        "segment HTTP 404": 3,
+        "too little data after 3 tries": 2
       }
     },
     {
       "file": "kids.m3u",
       "title": "India + Pakistan Kids",
       "streams_tested": 35,
-      "channels_working": 15,
+      "channels_working": 18,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 404": 4,
         "unreachable (timed out) after 3 tries": 4,
-        "segment HTTP 404": 2,
+        "HTTP 404": 3,
         "HTTP 458": 1,
-        "HTTP 403": 1
+        "HTTP 403": 1,
+        "segment empty": 1
       }
     },
     {
