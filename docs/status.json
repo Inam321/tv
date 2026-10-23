@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-22T07:45:39Z",
+  "updated_at": "2026-10-23T07:43:14Z",
   "playlists": [
     {
       "file": "news.m3u",
       "title": "India + Pakistan News",
-      "streams_tested": 493,
-      "channels_working": 241,
+      "streams_tested": 495,
+      "channels_working": 244,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 404": 27,
-        "segment HTTP 404": 19,
-        "unreachable (timed out) after 3 tries": 18,
+        "HTTP 404": 26,
+        "segment HTTP 404": 26,
+        "unreachable (timed out) after 3 tries": 17,
         "HTTP 403": 6,
         "HTTP 401": 3
       }
@@ -19,46 +19,46 @@
     {
       "file": "sports.m3u",
       "title": "International Sports",
-      "streams_tested": 625,
-      "channels_working": 257,
+      "streams_tested": 620,
+      "channels_working": 274,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 403": 70,
-        "unreachable (timed out) after 3 tries": 67,
-        "HTTP 404": 42,
+        "HTTP 403": 69,
+        "unreachable (timed out) after 3 tries": 57,
+        "HTTP 404": 39,
         "unreachable ([Errno -2] Name or service not known) after 3 tries": 15,
-        "variant manifest failed": 12
+        "too little data after 3 tries": 9
       }
     },
     {
       "file": "entertainment.m3u",
       "title": "India + Pakistan Entertainment",
       "streams_tested": 209,
-      "channels_working": 96,
+      "channels_working": 99,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 404": 17,
         "unreachable (timed out) after 3 tries": 14,
+        "HTTP 404": 13,
         "HTTP 403": 7,
-        "segment HTTP 404": 6,
-        "segment empty": 2
+        "segment HTTP 404": 4,
+        "segment empty": 3
       }
     },
     {
       "file": "documentary.m3u",
       "title": "World Documentary & Knowledge",
-      "streams_tested": 405,
-      "channels_working": 198,
+      "streams_tested": 392,
+      "channels_working": 195,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 404": 22,
-        "unreachable (timed out) after 3 tries": 20,
-        "HTTP 403": 19,
+        "HTTP 403": 27,
+        "HTTP 404": 20,
         "unreachable ([Errno -2] Name or service not known) after 3 tries": 14,
-        "TimeoutError": 9
+        "unreachable (timed out) after 3 tries": 14,
+        "segment HTTP 404": 8
       }
     },
     {
@@ -69,8 +69,8 @@
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 404": 7,
-        "segment HTTP 404": 6,
+        "HTTP 404": 10,
+        "segment HTTP 404": 5,
         "HTTP 403": 3,
         "unreachable ([Errno -5] No address associated with ho) after 3 tries": 1,
         "too little data after 3 tries": 1
@@ -79,31 +79,30 @@
     {
       "file": "movies.m3u",
       "title": "India + Pakistan Movies",
-      "streams_tested": 104,
-      "channels_working": 47,
+      "streams_tested": 103,
+      "channels_working": 48,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
         "HTTP 404": 10,
+        "unreachable (timed out) after 3 tries": 6,
         "HTTP 403": 4,
-        "segment HTTP 404": 4,
-        "unreachable (timed out) after 3 tries": 3,
-        "HTTP 456": 2
+        "segment HTTP 404": 2,
+        "HTTP 456": 1
       }
     },
     {
       "file": "kids.m3u",
       "title": "India + Pakistan Kids",
-      "streams_tested": 33,
-      "channels_working": 15,
+      "streams_tested": 34,
+      "channels_working": 16,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "segment HTTP 404": 4,
-        "unreachable (timed out) after 3 tries": 4,
-        "unreachable ([Errno -3] Temporary failure in name res) after 3 tries": 3,
+        "unreachable (timed out) after 3 tries": 10,
         "HTTP 404": 2,
-        "HTTP 429": 1
+        "HTTP 456": 1,
+        "HTTP 403": 1
       }
     },
     {
