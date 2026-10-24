@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-10-23T07:43:14Z",
+  "updated_at": "2026-10-24T07:25:36Z",
   "playlists": [
     {
       "file": "news.m3u",
       "title": "India + Pakistan News",
-      "streams_tested": 495,
-      "channels_working": 244,
+      "streams_tested": 504,
+      "channels_working": 250,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 404": 26,
-        "segment HTTP 404": 26,
+        "HTTP 404": 25,
+        "segment HTTP 404": 23,
         "unreachable (timed out) after 3 tries": 17,
         "HTTP 403": 6,
         "HTTP 401": 3
@@ -19,58 +19,58 @@
     {
       "file": "sports.m3u",
       "title": "International Sports",
-      "streams_tested": 620,
-      "channels_working": 274,
+      "streams_tested": 616,
+      "channels_working": 264,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 403": 69,
-        "unreachable (timed out) after 3 tries": 57,
-        "HTTP 404": 39,
+        "HTTP 403": 75,
+        "unreachable (timed out) after 3 tries": 56,
+        "HTTP 404": 48,
         "unreachable ([Errno -2] Name or service not known) after 3 tries": 15,
-        "too little data after 3 tries": 9
+        "too little data after 3 tries": 8
       }
     },
     {
       "file": "entertainment.m3u",
       "title": "India + Pakistan Entertainment",
-      "streams_tested": 209,
-      "channels_working": 99,
+      "streams_tested": 212,
+      "channels_working": 100,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
         "unreachable (timed out) after 3 tries": 14,
         "HTTP 404": 13,
-        "HTTP 403": 7,
-        "segment HTTP 404": 4,
-        "segment empty": 3
+        "HTTP 403": 8,
+        "segment HTTP 416": 2,
+        "segment empty": 2
       }
     },
     {
       "file": "documentary.m3u",
       "title": "World Documentary & Knowledge",
       "streams_tested": 392,
-      "channels_working": 195,
+      "channels_working": 187,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 403": 27,
-        "HTTP 404": 20,
+        "HTTP 404": 38,
+        "HTTP 403": 18,
         "unreachable ([Errno -2] Name or service not known) after 3 tries": 14,
         "unreachable (timed out) after 3 tries": 14,
-        "segment HTTP 404": 8
+        "TimeoutError": 7
       }
     },
     {
       "file": "music.m3u",
       "title": "India + Pakistan Music",
-      "streams_tested": 102,
-      "channels_working": 48,
+      "streams_tested": 104,
+      "channels_working": 53,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 404": 10,
-        "segment HTTP 404": 5,
+        "HTTP 404": 7,
+        "segment HTTP 404": 4,
         "HTTP 403": 3,
         "unreachable ([Errno -5] No address associated with ho) after 3 tries": 1,
         "too little data after 3 tries": 1
@@ -79,23 +79,23 @@
     {
       "file": "movies.m3u",
       "title": "India + Pakistan Movies",
-      "streams_tested": 103,
-      "channels_working": 48,
+      "streams_tested": 106,
+      "channels_working": 49,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 404": 10,
+        "HTTP 404": 8,
         "unreachable (timed out) after 3 tries": 6,
-        "HTTP 403": 4,
-        "segment HTTP 404": 2,
-        "HTTP 456": 1
+        "segment HTTP 404": 4,
+        "HTTP 403": 3,
+        "HTTP 456": 2
       }
     },
     {
       "file": "kids.m3u",
       "title": "India + Pakistan Kids",
-      "streams_tested": 34,
-      "channels_working": 16,
+      "streams_tested": 35,
+      "channels_working": 17,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
@@ -112,9 +112,7 @@
       "channels_working": 2,
       "channels_unverified": 0,
       "kept_previous": false,
-      "top_failures": {
-        "unreachable (timed out) after 3 tries": 1
-      }
+      "top_failures": {}
     }
   ]
 }
