@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-10-25T07:40:51Z",
+  "updated_at": "2026-10-26T07:55:46Z",
   "playlists": [
     {
       "file": "news.m3u",
       "title": "India + Pakistan News",
       "streams_tested": 504,
-      "channels_working": 249,
+      "channels_working": 254,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 404": 25,
-        "segment HTTP 404": 25,
+        "segment HTTP 404": 35,
+        "HTTP 404": 23,
         "unreachable (timed out) after 3 tries": 18,
         "HTTP 403": 6,
         "HTTP 401": 3
@@ -19,16 +19,16 @@
     {
       "file": "sports.m3u",
       "title": "International Sports",
-      "streams_tested": 614,
-      "channels_working": 250,
+      "streams_tested": 616,
+      "channels_working": 262,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 403": 79,
-        "unreachable (timed out) after 3 tries": 63,
-        "HTTP 404": 47,
+        "unreachable (timed out) after 3 tries": 71,
+        "HTTP 403": 70,
+        "HTTP 404": 32,
         "unreachable ([Errno -2] Name or service not known) after 3 tries": 15,
-        "too little data after 3 tries": 8
+        "variant manifest failed": 9
       }
     },
     {
@@ -39,56 +39,56 @@
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 404": 17,
         "unreachable (timed out) after 3 tries": 16,
-        "segment HTTP 404": 10,
+        "HTTP 404": 13,
         "HTTP 403": 7,
-        "segment empty": 2
+        "segment HTTP 404": 6,
+        "segment HTTP 403": 2
       }
     },
     {
       "file": "documentary.m3u",
       "title": "World Documentary & Knowledge",
       "streams_tested": 387,
-      "channels_working": 184,
+      "channels_working": 203,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 404": 38,
-        "HTTP 403": 19,
+        "HTTP 404": 20,
+        "unreachable (timed out) after 3 tries": 19,
         "unreachable ([Errno -2] Name or service not known) after 3 tries": 14,
-        "unreachable (timed out) after 3 tries": 12,
-        "segment HTTP 404": 7
+        "HTTP 403": 12,
+        "TimeoutError": 6
       }
     },
     {
       "file": "music.m3u",
       "title": "India + Pakistan Music",
       "streams_tested": 104,
-      "channels_working": 54,
+      "channels_working": 55,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 404": 6,
+        "HTTP 404": 7,
         "HTTP 403": 3,
-        "segment HTTP 404": 1,
         "unreachable ([Errno -5] No address associated with ho) after 3 tries": 1,
-        "too little data after 3 tries": 1
+        "too little data after 3 tries": 1,
+        "unreachable ([Errno 111] Connection refused) after 3 tries": 1
       }
     },
     {
       "file": "movies.m3u",
       "title": "India + Pakistan Movies",
       "streams_tested": 103,
-      "channels_working": 51,
+      "channels_working": 49,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 404": 8,
+        "HTTP 404": 9,
+        "segment HTTP 404": 5,
         "unreachable (timed out) after 3 tries": 4,
         "HTTP 403": 3,
-        "segment HTTP 404": 3,
-        "too little data after 3 tries": 2
+        "segment empty": 2
       }
     },
     {
@@ -112,9 +112,7 @@
       "channels_working": 2,
       "channels_unverified": 0,
       "kept_previous": false,
-      "top_failures": {
-        "unreachable (timed out) after 3 tries": 1
-      }
+      "top_failures": {}
     }
   ]
 }
