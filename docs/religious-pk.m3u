@@ -1,9 +1,7 @@
 #EXTM3U
 # Madani Channels
-# 2 verified working channels
-# updated 2026-10-30T08:46:29Z
+# 1 verified working channels
+# updated 2026-10-31T08:34:11Z
 # generated from https://github.com/iptv-org/iptv
 #EXTINF:-1 tvg-id="MadaniChannelEnglish.pk" tvg-name="Madani Channel English" tvg-logo="https://i.imgur.com/Abi9j0A.png" tvg-country="PK" tvg-language="eng" group-title="PK Madani",Madani Channel English (720p)
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
-#EXTINF:-1 tvg-id="MadaniChannelUrdu.pk" tvg-name="Madani Channel Urdu" tvg-logo="https://i.imgur.com/MitLeCJ.png" tvg-country="PK" tvg-language="urd" group-title="PK Madani",Madani Channel Urdu (720p)
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
