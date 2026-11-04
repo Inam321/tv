@@ -1,16 +1,16 @@
 # Playlist status
 
-Last updated: **2026-11-03T09:44:18Z**
+Last updated: **2026-11-04T09:31:02Z**
 
 | Playlist | Streams tested | Working channels |
 |---|---:|---:|
 | India + Pakistan News | 594 | 268 |
-| International Sports | 619 | 282 |
-| India + Pakistan Entertainment | 230 | 96 |
-| World Documentary & Knowledge | 395 | 206 |
-| India + Pakistan Music | 115 | 52 |
-| India + Pakistan Movies | 112 | 46 |
-| India + Pakistan Kids | 31 | 13 |
+| International Sports | 616 | 266 |
+| India + Pakistan Entertainment | 230 | 90 |
+| World Documentary & Knowledge | 395 | 207 |
+| India + Pakistan Music | 115 | 48 |
+| India + Pakistan Movies | 110 | 45 |
+| India + Pakistan Kids | 31 | 12 |
 | Madani Channels | 3 | 2 |
 
-Total: **965** working channels from 2099 streams tested.
+Total: **938** working channels from 2094 streams tested.
