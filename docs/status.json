@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-11-05T09:39:40Z",
+  "updated_at": "2026-11-06T09:32:59Z",
   "playlists": [
     {
       "file": "news.m3u",
       "title": "India + Pakistan News",
       "streams_tested": 594,
-      "channels_working": 269,
+      "channels_working": 270,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 403": 44,
-        "HTTP 404": 28,
-        "segment HTTP 404": 23,
-        "unreachable (timed out) after 3 tries": 20,
-        "HTTP 401": 2
+        "HTTP 403": 39,
+        "HTTP 404": 31,
+        "segment HTTP 404": 19,
+        "unreachable (timed out) after 3 tries": 17,
+        "segment HTTP 416": 3
       }
     },
     {
       "file": "sports.m3u",
       "title": "International Sports",
       "streams_tested": 617,
-      "channels_working": 269,
+      "channels_working": 267,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 403": 71,
-        "unreachable (timed out) after 3 tries": 58,
+        "HTTP 403": 72,
+        "unreachable (timed out) after 3 tries": 64,
         "HTTP 404": 42,
         "unreachable ([Errno -2] Name or service not known) after 3 tries": 12,
-        "segment HTTP 404": 8
+        "variant manifest failed": 11
       }
     },
     {
@@ -39,11 +39,11 @@
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 403": 32,
-        "HTTP 404": 15,
+        "HTTP 403": 33,
+        "HTTP 404": 16,
         "unreachable (timed out) after 3 tries": 15,
-        "segment HTTP 404": 5,
-        "segment HTTP 403": 2
+        "segment HTTP 403": 2,
+        "unreachable ([Errno -5] No address associated with ho) after 3 tries": 2
       }
     },
     {
@@ -55,23 +55,23 @@
       "kept_previous": false,
       "top_failures": {
         "HTTP 404": 23,
+        "unreachable ([Errno -2] Name or service not known) after 3 tries": 21,
         "HTTP 403": 19,
-        "unreachable (timed out) after 3 tries": 19,
-        "unreachable ([Errno -2] Name or service not known) after 3 tries": 17,
-        "segment HTTP 404": 4
+        "unreachable (timed out) after 3 tries": 17,
+        "segment HTTP 404": 5
       }
     },
     {
       "file": "music.m3u",
       "title": "India + Pakistan Music",
       "streams_tested": 115,
-      "channels_working": 53,
+      "channels_working": 50,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 403": 9,
-        "HTTP 404": 9,
-        "segment HTTP 404": 4,
+        "HTTP 403": 8,
+        "HTTP 404": 8,
+        "segment HTTP 404": 5,
         "unreachable ([Errno -5] No address associated with ho) after 3 tries": 1,
         "too little data after 3 tries": 1
       }
@@ -85,10 +85,10 @@
       "kept_previous": false,
       "top_failures": {
         "HTTP 403": 19,
-        "HTTP 404": 4,
-        "too little data after 3 tries": 2,
-        "segment HTTP 404": 2,
-        "unreachable (timed out) after 3 tries": 2
+        "HTTP 404": 3,
+        "unreachable ([Errno -5] No address associated with ho) after 3 tries": 2,
+        "unreachable (timed out) after 3 tries": 2,
+        "variant manifest failed": 1
       }
     },
     {
@@ -102,7 +102,8 @@
         "HTTP 403": 6,
         "unreachable (timed out) after 3 tries": 5,
         "HTTP 404": 1,
-        "HTTP 456": 1
+        "HTTP 456": 1,
+        "segment HTTP 404": 1
       }
     },
     {
@@ -112,7 +113,9 @@
       "channels_working": 2,
       "channels_unverified": 0,
       "kept_previous": false,
-      "top_failures": {}
+      "top_failures": {
+        "unreachable (timed out) after 3 tries": 1
+      }
     }
   ]
 }
