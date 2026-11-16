@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-15T09:37:47Z",
+  "updated_at": "2026-11-16T09:55:24Z",
   "playlists": [
     {
       "file": "news.m3u",
       "title": "India + Pakistan News",
       "streams_tested": 652,
-      "channels_working": 290,
+      "channels_working": 289,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 404": 36,
-        "segment HTTP 404": 22,
-        "HTTP 403": 22,
+        "HTTP 404": 30,
+        "segment HTTP 404": 26,
+        "HTTP 403": 23,
         "unreachable (timed out) after 3 tries": 14,
         "HTTP 400": 4
       }
@@ -20,15 +20,15 @@
       "file": "sports.m3u",
       "title": "International Sports",
       "streams_tested": 652,
-      "channels_working": 280,
+      "channels_working": 296,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 403": 70,
+        "HTTP 403": 72,
         "unreachable (timed out) after 3 tries": 58,
-        "HTTP 404": 43,
-        "variant manifest failed": 16,
-        "unreachable ([Errno -2] Name or service not known) after 3 tries": 9
+        "HTTP 404": 44,
+        "unreachable ([Errno -2] Name or service not known) after 3 tries": 9,
+        "unreachable ([Errno 111] Connection refused) after 3 tries": 8
       }
     },
     {
@@ -39,70 +39,70 @@
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
+        "unreachable (timed out) after 3 tries": 17,
         "HTTP 403": 15,
         "HTTP 404": 12,
-        "unreachable (timed out) after 3 tries": 12,
-        "segment HTTP 404": 6,
-        "unreachable ([Errno 111] Connection refused) after 3 tries": 5
+        "unreachable ([Errno 111] Connection refused) after 3 tries": 5,
+        "HTTP 400": 5
       }
     },
     {
       "file": "documentary.m3u",
       "title": "World Documentary & Knowledge",
       "streams_tested": 392,
-      "channels_working": 201,
+      "channels_working": 208,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 404": 25,
+        "HTTP 404": 24,
+        "unreachable (timed out) after 3 tries": 22,
         "HTTP 403": 20,
-        "unreachable (timed out) after 3 tries": 19,
         "unreachable ([Errno -2] Name or service not known) after 3 tries": 12,
-        "variant manifest failed": 6
+        "variant manifest failed": 4
       }
     },
     {
       "file": "music.m3u",
       "title": "India + Pakistan Music",
       "streams_tested": 119,
-      "channels_working": 53,
+      "channels_working": 54,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 404": 10,
+        "HTTP 404": 7,
         "HTTP 403": 4,
+        "segment HTTP 404": 2,
         "unreachable ([Errno 111] Connection refused) after 3 tries": 2,
-        "segment HTTP 404": 1,
-        "too little data after 3 tries": 1
+        "unreachable ([Errno -5] No address associated with ho) after 3 tries": 1
       }
     },
     {
       "file": "movies.m3u",
       "title": "India + Pakistan Movies",
       "streams_tested": 111,
-      "channels_working": 52,
+      "channels_working": 51,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
         "HTTP 403": 9,
-        "HTTP 404": 2,
+        "HTTP 404": 3,
+        "unreachable (timed out) after 3 tries": 3,
         "too little data after 3 tries": 2,
-        "segment HTTP 404": 1,
-        "unreachable ([Errno 111] Connection refused) after 3 tries": 1
+        "segment HTTP 404": 2
       }
     },
     {
       "file": "kids.m3u",
       "title": "India + Pakistan Kids",
       "streams_tested": 27,
-      "channels_working": 9,
+      "channels_working": 10,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "unreachable (timed out) after 3 tries": 4,
-        "HTTP 404": 3,
+        "unreachable (timed out) after 3 tries": 5,
         "unreachable ([Errno 111] Connection refused) after 3 tries": 3,
         "HTTP 403": 1,
+        "HTTP 404": 1,
         "HTTP 456": 1
       }
     },
