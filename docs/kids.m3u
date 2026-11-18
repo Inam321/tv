@@ -1,7 +1,7 @@
 #EXTM3U
 # India + Pakistan Kids
-# 10 verified working channels
-# updated 2026-11-17T10:52:01Z
+# 11 verified working channels
+# updated 2026-11-18T10:22:56Z
 # generated from https://github.com/iptv-org/iptv
 #EXTINF:-1 tvg-id="Chithiram.in" tvg-name="Chithiram" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/CHITHIRAM_Transparent_0a0a1cd6-cba5-4899-b22d-ce53fa1236dd.png" tvg-country="IN" tvg-language="tam" group-title="IN Kids",Chithiram (576p)
 https://cdn.pishow.tv/ott/live/1243/master.m3u8
@@ -9,6 +9,8 @@ https://cdn.pishow.tv/ott/live/1243/master.m3u8
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
 #EXTINF:-1 tvg-id="GreenGoldTV.in" tvg-name="Green Gold TV" tvg-logo="https://i.ibb.co/TDPsPVkT/Greengoldtv.png" tvg-country="IN" tvg-language="hin" group-title="IN Kids",Green Gold TV (1080p)
 https://cc-szrmqvu8zkg16.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szrmqvu8zkg16/greengold/stream/grngld/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Kids",Sony Yay! (1080p)
+https://r2.amml.in/sony-yay/live.m3u8
 #EXTINF:-1 tvg-id="TheJungleBook.in" tvg-name="The Jungle Book" tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png" tvg-country="IN" tvg-language="hin" group-title="IN Kids",The Jungle Book (1080p)
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 tvg-id="UniqueTV.in" tvg-name="Unique TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/UNIQUE-TV-logo_2000_X_1125_Transpharent.png" tvg-country="IN" tvg-language="hin" group-title="IN Kids",Unique TV (576p)
