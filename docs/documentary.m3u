@@ -1,7 +1,7 @@
 #EXTM3U
 # World Documentary & Knowledge
-# 214 verified working channels
-# updated 2026-11-21T09:58:13Z
+# 211 verified working channels
+# updated 2026-11-22T09:56:56Z
 # generated from https://github.com/iptv-org/iptv
 #EXTINF:-1 tvg-id="AlArabiyaPrograms.ae" tvg-name="Al Arabiya Programs" tvg-logo="https://i.imgur.com/Hoc3cfO.png" tvg-country="AE" tvg-language="ara" group-title="AE Documentary",Al Arabiya Programs (1280p)
 https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
@@ -35,8 +35,7 @@ https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://shift03.isp.bg/ViasatNature_HD/index.m3u8
 #EXTINF:-1 tvg-id="UMSATVUInternacional.bo" tvg-name="UMSA TVU Internacional" tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493" tvg-country="BO" tvg-language="spa" group-title="BO Documentary",UMSA TVU Internacional (720p)
-#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/tvu-internacional
-https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
+https://edge.enhdtv.com/8026/index.m3u8
 #EXTINF:-1 tvg-id="History.br" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-country="BR" tvg-language="por" group-title="BR Documentary",History (720p)
 http://170.83.16.50/HISTORY/index.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca@4K" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-country="CA" tvg-language="eng" group-title="CA Documentary",Love Nature 4K (2160p)
@@ -47,8 +46,6 @@ https://rakutenaa-blueskyent-lovepetsemea-rakuten-ikc4q.amagi.tv/playlist/rakute
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="TotalCrime.ca" tvg-name="Total Crime" tvg-logo="https://www.totalcrimetv.com/wp-content/uploads/2022/10/crimetime-logo-white.png" tvg-country="CA" tvg-language="eng" group-title="CA Documentary",Total Crime (1080p)
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
-#EXTINF:-1 tvg-id="RLPROTV.cd" tvg-name="RL PRO TV" tvg-logo="https://i.imgur.com/PIBtCEN.jpeg" tvg-country="CD" tvg-language="fra" group-title="CD Documentary",RL PRO TV
-https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
 #EXTINF:-1 tvg-id="WaterBear.ch" tvg-name="WaterBear" tvg-logo="https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png" tvg-country="CH" tvg-language="eng" group-title="CH Documentary",WaterBear (1080p)
 https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="WedoBigStories.ch" tvg-name="Wedo Big Stories" tvg-logo="https://provider-static.plex.tv/epg/cms/production/49cf6309-0a4a-4d39-bdcc-fa48e4ef84a7/WEDOBIGSTORIES_LIGHTTHEME_-_Sorin_Stoian.png" tvg-country="CH" tvg-language="eng" group-title="CH Documentary",Wedo Big Stories (1080p)
@@ -109,8 +106,8 @@ https://jmp2.uk/plu-6462190b7cb4b1000862dd60.m3u8
 https://jmp2.uk/plu-692ebafce72f03e07e7df985.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimales.de" tvg-name="Pluto TV Animales" tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" tvg-country="DE" tvg-language="spa" group-title="DE Documentary",Pluto TV Animales
 https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAnimals.de" tvg-name="Pluto TV Animals" tvg-logo="https://images.pluto.tv/channels/5d767ae7b456c8cf265ce922/colorLogoPNG.png" tvg-country="DE" tvg-language="deu" group-title="DE Documentary",Pluto TV Animals
-https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnimals.de@GB" tvg-name="Pluto TV Animals" tvg-logo="https://images.pluto.tv/channels/5d767ae7b456c8cf265ce922/colorLogoPNG.png" tvg-country="DE" tvg-language="eng" group-title="DE Documentary",Pluto TV Animals
+https://jmp2.uk/plu-5ddf8ea0d000120009bcad83.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimaux.de" tvg-name="Pluto TV Animaux" tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" tvg-country="DE" tvg-language="fra" group-title="DE Documentary",Pluto TV Animaux
 https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAventure.de" tvg-name="Pluto TV Aventure" tvg-logo="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/colorLogoPNG.png" tvg-country="DE" tvg-language="fra" group-title="DE Documentary",Pluto TV Aventure
@@ -123,8 +120,8 @@ https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8
 https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
 #EXTINF:-1 tvg-id="PlutoTVExplore.de" tvg-name="Pluto TV Explore" tvg-logo="https://images.pluto.tv/channels/5ad9b8551b95267e225e59c1/colorLogoPNG.png" tvg-country="DE" tvg-language="deu" group-title="DE Documentary",Pluto TV Explore
 https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8
-#EXTINF:-1 tvg-id="PlutoTVFood.de" tvg-name="Pluto TV Food" tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG_1769092247484.png" tvg-country="DE" tvg-language="deu" group-title="DE Documentary",Pluto TV Food
-https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFood.de@GB" tvg-name="Pluto TV Food" tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG_1769092247484.png" tvg-country="DE" tvg-language="eng" group-title="DE Documentary",Pluto TV Food
+https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHistoire.de" tvg-name="Pluto TV Histoire" tvg-logo="https://images.pluto.tv/channels/611e771e2f5f180007002224/colorLogoPNG.png" tvg-country="DE" tvg-language="fra" group-title="DE Documentary",Pluto TV Histoire (720p)
 https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHistoria.de" tvg-name="Pluto TV Historia" tvg-logo="https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png" tvg-country="DE" tvg-language="spa" group-title="DE Documentary",Pluto TV Historia (720p)
@@ -137,8 +134,8 @@ https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
 https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
 #EXTINF:-1 tvg-id="PlutoTVPetrolHeads.de" tvg-name="Pluto TV PetrolHeads" tvg-logo="https://images.pluto.tv/channels/65a7b0814a10d800085ff2df/colorLogoPNG.png" tvg-country="DE" tvg-language="eng" group-title="DE Documentary",Pluto TV PetrolHeads
 https://jmp2.uk/plu-65a7b0814a10d800085ff2df.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSpace.de" tvg-name="Pluto TV Space" tvg-logo="https://images.pluto.tv/channels/61409f8d6feb30000766b675/colorLogoPNG.png" tvg-country="DE" tvg-language="deu" group-title="DE Documentary",Pluto TV Space
-https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSpace.de@GB" tvg-name="Pluto TV Space" tvg-logo="https://images.pluto.tv/channels/61409f8d6feb30000766b675/colorLogoPNG.png" tvg-country="DE" tvg-language="eng" group-title="DE Documentary",Pluto TV Space
+https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8
 #EXTINF:-1 tvg-id="PlutoTVStoria.de" tvg-name="Pluto TV Storia" tvg-logo="https://images.pluto.tv/channels/65253fdf3fd33c00080214a3/colorLogoPNG_1773147329671.png" tvg-country="DE" tvg-language="ita" group-title="DE Documentary",Pluto TV Storia
 https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
 #EXTINF:-1 tvg-id="PlutoTVToughJobs.de" tvg-name="Pluto TV Tough Jobs" tvg-logo="https://images.pluto.tv/channels/600acaff5f2d6e000745effb/colorLogoPNG.png" tvg-country="DE" tvg-language="eng" group-title="DE Documentary",Pluto TV Tough Jobs
@@ -157,9 +154,6 @@ https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8
 https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="StorieCriminali.es" tvg-name="Storie Criminali" tvg-logo="https://images.pluto.tv/channels/66177d18c8311c0008d077d0/colorLogoPNG.png" tvg-country="ES" tvg-language="ita" group-title="ES Documentary",Storie Criminali
 https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" tvg-country="FR" tvg-language="fra" group-title="FR Documentary",Discovery Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://192.99.186.30/stream/68/index.m3u8
 #EXTINF:-1 tvg-id="HistoireTV.fr" tvg-name="Histoire TV" tvg-logo="https://i.imgur.com/hxuJXll.png" tvg-country="FR" tvg-language="fra" group-title="FR Documentary",Histoire TV (720p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/histoire/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.fr" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" tvg-country="FR" tvg-language="fra" group-title="FR Documentary",Investigation Discovery
@@ -168,7 +162,7 @@ http://192.99.186.30/stream/81/index.m3u8
 #EXTINF:-1 tvg-id="PersianaDocs.fr" tvg-name="Persiana Docs" tvg-country="FR" tvg-language="fas" group-title="FR Documentary",Persiana Docs
 https://scihls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaTravel.fr" tvg-name="Persiana Travel" tvg-country="FR" tvg-language="fas" group-title="FR Documentary",Persiana Travel
-https://mardomhls.wns.live/hls/stream.m3u8
+https://ptravelhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ScienceVieTV.fr" tvg-name="Science & Vie TV" tvg-logo="https://i.imgur.com/9ELsSMI.png" tvg-country="FR" tvg-language="fra" group-title="FR Documentary",Science & Vie TV (720p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/science_et_vie/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="IntoCrime.fr" tvg-name="Into Crime" tvg-logo="https://i.imgur.com/43at4M2.png" tvg-country="FR" tvg-language="fra" group-title="FR Documentary",Zylo Into Crime (1080p)
@@ -202,6 +196,8 @@ http://193.33.39.108:9000/play/a05r
 http://116.90.120.149:8000/play/a11a/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScience.in" tvg-name="Discovery Science" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Discovery%20Science.png" tvg-country="IN" tvg-language="eng" group-title="IN Documentary",Discovery Science (576p)
 http://116.90.120.149:8000/play/a11b/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.in" tvg-name="Discovery Turbo" tvg-logo="https://dtil.tmsimg.com/assets/s159108_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="eng" group-title="IN Documentary",Discovery Turbo (576p)
+http://116.90.120.149:8000/play/a11d/index.m3u8
 #EXTINF:-1 tvg-id="DocuBayTV.in" tvg-name="DocuBay TV" tvg-logo="https://i.imgur.com/OGyeLLR.png" tvg-country="IN" tvg-language="eng" group-title="IN Documentary",DocuBay TV (1080p)
 https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
 #EXTINF:-1 tvg-id="EpicCrimes.in" tvg-name="Epic Crimes" tvg-logo="https://i.imgur.com/EFDsCkH.png" tvg-country="IN" tvg-language="hin" group-title="IN Documentary",Epic Crimes (1080p)
@@ -221,6 +217,8 @@ http://116.90.120.149:8000/play/a11h/index.m3u8
 #EXTINF:-1 tvg-id="SafariTV.in" tvg-name="Safari TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Safari%20TV.png" tvg-country="IN" tvg-language="mal" group-title="IN Documentary",Safari TV (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/410/master.m3u8
+#EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" tvg-name="Sony BBC Earth" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="eng" group-title="IN Documentary",Sony BBC Earth HD (1080p)
+http://116.90.120.149:8000/play/a130/index.m3u8
 #EXTINF:-1 tvg-id="KarbalaDocumentary.iq" tvg-name="Karbala Documentary" tvg-logo="https://www.karbala-tv.iq/documentary/static/img/logo.png" tvg-country="IQ" tvg-language="ara" group-title="IQ Documentary",Karbala Documentary
 https://ktvlive.online/stream/hls/ch3.m3u8
 #EXTINF:-1 tvg-id="EPlanetTV.ir" tvg-name="EPlanet TV" tvg-country="IR" tvg-language="fas" group-title="IR Documentary",EPlanet TV
@@ -232,22 +230,18 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 #EXTINF:-1 tvg-id="Italiana.it" tvg-name="Italiana" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Italiana_%282026%29.svg/revision/latest?cb=20260824144626" tvg-country="IT" tvg-language="ita" group-title="IT Documentary",Italiana (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
-#EXTINF:-1 tvg-id="MRTVFarmer.mm" tvg-name="MRTV Farmer" tvg-logo="https://i.imgur.com/f4PWvrW.jpg" tvg-country="MM" tvg-language="mya" group-title="MM Documentary",MRTV Farmer
-https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
 #EXTINF:-1 tvg-id="MWDDocumentary.mm" tvg-name="MWD Documentary" tvg-logo="https://i.imgur.com/4XV7cjU.png" tvg-country="MM" tvg-language="mya" group-title="MM Documentary",MWD Documentary
 http://203.81.84.130/hls/mwd_document/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.mx@South" tvg-name="Discovery Home & Health Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/960px-Discovery_H%26H_Logo_2022.webp.png" tvg-country="MX" tvg-language="spa" group-title="MX Documentary",Discovery Home & Health Latin America South
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="MX" tvg-language="spa" group-title="MX Documentary",National Geographic (1080p)
 http://138.121.15.230:9002/NAT-GEO/index.m3u8
 #EXTINF:-1 tvg-id="DocuBox.nl" tvg-name="DocuBox" tvg-logo="https://i.imgur.com/pX4U9OG.png" tvg-country="NL" tvg-language="eng" group-title="NL Documentary",DocuBox
 https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="INWILD.nl" tvg-name="INWILD" tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" tvg-country="NL" tvg-language="eng" group-title="NL Documentary",INWILD (1080p)
-https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8
+https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InWonder.nl" tvg-name="InWonder" tvg-logo="https://cdn.uc.assets.prezly.com/1e0b2617-b145-4489-9d63-ba8438489f26/InWonder_portrait-black.png" tvg-country="NL" tvg-language="eng" group-title="NL Documentary",InWonder (1080p)
-https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
+https://amg00861-terncloud-amg00861c4-cineverse-us-962.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderushd-cineverseus/playlist.m3u8
 #EXTINF:-1 tvg-id="BTBInfo.pl" tvg-name="BTB Info" tvg-logo="https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info" tvg-country="PL" tvg-language="pol" group-title="PL Documentary",BTB Info (1080p)
-https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
+https://emisja2.btb.j00r.us/iptv/session/4/live.m3u8
 #EXTINF:-1 tvg-id="History.pl" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-country="PL" tvg-language="eng" group-title="PL Documentary",History (576i)
 http://92.114.85.87:8015/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="History2.pl" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" tvg-country="PL" tvg-language="eng" group-title="PL Documentary",History 2 (1080p)
@@ -292,8 +286,6 @@ http://s1.tv-nano.com/Nano_rec/index.m3u8
 https://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenKinoDok.ru" tvg-name="City Eden KinoDok" tvg-logo="https://i.imgur.com/itRbMX3.png" tvg-country="RU" tvg-language="rus" group-title="RU Documentary",Сити Эдем КиноДок
 https://cityeden.catcast.tv/content/38354/index.m3u8
-#EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-name="Asharq Discovery" tvg-logo="https://i.imgur.com/Czxi7yk.png" tvg-country="SA" tvg-language="ara" group-title="SA Documentary",Asharq Discovery (1080p)
-https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AsharqDocumentary.sa" tvg-name="Asharq Documentary" tvg-logo="https://i.imgur.com/v6VsFEt.png" tvg-country="SA" tvg-language="ara" group-title="SA Documentary",Asharq Documentary (1080p)
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAlienInvasion.se" tvg-name="Pluto TV Alien Invasion" tvg-logo="https://images.pluto.tv/channels/650999b86a841400083bd1ab/colorLogoPNG.png" tvg-country="SE" tvg-language="dan" group-title="SE Documentary",Pluto TV Alien Invasion
@@ -339,18 +331,18 @@ http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
 https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
 #EXTINF:-1 tvg-id="Atlas.us" tvg-name="Atlas" tvg-logo="https://whiplash.cc/assets/img/channels/atlas.png" tvg-country="US" tvg-language="eng" group-title="US Documentary",Atlas (480p)
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
+#EXTINF:-1 tvg-id="Backstage.us" tvg-name="Backstage" tvg-logo="https://i.imgur.com/qcTNvNU.png" tvg-country="US" tvg-language="eng" group-title="US Documentary",Backstage (1080p)
+https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" tvg-country="US" tvg-language="eng" group-title="US Documentary",Bloomberg Originals (1080p)
-https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8
+https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="BritBoxMysteries.us" tvg-name="BritBox Mysteries" tvg-logo="https://i.imgur.com/PJdzoLN.png" tvg-country="US" tvg-language="eng" group-title="US Documentary",BritBox Mysteries (1080p)
 https://pb-ippotemhtglhp.akamaized.net/playlist.m3u8
-#EXTINF:-1 tvg-id="Backstage.us" tvg-name="Backstage" tvg-logo="https://i.imgur.com/qcTNvNU.png" tvg-country="US" tvg-language="eng" group-title="US Documentary",Complex TV (1080p)
-https://fusexl-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" tvg-logo="https://i.imgur.com/jOKA735.png" tvg-country="US" tvg-language="eng" group-title="US Documentary",Court TV (1080p)
-https://pb-2rv53xe17yzvq.akamaized.net/Court_TV_US.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="DangerTV.us" tvg-name="Danger TV" tvg-logo="https://i.imgur.com/4aTk45R.png" tvg-country="US" tvg-language="eng" group-title="US Documentary",DangerTV (720p)
 https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us" tvg-name="Dateline 24/7" tvg-logo="https://i.imgur.com/8mAJuut.png" tvg-country="US" tvg-language="eng" group-title="US Documentary",Dateline 24/7 (1080p)
-https://d4whmvwm0rdvi.cloudfront.net/10007/99993007/hls/master.m3u8?ads.xumo_channelId=99993007
+https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
 #EXTINF:-1 tvg-id="DeadlyWomen.us" tvg-name="Deadly Women" tvg-logo="https://i.imgur.com/dDVZ5Vd.png" tvg-country="US" tvg-language="eng" group-title="US Documentary",Deadly Women (1080p)
 https://d1mgh147xpmgs8.cloudfront.net/DeadlyWomen_GB.m3u8
 #EXTINF:-1 tvg-id="DetetivesMedicos.us" tvg-name="Detetives Medicos" tvg-logo="https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png" tvg-country="US" tvg-language="por" group-title="US Documentary",Detetives Médicos
@@ -363,8 +355,8 @@ http://45.171.64.30:6060/play/a032/index.m3u8
 http://85.237.89.159:3342/ar-s/Discovery-HD/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryFamily.us@East" tvg-name="Discovery Family" tvg-logo="https://i.ibb.co/CK3VrYmc/IMG-2812.png" tvg-country="US" group-title="US Documentary",Discovery Family (720p)
 https://tvsen5.aynaott.com/discoveryfamily/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us" tvg-name="Discovery Kids Latin America" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" tvg-country="US" tvg-language="spa" group-title="US Documentary",Discovery Kids Latin America (1080p)
-http://181.224.200.5:2277/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Colombia" tvg-name="Discovery Kids Latin America" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" tvg-country="US" tvg-language="spa" group-title="US Documentary",Discovery Kids Latin America Colombia (1080p)
+http://38.134.250.110:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="Discovery Science Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png" tvg-country="US" tvg-language="spa" group-title="US Documentary",Discovery Science Latin America (720p)
 http://45.171.64.30:6060/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTheaterLatinAmerica.us" tvg-name="Discovery Theater Latin America" tvg-logo="https://i.imgur.com/AqR0Jkn.png" tvg-country="US" tvg-language="spa" group-title="US Documentary",Discovery Theater Latin America (1080p)
@@ -388,7 +380,7 @@ https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
 #EXTINF:-1 tvg-id="History.us" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-country="US" tvg-language="eng" group-title="US Documentary",History (720p)
 http://212.5.144.156:8080/history/index.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-name="History 2 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" tvg-country="US" tvg-language="spa" group-title="US Documentary",History 2 Latin America (1080p)
-http://181.225.190.242:8000/play/a023
+http://138.121.15.230:9002/HISTORY-2/index.m3u8
 #EXTINF:-1 tvg-id="HistoryAsia.us" tvg-name="History Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-country="US" tvg-language="eng" group-title="US Documentary",History Asia (720p)
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
 #EXTINF:-1 tvg-id="HistoryLatinAmerica.us" tvg-name="History Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-country="US" tvg-language="spa" group-title="US Documentary",History Latin America (1080p)
@@ -400,7 +392,7 @@ http://212.5.144.156:8080/id/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us@South" tvg-name="Investigation Discovery Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" tvg-country="US" tvg-language="spa" group-title="US Documentary",Investigation Discovery Latin America South
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
 #EXTINF:-1 tvg-id="LawCrime.us" tvg-name="Law & Crime" tvg-logo="https://yt3.googleusercontent.com/CRP3YudPa55QypbDnIvuh3erLZTsn2HK8ESR-2fJFFiLJVf7US2CKQELCKK_UowmHA3wCjAdxg=s512-c-k-c0x00ffffff-no-rj" tvg-country="US" tvg-language="eng" group-title="US Documentary",Law & Crime (720p)
-https://cdn.lawandcrime.net/rewind/playlist.m3u8
+https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNatureenEspanol.us" tvg-name="Love Nature en Espanol" tvg-logo="https://i.imgur.com/7uNdcWB.png" tvg-country="US" tvg-language="eng" group-title="US Documentary",Love Nature en Español (1080p)
 https://amg01515-amg01515c17-vizio-us-10418.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LuckyDog.us" tvg-name="Lucky Dog" tvg-logo="https://i.imgur.com/1j4gwL3.png" tvg-country="US" tvg-language="eng" group-title="US Documentary",Lucky Dog (720p)
@@ -445,8 +437,8 @@ https://amg13231-actve-amg13231c5-vizio-us-6143.playouts.now.amagi.tv/playlist.m
 https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="SensingMurder.us" tvg-name="Sensing Murder" tvg-logo="https://i.imgur.com/HYEABSt.png" tvg-country="US" tvg-language="eng" group-title="US Documentary",Sensing Murder
 https://jmp2.uk/plu-5e9ed47c26ebb000074af566.m3u8
-#EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.us" tvg-name="Smithsonian Channel Pluto TV" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" tvg-country="US" tvg-language="por" group-title="US Documentary",Smithsonian Channel Pluto TV
-https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
+#EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.us@LatAm" tvg-name="Smithsonian Channel Pluto TV" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" tvg-country="US" tvg-language="spa" group-title="US Documentary",Smithsonian Channel Pluto TV
+https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelSelects.us" tvg-name="Smithsonian Channel Selects" tvg-logo="https://i.imgur.com/Kt5j8Vr.png" tvg-country="US" tvg-language="eng" group-title="US Documentary",Smithsonian Channel Selects
 https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
 #EXTINF:-1 tvg-id="SpikePlutoTV.us" tvg-name="Spike Pluto TV" tvg-logo="https://i.imgur.com/woY8Ecb.png" tvg-country="US" tvg-language="eng" group-title="US Documentary",Spike Pluto TV

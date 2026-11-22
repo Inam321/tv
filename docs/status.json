@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-21T09:58:13Z",
+  "updated_at": "2026-11-22T09:56:56Z",
   "playlists": [
     {
       "file": "news.m3u",
       "title": "India + Pakistan News",
       "streams_tested": 659,
-      "channels_working": 286,
+      "channels_working": 283,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "segment HTTP 404": 38,
-        "HTTP 404": 32,
+        "HTTP 404": 39,
+        "segment HTTP 404": 33,
         "HTTP 403": 23,
         "unreachable (timed out) after 3 tries": 14,
         "HTTP 400": 4
@@ -19,15 +19,15 @@
     {
       "file": "sports.m3u",
       "title": "International Sports",
-      "streams_tested": 671,
-      "channels_working": 292,
+      "streams_tested": 672,
+      "channels_working": 296,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 403": 85,
+        "HTTP 403": 84,
         "unreachable (timed out) after 3 tries": 60,
-        "HTTP 404": 46,
-        "unreachable ([Errno -2] Name or service not known) after 3 tries": 12,
+        "HTTP 404": 49,
+        "unreachable ([Errno -2] Name or service not known) after 3 tries": 11,
         "HTTP 400": 7
       }
     },
@@ -35,74 +35,74 @@
       "file": "entertainment.m3u",
       "title": "India + Pakistan Entertainment",
       "streams_tested": 252,
-      "channels_working": 105,
+      "channels_working": 106,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
         "HTTP 403": 14,
         "unreachable (timed out) after 3 tries": 14,
-        "HTTP 404": 13,
-        "segment HTTP 404": 8,
+        "HTTP 404": 11,
+        "segment HTTP 404": 6,
         "unreachable ([Errno 111] Connection refused) after 3 tries": 6
       }
     },
     {
       "file": "documentary.m3u",
       "title": "World Documentary & Knowledge",
-      "streams_tested": 405,
-      "channels_working": 214,
+      "streams_tested": 406,
+      "channels_working": 211,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 403": 26,
+        "HTTP 403": 27,
+        "HTTP 404": 23,
         "unreachable (timed out) after 3 tries": 23,
-        "HTTP 404": 22,
         "unreachable ([Errno -2] Name or service not known) after 3 tries": 12,
-        "segment empty": 5
+        "segment HTTP 404": 7
       }
     },
     {
       "file": "music.m3u",
       "title": "India + Pakistan Music",
       "streams_tested": 125,
-      "channels_working": 54,
+      "channels_working": 53,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 404": 7,
+        "HTTP 404": 9,
         "HTTP 403": 5,
-        "segment HTTP 404": 2,
+        "segment HTTP 404": 4,
         "unreachable ([SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 ) after 3 tries": 1,
-        "segment empty": 1
+        "unreachable ([Errno -5] No address associated with ho) after 3 tries": 1
       }
     },
     {
       "file": "movies.m3u",
       "title": "India + Pakistan Movies",
       "streams_tested": 131,
-      "channels_working": 64,
+      "channels_working": 63,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
         "HTTP 403": 8,
-        "segment empty": 5,
+        "segment empty": 4,
+        "segment HTTP 404": 3,
         "unreachable (timed out) after 3 tries": 3,
-        "HTTP 404": 1,
-        "unreachable ([Errno 111] Connection refused) after 3 tries": 1
+        "HTTP 404": 2
       }
     },
     {
       "file": "kids.m3u",
       "title": "India + Pakistan Kids",
       "streams_tested": 33,
-      "channels_working": 13,
+      "channels_working": 14,
       "channels_unverified": 0,
       "kept_previous": false,
       "top_failures": {
         "unreachable (timed out) after 3 tries": 5,
         "unreachable ([Errno 111] Connection refused) after 3 tries": 4,
-        "empty response": 3,
         "segment empty": 2,
+        "segment HTTP 404": 2,
         "HTTP 456": 1
       }
     },
